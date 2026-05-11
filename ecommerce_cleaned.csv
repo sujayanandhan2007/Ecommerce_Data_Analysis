@@ -1,0 +1,1201 @@
+order_id,date,customer_age,gender,country,category,unit_price,quantity,discount,payment_method,order_status,customer_rating,revenue,year,month,month_name,weekday,quarter,age_group
+Ord-10784,2022-09-19 08:00:00,50,Other,France,Electronics,33.0,1,0.09,Paypal,Completed,3,30.03,2022,9,Sep,Monday,3,46-55
+Ord-10504,2022-06-18 00:00:00,46,Female,Uk,Sports,76.38,12,0.21,Crypto,Cancelled,4,724.08,2022,6,Jun,Saturday,2,46-55
+Ord-10894,2022-10-26 00:00:00,50,Other,Canada,Clothing,15.01,2,0.39,Bank Transfer,Completed,5,18.31,2022,10,Oct,Wednesday,4,46-55
+Ord-11125,2023-01-11 00:00:00,28,Male,Australia,Toys,73.86,8,0.33,Debit Card,Refunded,5,395.89,2023,1,Jan,Wednesday,1,26-35
+Ord-10356,2022-04-29 16:00:00,68,Female,Australia,Beauty,115.23,9,0.07,Bank Transfer,Pending,5,964.48,2022,4,Apr,Friday,2,56-70
+Ord-10350,2022-04-27 16:00:00,39,Male,France,Toys,62.93,14,0.22,Paypal,Completed,2,687.2,2022,4,Apr,Wednesday,2,36-45
+Ord-10619,2022-07-26 08:00:00,54,Other,Uk,Home & Garden,46.54,6,0.05,Bank Transfer,Cancelled,5,265.28,2022,7,Jul,Tuesday,3,46-55
+Ord-10712,2022-08-26 08:00:00,27,Female,France,Sports,116.68,6,0.11,Bank Transfer,Completed,1,623.07,2022,8,Aug,Friday,3,26-35
+Ord-10378,2022-05-07 00:00:00,63,Female,Germany,Toys,184.91,8,0.12,Credit Card,Completed,4,1301.77,2022,5,May,Saturday,2,56-70
+Ord-10757,2022-09-10 08:00:00,20,Female,Uk,Toys,143.25,2,0.36,Debit Card,Completed,3,183.36,2022,9,Sep,Saturday,3,18-25
+Ord-11155,2023-01-21 00:00:00,54,Other,Usa,Sports,60.78,8,0.39,Credit Card,Refunded,5,296.61,2023,1,Jan,Saturday,1,46-55
+Ord-11079,2022-12-26 16:00:00,32,Male,Brazil,Food & Beverage,18.63,2,0.25,Credit Card,Pending,3,27.94,2022,12,Dec,Monday,4,26-35
+Ord-10453,2022-06-01 00:00:00,69,Male,France,Electronics,236.03,13,0.01,Credit Card,Completed,4,1462.3449999999998,2022,6,Jun,Wednesday,2,56-70
+Ord-10447,2022-05-30 00:00:00,39,Male,France,Beauty,42.2,3,0.35,Debit Card,Completed,5,82.29,2022,5,May,Monday,2,36-45
+Ord-10703,2022-08-23 08:00:00,62,Female,Brazil,Beauty,145.28,2,0.3,Debit Card,Completed,4,203.39,2022,8,Aug,Tuesday,3,56-70
+Ord-10797,2022-09-23 16:00:00,64,Other,Germany,Food & Beverage,77.02,1,0.4,Crypto,Cancelled,3,46.21,2022,9,Sep,Friday,3,56-70
+Ord-10160,2022-02-23 08:00:00,69,Female,Australia,Beauty,24.83,9,0.17,Debit Card,Completed,4,185.48,2022,2,Feb,Wednesday,1,56-70
+Ord-10254,2022-03-26 16:00:00,65,Male,Australia,Books,99.52,14,0.32,Paypal,Completed,4,947.43,2022,3,Mar,Saturday,1,56-70
+Ord-10841,2022-10-08 08:00:00,43,Female,Usa,Food & Beverage,29.62,12,0.32,Bank Transfer,Pending,5,241.7,2022,10,Oct,Saturday,4,36-45
+Ord-10257,2022-03-27 16:00:00,26,Female,Canada,Books,8.61,10,0.28,Paypal,Completed,3,61.99,2022,3,Mar,Sunday,1,26-35
+Ord-11009,2022-12-03 08:00:00,56,Male,Germany,Clothing,27.32,3,0.19,Debit Card,Completed,1,66.39,2022,12,Dec,Saturday,4,56-70
+Ord-10128,2022-02-12 16:00:00,65,Male,Brazil,Beauty,72.41,3,0.25,Bank Transfer,Pending,1,162.92,2022,2,Feb,Saturday,1,56-70
+Ord-10846,2022-10-10 00:00:00,68,Female,Usa,Electronics,249.85750000000002,4,0.06,Credit Card,Pending,3,1462.3449999999998,2022,10,Oct,Monday,4,56-70
+Ord-10119,2022-02-09 16:00:00,56,Other,France,Electronics,151.5,12,0.14,Credit Card,Refunded,2,1462.3449999999998,2022,2,Feb,Wednesday,1,56-70
+Ord-10153,2022-02-21 00:00:00,43,Other,France,Beauty,41.09,8,0.08,Paypal,Completed,4,302.42,2022,2,Feb,Monday,1,36-45
+Ord-10787,2022-09-20 08:00:00,45,Male,Usa,Toys,204.84,13,0.25,Credit Card,Completed,5,1462.3449999999998,2022,9,Sep,Tuesday,3,36-45
+Ord-10776,2022-09-16 16:00:00,45,Female,Brazil,Sports,45.85,8,0.16,Crypto,Completed,3,308.11,2022,9,Sep,Friday,3,36-45
+Ord-10572,2022-07-10 16:00:00,61,Female,Brazil,Clothing,8.57,6,0.34,Credit Card,Completed,5,33.94,2022,7,Jul,Sunday,3,56-70
+Ord-10667,2022-08-11 08:00:00,52,Other,Uk,Toys,45.52,7,0.4,Crypto,Completed,4,191.18,2022,8,Aug,Thursday,3,46-55
+Ord-10906,2022-10-30 00:00:00,27,Male,Uk,Home & Garden,128.45,8,0.08,Credit Card,Cancelled,5,945.39,2022,10,Oct,Sunday,4,26-35
+Ord-10403,2022-05-15 08:00:00,41,Male,Germany,Books,174.0,12,0.39,Crypto,Completed,5,1273.68,2022,5,May,Sunday,2,36-45
+Ord-10615,2022-07-25 00:00:00,49,Male,Germany,Home & Garden,47.62,1,0.25,Bank Transfer,Completed,5,35.71,2022,7,Jul,Monday,3,46-55
+Ord-10372,2022-05-05 00:00:00,66,Other,Brazil,Electronics,5.41,4,0.36,Bank Transfer,Completed,4,13.85,2022,5,May,Thursday,2,56-70
+Ord-10628,2022-07-29 08:00:00,34,Male,Usa,Beauty,5.73,8,0.17,Debit Card,Completed,5,38.05,2022,7,Jul,Friday,3,26-35
+Ord-10491,2022-06-13 16:00:00,18,Other,Brazil,Books,199.28,8,0.24,Credit Card,Completed,5,1211.62,2022,6,Jun,Monday,2,18-25
+Ord-10450,2022-05-31 00:00:00,43,Female,Usa,Books,5.08,9,0.28,Bank Transfer,Completed,4,32.92,2022,5,May,Tuesday,2,36-45
+Ord-10767,2022-09-13 16:00:00,29,Female,India,Beauty,19.55,11,0.04,Credit Card,Completed,5,206.45,2022,9,Sep,Tuesday,3,26-35
+Ord-10618,2022-07-26 00:00:00,49,Other,India,Clothing,13.2,11,0.24,Paypal,Completed,5,110.35,2022,7,Jul,Tuesday,3,46-55
+Ord-10245,2022-03-23 16:00:00,34,Female,Usa,Food & Beverage,249.85750000000002,12,0.07,Credit Card,Completed,3,1462.3449999999998,2022,3,Mar,Wednesday,1,26-35
+Ord-11170,2023-01-26 00:00:00,31,Female,Germany,Electronics,170.88,9,0.1,Debit Card,Completed,5,1384.13,2023,1,Jan,Thursday,1,26-35
+Ord-10985,2022-11-25 08:00:00,19,Female,Australia,Clothing,44.16,3,0.07,Bank Transfer,Completed,4,123.21,2022,11,Nov,Friday,4,18-25
+Ord-10057,2022-01-20 00:00:00,64,Other,India,Sports,37.29,8,0.24,Paypal,Completed,4,226.72,2022,1,Jan,Thursday,1,56-70
+Ord-10224,2022-03-16 16:00:00,54,Female,Uk,Home & Garden,83.11,1,0.01,Debit Card,Pending,5,82.28,2022,3,Mar,Wednesday,1,46-55
+Ord-10292,2022-04-08 08:00:00,69,Other,Usa,Home & Garden,249.85750000000002,1,0.32,Credit Card,Completed,4,255.81,2022,4,Apr,Friday,2,56-70
+Ord-10260,2022-03-28 16:00:00,46,Male,France,Toys,69.92,6,0.06,Credit Card,Refunded,3,394.35,2022,3,Mar,Monday,1,46-55
+Ord-10390,2022-05-11 00:00:00,69,Other,Brazil,Toys,167.09,4,0.02,Credit Card,Refunded,4,654.99,2022,5,May,Wednesday,2,56-70
+Ord-10817,2022-09-30 08:00:00,66,Other,India,Food & Beverage,56.23,3,0.27,Crypto,Completed,5,123.14,2022,9,Sep,Friday,3,56-70
+Ord-10377,2022-05-06 16:00:00,46,Female,India,Books,14.27,8,0.12,Bank Transfer,Completed,4,100.46,2022,5,May,Friday,2,46-55
+Ord-10342,2022-04-25 00:00:00,24,Male,Usa,Food & Beverage,144.99,12,0.34,Credit Card,Completed,4,1148.32,2022,4,Apr,Monday,2,18-25
+Ord-10647,2022-08-04 16:00:00,69,Other,Canada,Food & Beverage,40.3,3,0.07,Debit Card,Pending,4,112.44,2022,8,Aug,Thursday,3,56-70
+Ord-10386,2022-05-09 16:00:00,63,Female,India,Clothing,67.78,8,0.11,Bank Transfer,Completed,3,482.59,2022,5,May,Monday,2,56-70
+Ord-10129,2022-02-13 00:00:00,40,Male,France,Clothing,179.76,7,0.18,Credit Card,Completed,4,1031.82,2022,2,Feb,Sunday,1,36-45
+Ord-10141,2022-02-17 00:00:00,64,Female,Uk,Beauty,12.27,9,0.17,Credit Card,Completed,5,91.66,2022,2,Feb,Thursday,1,56-70
+Ord-10565,2022-07-08 08:00:00,29,Female,Uk,Toys,57.2,11,0.16,Crypto,Cancelled,2,528.53,2022,7,Jul,Friday,3,26-35
+Ord-10669,2022-08-12 00:00:00,46,Male,Brazil,Toys,97.66,13,0.13,Bank Transfer,Completed,1,1104.53,2022,8,Aug,Friday,3,46-55
+Ord-10542,2022-06-30 16:00:00,49,Other,France,Toys,15.61,8,0.27,Crypto,Completed,4,91.16,2022,6,Jun,Thursday,2,46-55
+Ord-10396,2022-05-13 00:00:00,35,Other,Uk,Books,217.84,9,0.08,Bank Transfer,Completed,5,1462.3449999999998,2022,5,May,Friday,2,26-35
+Ord-10685,2022-08-17 08:00:00,26,Female,Usa,Clothing,109.99,4,0.31,Bank Transfer,Completed,1,303.57,2022,8,Aug,Wednesday,3,26-35
+Ord-10083,2022-01-28 16:00:00,32,Female,Uk,Sports,24.89,12,0.39,Credit Card,Pending,3,182.19,2022,1,Jan,Friday,1,26-35
+Ord-10154,2022-02-21 08:00:00,59,Female,Germany,Food & Beverage,7.79,13,0.38,Credit Card,Completed,3,62.79,2022,2,Feb,Monday,1,56-70
+Ord-10225,2022-03-17 00:00:00,66,Other,India,Home & Garden,56.43,10,0.07,Credit Card,Completed,5,524.8,2022,3,Mar,Thursday,1,56-70
+Ord-10285,2022-04-06 00:00:00,43,Female,India,Home & Garden,91.7,6,0.12,Bank Transfer,Completed,5,484.18,2022,4,Apr,Wednesday,2,36-45
+Ord-10063,2022-01-22 00:00:00,31,Male,Brazil,Toys,23.41,14,0.12,Crypto,Completed,5,288.41,2022,1,Jan,Saturday,1,26-35
+Ord-10376,2022-05-06 08:00:00,47,Male,Usa,Beauty,249.85750000000002,3,0.22,Credit Card,Completed,4,624.48,2022,5,May,Friday,2,46-55
+Ord-10318,2022-04-17 00:00:00,57,Male,Usa,Beauty,8.69,5,0.29,Credit Card,Completed,5,30.85,2022,4,Apr,Sunday,2,56-70
+Ord-10681,2022-08-16 00:00:00,63,Other,Usa,Home & Garden,229.83,5,0.26,Credit Card,Completed,4,850.37,2022,8,Aug,Tuesday,3,56-70
+Ord-11142,2023-01-16 16:00:00,52,Male,Uk,Clothing,42.63,9,0.33,Debit Card,Cancelled,2,257.06,2023,1,Jan,Monday,1,46-55
+Ord-10234,2022-03-20 00:00:00,50,Other,Brazil,Food & Beverage,5.19,2,0.11,Bank Transfer,Completed,4,9.24,2022,3,Mar,Sunday,1,46-55
+Ord-10953,2022-11-14 16:00:00,63,Female,Usa,Home & Garden,41.31,6,0.3,Credit Card,Completed,5,173.5,2022,11,Nov,Monday,4,56-70
+Ord-10852,2022-10-12 00:00:00,57,Female,Usa,Electronics,86.77,13,0.14,Credit Card,Completed,2,970.09,2022,10,Oct,Wednesday,4,56-70
+Ord-11159,2023-01-22 08:00:00,43,Female,Australia,Sports,126.28,6,0.3,Crypto,Completed,4,530.38,2023,1,Jan,Sunday,1,36-45
+Ord-10982,2022-11-24 08:00:00,40,Other,France,Electronics,64.64,1,0.22,Paypal,Completed,5,50.42,2022,11,Nov,Thursday,4,36-45
+Ord-10124,2022-02-11 08:00:00,25,Other,France,Home & Garden,22.46,10,0.28,Crypto,Completed,2,161.71,2022,2,Feb,Friday,1,18-25
+Ord-10259,2022-03-28 08:00:00,33,Other,Usa,Clothing,249.85750000000002,4,0.26,Debit Card,Completed,5,1462.3449999999998,2022,3,Mar,Monday,1,26-35
+Ord-10805,2022-09-26 08:00:00,50,Male,Brazil,Food & Beverage,28.62,12,0.37,Paypal,Completed,5,216.37,2022,9,Sep,Monday,3,46-55
+Ord-11128,2023-01-12 00:00:00,43,Male,Germany,Clothing,19.03,4,0.21,Crypto,Completed,3,60.13,2023,1,Jan,Thursday,1,36-45
+Ord-11019,2022-12-06 16:00:00,27,Other,Usa,Clothing,233.94,1,0.07,Debit Card,Pending,3,217.56,2022,12,Dec,Tuesday,4,26-35
+Ord-10587,2022-07-15 16:00:00,43,Other,Germany,Food & Beverage,48.02,9,0.06,Debit Card,Pending,5,406.25,2022,7,Jul,Friday,3,36-45
+Ord-10559,2022-07-06 08:00:00,52,Other,Uk,Toys,8.33,3,0.13,Credit Card,Cancelled,1,21.74,2022,7,Jul,Wednesday,3,46-55
+Ord-10480,2022-06-10 00:00:00,43,Other,India,Food & Beverage,56.02,5,0.08,Credit Card,Completed,5,257.69,2022,6,Jun,Friday,2,36-45
+Ord-11004,2022-12-01 16:00:00,54,Female,Usa,Sports,60.35,5,0.12,Credit Card,Completed,1,265.54,2022,12,Dec,Thursday,4,46-55
+Ord-10086,2022-01-29 16:00:00,40,Female,India,Toys,249.85750000000002,10,0.36,Debit Card,Completed,5,1462.3449999999998,2022,1,Jan,Saturday,1,36-45
+Ord-10574,2022-07-11 08:00:00,30,Male,Usa,Beauty,6.69,9,0.18,Paypal,Refunded,4,49.37,2022,7,Jul,Monday,3,26-35
+Ord-10463,2022-06-04 08:00:00,22,Other,Uk,Sports,167.03,4,0.04,Paypal,Pending,3,641.4,2022,6,Jun,Saturday,2,18-25
+Ord-11143,2023-01-17 00:00:00,18,Other,Australia,Clothing,66.9,12,0.23,Bank Transfer,Pending,3,618.16,2023,1,Jan,Tuesday,1,18-25
+Ord-10536,2022-06-28 16:00:00,53,Female,Brazil,Electronics,22.94,9,0.26,Debit Card,Completed,3,152.78,2022,6,Jun,Tuesday,2,46-55
+Ord-10080,2022-01-27 16:00:00,31,Male,Canada,Clothing,34.86,7,0.0,Crypto,Pending,5,244.02,2022,1,Jan,Thursday,1,26-35
+Ord-11146,2023-01-18 00:00:00,46,Other,France,Beauty,151.59,1,0.16,Paypal,Completed,5,127.34,2023,1,Jan,Wednesday,1,46-55
+Ord-11126,2023-01-11 08:00:00,32,Other,Australia,Home & Garden,172.74,6,0.05,Credit Card,Cancelled,4,984.62,2023,1,Jan,Wednesday,1,26-35
+Ord-10152,2022-02-20 16:00:00,32,Other,Canada,Books,144.49,1,0.38,Bank Transfer,Cancelled,2,89.58,2022,2,Feb,Sunday,1,26-35
+Ord-11085,2022-12-28 16:00:00,61,Male,Germany,Food & Beverage,68.9,8,0.1,Credit Card,Refunded,3,496.08,2022,12,Dec,Wednesday,4,56-70
+Ord-10042,2022-01-15 00:00:00,68,Other,India,Home & Garden,249.85750000000002,4,0.15,Credit Card,Completed,3,1462.3449999999998,2022,1,Jan,Saturday,1,56-70
+Ord-10116,2022-02-08 16:00:00,50,Other,Uk,Toys,64.82,5,0.16,Debit Card,Completed,1,272.24,2022,2,Feb,Tuesday,1,46-55
+Ord-11131,2023-01-13 00:00:00,48,Male,Australia,Food & Beverage,113.29,7,0.12,Debit Card,Completed,3,697.87,2023,1,Jan,Friday,1,46-55
+Ord-10721,2022-08-29 08:00:00,37,Female,France,Beauty,173.23,2,0.03,Debit Card,Completed,4,336.07,2022,8,Aug,Monday,3,36-45
+Ord-10236,2022-03-20 16:00:00,36,Male,India,Home & Garden,5.42,3,0.36,Debit Card,Completed,3,10.41,2022,3,Mar,Sunday,1,36-45
+Ord-11064,2022-12-21 16:00:00,43,Male,Uk,Beauty,5.84,2,0.37,Debit Card,Completed,2,7.36,2022,12,Dec,Wednesday,4,36-45
+Ord-11061,2022-12-20 16:00:00,57,Female,Brazil,Books,25.69,3,0.01,Credit Card,Pending,2,76.3,2022,12,Dec,Tuesday,4,56-70
+Ord-10233,2022-03-19 16:00:00,49,Female,Uk,Sports,11.48,11,0.3,Debit Card,Completed,5,88.4,2022,3,Mar,Saturday,1,46-55
+Ord-10959,2022-11-16 16:00:00,44,Male,Uk,Clothing,117.28,11,0.23,Credit Card,Completed,3,993.36,2022,11,Nov,Wednesday,4,36-45
+Ord-11099,2023-01-02 08:00:00,31,Male,Uk,Electronics,85.86,13,0.2,Credit Card,Completed,4,892.94,2023,1,Jan,Monday,1,26-35
+Ord-10770,2022-09-14 16:00:00,25,Other,Brazil,Clothing,93.72,4,0.3,Debit Card,Completed,5,262.42,2022,9,Sep,Wednesday,3,18-25
+Ord-10305,2022-04-12 16:00:00,65,Male,Canada,Home & Garden,45.64,7,0.02,Credit Card,Completed,4,313.09,2022,4,Apr,Tuesday,2,56-70
+Ord-11002,2022-12-01 00:00:00,32,Male,Brazil,Food & Beverage,29.72,10,0.37,Debit Card,Completed,4,187.24,2022,12,Dec,Thursday,4,26-35
+Ord-10581,2022-07-13 16:00:00,52,Other,France,Toys,24.93,11,0.05,Credit Card,Refunded,4,260.52,2022,7,Jul,Wednesday,3,46-55
+Ord-11161,2023-01-23 00:00:00,42,Other,Brazil,Beauty,16.86,12,0.26,Credit Card,Completed,5,149.72,2023,1,Jan,Monday,1,36-45
+Ord-10262,2022-03-29 08:00:00,37,Other,Usa,Beauty,35.02,2,0.22,Crypto,Cancelled,4,54.63,2022,3,Mar,Tuesday,1,36-45
+Ord-10088,2022-01-30 08:00:00,43,Female,Australia,Beauty,70.19,10,0.31,Paypal,Completed,5,484.31,2022,1,Jan,Sunday,1,36-45
+Ord-10053,2022-01-18 16:00:00,43,Other,Brazil,Beauty,26.53,7,0.17,Crypto,Completed,4,154.14,2022,1,Jan,Tuesday,1,36-45
+Ord-10594,2022-07-18 00:00:00,21,Male,Canada,Food & Beverage,62.72,3,0.04,Debit Card,Pending,3,180.63,2022,7,Jul,Monday,3,18-25
+Ord-10211,2022-03-12 08:00:00,49,Other,Usa,Clothing,80.41,9,0.14,Paypal,Completed,4,622.37,2022,3,Mar,Saturday,1,46-55
+Ord-10935,2022-11-08 16:00:00,46,Other,India,Food & Beverage,249.26,8,0.34,Credit Card,Completed,3,1316.09,2022,11,Nov,Tuesday,4,46-55
+Ord-10172,2022-02-27 08:00:00,30,Other,Usa,Toys,46.21,5,0.3,Paypal,Completed,4,161.73,2022,2,Feb,Sunday,1,26-35
+Ord-11049,2022-12-16 16:00:00,43,Male,India,Sports,233.22,6,0.09,Credit Card,Completed,3,1273.38,2022,12,Dec,Friday,4,36-45
+Ord-10803,2022-09-25 16:00:00,62,Female,France,Home & Garden,122.55,4,0.24,Bank Transfer,Pending,4,372.55,2022,9,Sep,Sunday,3,56-70
+Ord-10167,2022-02-25 16:00:00,62,Female,India,Toys,21.08,14,0.36,Paypal,Cancelled,5,188.88,2022,2,Feb,Friday,1,56-70
+Ord-10017,2022-01-06 16:00:00,43,Female,India,Electronics,60.82,10,0.15,Bank Transfer,Completed,2,516.97,2022,1,Jan,Thursday,1,36-45
+Ord-10076,2022-01-26 08:00:00,61,Male,Uk,Food & Beverage,27.83,10,0.31,Credit Card,Completed,1,192.03,2022,1,Jan,Wednesday,1,56-70
+Ord-10300,2022-04-11 00:00:00,49,Female,Germany,Home & Garden,12.42,4,0.28,Paypal,Completed,4,35.77,2022,4,Apr,Monday,2,46-55
+Ord-10408,2022-05-17 00:00:00,40,Male,Usa,Books,5.09,12,0.05,Paypal,Completed,5,58.03,2022,5,May,Tuesday,2,36-45
+Ord-10271,2022-04-01 08:00:00,69,Male,India,Sports,53.58,6,0.02,Credit Card,Refunded,4,315.05,2022,4,Apr,Friday,2,56-70
+Ord-10774,2022-09-16 00:00:00,25,Male,Brazil,Clothing,12.51,7,0.1,Debit Card,Refunded,5,78.81,2022,9,Sep,Friday,3,18-25
+Ord-10065,2022-01-22 16:00:00,53,Female,France,Sports,79.05,12,0.31,Paypal,Cancelled,5,654.53,2022,1,Jan,Saturday,1,46-55
+Ord-10389,2022-05-10 16:00:00,43,Other,Usa,Beauty,63.93,3,0.13,Crypto,Pending,4,166.86,2022,5,May,Tuesday,2,36-45
+Ord-10002,2022-01-01 16:00:00,46,Other,Canada,Clothing,73.11,6,0.39,Debit Card,Cancelled,5,267.58,2022,1,Jan,Saturday,1,46-55
+Ord-11069,2022-12-23 08:00:00,45,Male,Australia,Books,57.05,10,0.34,Bank Transfer,Cancelled,3,376.53,2022,12,Dec,Friday,4,36-45
+Ord-10319,2022-04-17 08:00:00,37,Female,France,Food & Beverage,14.27,3,0.18,Crypto,Completed,4,35.1,2022,4,Apr,Sunday,2,36-45
+Ord-10107,2022-02-05 16:00:00,61,Female,Australia,Clothing,57.48,11,0.09,Bank Transfer,Completed,5,575.37,2022,2,Feb,Saturday,1,56-70
+Ord-10847,2022-10-10 08:00:00,62,Male,Australia,Home & Garden,81.81,2,0.23,Credit Card,Completed,3,125.99,2022,10,Oct,Monday,4,56-70
+Ord-10711,2022-08-26 00:00:00,44,Other,India,Toys,249.85750000000002,4,0.29,Bank Transfer,Refunded,4,1152.73,2022,8,Aug,Friday,3,36-45
+Ord-11041,2022-12-14 00:00:00,51,Female,India,Beauty,134.61,8,0.11,Debit Card,Completed,4,958.42,2022,12,Dec,Wednesday,4,46-55
+Ord-10742,2022-09-05 08:00:00,38,Female,France,Books,67.53,5,0.3,Debit Card,Refunded,4,236.35,2022,9,Sep,Monday,3,36-45
+Ord-10606,2022-07-22 00:00:00,41,Female,Germany,Home & Garden,55.16,8,0.17,Credit Card,Completed,5,366.26,2022,7,Jul,Friday,3,36-45
+Ord-10547,2022-07-02 08:00:00,33,Female,Canada,Toys,33.4,9,0.12,Crypto,Completed,2,264.53,2022,7,Jul,Saturday,3,26-35
+Ord-10808,2022-09-27 08:00:00,49,Female,Uk,Electronics,157.4,4,0.08,Credit Card,Pending,5,579.23,2022,9,Sep,Tuesday,3,46-55
+Ord-11185,2023-01-31 00:00:00,57,Other,Canada,Food & Beverage,114.61,5,0.19,Credit Card,Refunded,5,464.17,2023,1,Jan,Tuesday,1,56-70
+Ord-10915,2022-11-02 00:00:00,60,Male,Brazil,Clothing,65.83,1,0.23,Debit Card,Cancelled,5,50.69,2022,11,Nov,Wednesday,4,56-70
+Ord-10860,2022-10-14 16:00:00,51,Female,India,Toys,43.05,5,0.26,Debit Card,Cancelled,4,159.28,2022,10,Oct,Friday,4,46-55
+Ord-10824,2022-10-02 16:00:00,38,Male,Uk,Clothing,28.75,6,0.28,Credit Card,Completed,3,124.2,2022,10,Oct,Sunday,4,36-45
+Ord-10812,2022-09-28 16:00:00,38,Other,France,Toys,17.97,5,0.32,Debit Card,Completed,4,61.1,2022,9,Sep,Wednesday,3,36-45
+Ord-10670,2022-08-12 08:00:00,60,Female,Brazil,Toys,6.4,7,0.09,Paypal,Cancelled,4,40.77,2022,8,Aug,Friday,3,56-70
+Ord-10837,2022-10-07 00:00:00,27,Male,Brazil,Sports,78.95,10,0.31,Credit Card,Cancelled,5,544.76,2022,10,Oct,Friday,4,26-35
+Ord-10294,2022-04-09 00:00:00,19,Male,Australia,Beauty,21.41,7,0.3,Credit Card,Completed,3,104.91,2022,4,Apr,Saturday,2,18-25
+Ord-10637,2022-08-01 08:00:00,53,Male,Brazil,Sports,52.65,11,0.0,Paypal,Completed,4,579.15,2022,8,Aug,Monday,3,46-55
+Ord-10146,2022-02-18 16:00:00,43,Male,Canada,Clothing,172.28,10,0.02,Credit Card,Completed,5,1462.3449999999998,2022,2,Feb,Friday,1,36-45
+Ord-10709,2022-08-25 08:00:00,61,Female,India,Toys,35.63,12,0.06,Credit Card,Completed,4,401.91,2022,8,Aug,Thursday,3,56-70
+Ord-10890,2022-10-24 16:00:00,68,Male,Brazil,Electronics,80.02,8,0.07,Debit Card,Completed,3,595.35,2022,10,Oct,Monday,4,56-70
+Ord-10113,2022-02-07 16:00:00,25,Female,Australia,Beauty,116.95,4,0.06,Bank Transfer,Cancelled,4,439.73,2022,2,Feb,Monday,1,18-25
+Ord-10144,2022-02-18 00:00:00,18,Female,Canada,Beauty,155.78,5,0.18,Paypal,Completed,2,638.7,2022,2,Feb,Friday,1,18-25
+Ord-10838,2022-10-07 08:00:00,27,Other,Brazil,Sports,37.91,13,0.24,Bank Transfer,Completed,5,374.55,2022,10,Oct,Friday,4,26-35
+Ord-10904,2022-10-29 08:00:00,27,Male,Brazil,Toys,170.3,6,0.27,Debit Card,Completed,4,745.91,2022,10,Oct,Saturday,4,26-35
+Ord-10518,2022-06-22 16:00:00,47,Male,Canada,Home & Garden,115.64,13,0.28,Debit Card,Completed,4,1082.39,2022,6,Jun,Wednesday,2,46-55
+Ord-10525,2022-06-25 00:00:00,43,Other,Usa,Toys,38.97,2,0.12,Bank Transfer,Completed,4,68.59,2022,6,Jun,Saturday,2,36-45
+Ord-10530,2022-06-26 16:00:00,50,Female,Usa,Books,176.33,7,0.02,Paypal,Completed,3,1209.62,2022,6,Jun,Sunday,2,46-55
+Ord-10778,2022-09-17 08:00:00,54,Other,Canada,Electronics,143.61,5,0.01,Credit Card,Pending,4,710.87,2022,9,Sep,Saturday,3,46-55
+Ord-11134,2023-01-14 00:00:00,61,Female,Uk,Books,22.25,12,0.07,Credit Card,Completed,5,248.31,2023,1,Jan,Saturday,1,56-70
+Ord-10369,2022-05-04 00:00:00,36,Male,Brazil,Sports,111.31,11,0.25,Bank Transfer,Completed,4,918.31,2022,5,May,Wednesday,2,36-45
+Ord-10864,2022-10-16 00:00:00,18,Female,Usa,Electronics,37.47,13,0.08,Paypal,Completed,2,448.14,2022,10,Oct,Sunday,4,18-25
+Ord-10512,2022-06-20 16:00:00,46,Other,Canada,Toys,107.38,4,0.36,Credit Card,Completed,5,274.89,2022,6,Jun,Monday,2,46-55
+Ord-10201,2022-03-09 00:00:00,25,Female,France,Clothing,39.94,6,0.37,Debit Card,Pending,5,150.97,2022,3,Mar,Wednesday,1,18-25
+Ord-10407,2022-05-16 16:00:00,39,Male,Brazil,Electronics,196.49,3,0.39,Credit Card,Pending,4,359.58,2022,5,May,Monday,2,36-45
+Ord-11066,2022-12-22 08:00:00,23,Female,France,Clothing,29.17,1,0.24,Bank Transfer,Refunded,1,22.17,2022,12,Dec,Thursday,4,18-25
+Ord-10926,2022-11-05 16:00:00,25,Male,Australia,Sports,220.92,12,0.12,Credit Card,Completed,4,1462.3449999999998,2022,11,Nov,Saturday,4,18-25
+Ord-10143,2022-02-17 16:00:00,20,Female,Brazil,Food & Beverage,111.52,2,0.07,Paypal,Completed,4,207.43,2022,2,Feb,Thursday,1,18-25
+Ord-10654,2022-08-07 00:00:00,42,Other,Australia,Sports,67.11,12,0.36,Paypal,Completed,5,515.4,2022,8,Aug,Sunday,3,36-45
+Ord-10199,2022-03-08 08:00:00,56,Female,Canada,Books,122.89,14,0.12,Debit Card,Completed,5,1462.3449999999998,2022,3,Mar,Tuesday,1,56-70
+Ord-10675,2022-08-14 00:00:00,26,Other,Australia,Sports,64.01,2,0.19,Crypto,Cancelled,5,103.7,2022,8,Aug,Sunday,3,26-35
+Ord-11182,2023-01-30 00:00:00,19,Male,India,Sports,85.96,8,0.14,Crypto,Refunded,1,591.4,2023,1,Jan,Monday,1,18-25
+Ord-10672,2022-08-13 00:00:00,35,Other,Germany,Books,249.85750000000002,4,0.15,Paypal,Completed,5,1000.42,2022,8,Aug,Saturday,3,26-35
+Ord-10299,2022-04-10 16:00:00,54,Other,Uk,Sports,9.33,2,0.22,Bank Transfer,Refunded,4,14.55,2022,4,Apr,Sunday,2,46-55
+Ord-10942,2022-11-11 00:00:00,35,Other,Australia,Toys,11.67,1,0.08,Bank Transfer,Completed,4,10.74,2022,11,Nov,Friday,4,26-35
+Ord-10213,2022-03-13 00:00:00,41,Male,Canada,Beauty,45.42,10,0.1,Paypal,Pending,4,408.78,2022,3,Mar,Sunday,1,36-45
+Ord-11121,2023-01-09 16:00:00,43,Female,France,Toys,80.73,12,0.08,Crypto,Completed,5,891.26,2023,1,Jan,Monday,1,36-45
+Ord-10578,2022-07-12 16:00:00,19,Male,Germany,Electronics,59.38,12,0.07,Paypal,Completed,4,662.68,2022,7,Jul,Tuesday,3,18-25
+Ord-10668,2022-08-11 16:00:00,40,Female,Australia,Sports,57.3,14,0.22,Paypal,Completed,4,625.72,2022,8,Aug,Thursday,3,36-45
+Ord-10908,2022-10-30 16:00:00,37,Other,Brazil,Electronics,71.88,3,0.06,Crypto,Completed,1,202.7,2022,10,Oct,Sunday,4,36-45
+Ord-10317,2022-04-16 16:00:00,55,Female,Australia,Beauty,197.94,14,0.28,Crypto,Completed,1,1462.3449999999998,2022,4,Apr,Saturday,2,46-55
+Ord-10223,2022-03-16 08:00:00,66,Other,Uk,Sports,18.44,12,0.02,Credit Card,Pending,1,216.85,2022,3,Mar,Wednesday,1,56-70
+Ord-10855,2022-10-13 00:00:00,45,Female,India,Beauty,96.19,4,0.17,Crypto,Completed,5,319.35,2022,10,Oct,Thursday,4,36-45
+Ord-10653,2022-08-06 16:00:00,29,Male,Canada,Electronics,70.34,13,0.32,Bank Transfer,Completed,4,621.81,2022,8,Aug,Saturday,3,26-35
+Ord-10025,2022-01-09 08:00:00,50,Other,Canada,Beauty,105.75,6,0.26,Credit Card,Completed,5,469.53,2022,1,Jan,Sunday,1,46-55
+Ord-10456,2022-06-02 00:00:00,32,Male,India,Home & Garden,64.9,9,0.18,Crypto,Pending,4,478.96,2022,6,Jun,Thursday,2,26-35
+Ord-10301,2022-04-11 08:00:00,26,Male,Uk,Books,8.07,12,0.07,Credit Card,Completed,1,90.06,2022,4,Apr,Monday,2,26-35
+Ord-11043,2022-12-14 16:00:00,23,Other,Germany,Home & Garden,7.9,9,0.15,Paypal,Pending,4,60.44,2022,12,Dec,Wednesday,4,18-25
+Ord-11075,2022-12-25 08:00:00,47,Male,Germany,Sports,58.24,10,0.39,Credit Card,Completed,4,355.26,2022,12,Dec,Sunday,4,46-55
+Ord-11030,2022-12-10 08:00:00,25,Other,Usa,Sports,25.59,5,0.22,Debit Card,Completed,3,99.8,2022,12,Dec,Saturday,4,18-25
+Ord-10602,2022-07-20 16:00:00,53,Male,Brazil,Beauty,249.85750000000002,1,0.09,Debit Card,Completed,3,357.28,2022,7,Jul,Wednesday,3,46-55
+Ord-10481,2022-06-10 08:00:00,34,Male,Brazil,Electronics,67.69,3,0.35,Paypal,Completed,3,132.0,2022,6,Jun,Friday,2,26-35
+Ord-10664,2022-08-10 08:00:00,31,Female,Germany,Toys,13.72,9,0.15,Paypal,Completed,3,104.96,2022,8,Aug,Wednesday,3,26-35
+Ord-10383,2022-05-08 16:00:00,41,Other,Australia,Food & Beverage,194.6,4,0.16,Paypal,Refunded,4,653.86,2022,5,May,Sunday,2,36-45
+Ord-11175,2023-01-27 16:00:00,40,Female,India,Clothing,102.11,4,0.02,Credit Card,Refunded,4,400.27,2023,1,Jan,Friday,1,36-45
+Ord-10351,2022-04-28 00:00:00,63,Male,France,Books,59.05,1,0.39,Paypal,Pending,4,36.02,2022,4,Apr,Thursday,2,56-70
+Ord-10638,2022-08-01 16:00:00,29,Female,Uk,Books,93.55,14,0.29,Debit Card,Completed,3,929.89,2022,8,Aug,Monday,3,26-35
+Ord-10478,2022-06-09 08:00:00,59,Other,Usa,Electronics,105.4,14,0.29,Bank Transfer,Pending,4,1047.68,2022,6,Jun,Thursday,2,56-70
+Ord-10948,2022-11-13 00:00:00,18,Male,Uk,Beauty,31.03,4,0.14,Debit Card,Completed,4,106.74,2022,11,Nov,Sunday,4,18-25
+Ord-11052,2022-12-17 16:00:00,47,Male,Australia,Food & Beverage,47.5,8,0.37,Crypto,Cancelled,3,239.4,2022,12,Dec,Saturday,4,46-55
+Ord-10101,2022-02-03 16:00:00,18,Female,Canada,Electronics,149.91,11,0.31,Debit Card,Pending,4,1137.82,2022,2,Feb,Thursday,1,18-25
+Ord-10307,2022-04-13 08:00:00,43,Male,France,Home & Garden,37.8,5,0.24,Credit Card,Refunded,2,143.64,2022,4,Apr,Wednesday,2,36-45
+Ord-10253,2022-03-26 08:00:00,28,Other,Brazil,Books,88.23,9,0.16,Paypal,Completed,4,667.02,2022,3,Mar,Saturday,1,26-35
+Ord-10951,2022-11-14 00:00:00,29,Other,Brazil,Clothing,6.43,10,0.13,Paypal,Completed,4,55.94,2022,11,Nov,Monday,4,26-35
+Ord-10500,2022-06-16 16:00:00,33,Other,Germany,Books,25.45,13,0.08,Credit Card,Pending,4,304.38,2022,6,Jun,Thursday,2,26-35
+Ord-11174,2023-01-27 08:00:00,50,Other,Germany,Electronics,25.44,4,0.02,Credit Card,Completed,3,99.72,2023,1,Jan,Friday,1,46-55
+Ord-10177,2022-03-01 00:00:00,45,Other,India,Beauty,189.67,2,0.26,Debit Card,Completed,4,280.71,2022,3,Mar,Tuesday,1,36-45
+Ord-11163,2023-01-23 16:00:00,59,Other,Usa,Home & Garden,5.15,13,0.04,Credit Card,Pending,3,64.27,2023,1,Jan,Monday,1,56-70
+Ord-11186,2023-01-31 08:00:00,68,Other,Australia,Food & Beverage,249.85750000000002,1,0.14,Credit Card,Completed,4,280.58,2023,1,Jan,Tuesday,1,56-70
+Ord-10662,2022-08-09 16:00:00,59,Male,Australia,Beauty,20.88,5,0.26,Crypto,Completed,4,77.26,2022,8,Aug,Tuesday,3,56-70
+Ord-10171,2022-02-27 00:00:00,43,Female,Brazil,Books,101.01,10,0.39,Credit Card,Pending,3,616.16,2022,2,Feb,Sunday,1,36-45
+Ord-10266,2022-03-30 16:00:00,20,Female,Germany,Toys,14.8,3,0.05,Paypal,Completed,4,42.18,2022,3,Mar,Wednesday,1,18-25
+Ord-10646,2022-08-04 08:00:00,48,Other,Germany,Home & Garden,79.42,12,0.18,Credit Card,Pending,3,781.49,2022,8,Aug,Thursday,3,46-55
+Ord-10534,2022-06-28 00:00:00,27,Other,India,Home & Garden,36.1,12,0.31,Debit Card,Completed,3,298.91,2022,6,Jun,Tuesday,2,26-35
+Ord-10835,2022-10-06 08:00:00,54,Male,Usa,Food & Beverage,38.37,10,0.07,Credit Card,Completed,4,356.84,2022,10,Oct,Thursday,4,46-55
+Ord-10034,2022-01-12 08:00:00,33,Male,Brazil,Home & Garden,199.3,10,0.3,Debit Card,Completed,4,1395.1,2022,1,Jan,Wednesday,1,26-35
+Ord-10295,2022-04-09 08:00:00,18,Female,Usa,Sports,43.76,5,0.16,Paypal,Completed,1,183.79,2022,4,Apr,Saturday,2,18-25
+Ord-11087,2022-12-29 08:00:00,23,Female,Australia,Clothing,19.3,7,0.33,Paypal,Completed,4,90.52,2022,12,Dec,Thursday,4,18-25
+Ord-10950,2022-11-13 16:00:00,58,Female,Canada,Food & Beverage,5.03,7,0.16,Credit Card,Completed,4,29.58,2022,11,Nov,Sunday,4,56-70
+Ord-10707,2022-08-24 16:00:00,48,Female,Uk,Food & Beverage,18.88,9,0.23,Paypal,Completed,4,130.84,2022,8,Aug,Wednesday,3,46-55
+Ord-10648,2022-08-05 00:00:00,36,Male,Brazil,Sports,66.0,12,0.34,Paypal,Completed,4,522.72,2022,8,Aug,Friday,3,36-45
+Ord-10365,2022-05-02 16:00:00,64,Other,Australia,Sports,157.95,5,0.35,Credit Card,Completed,4,513.34,2022,5,May,Monday,2,56-70
+Ord-10474,2022-06-08 00:00:00,69,Male,Usa,Electronics,108.11,1,0.24,Debit Card,Cancelled,5,82.16,2022,6,Jun,Wednesday,2,56-70
+Ord-11026,2022-12-09 00:00:00,64,Other,Uk,Beauty,144.5,4,0.2,Credit Card,Completed,4,462.4,2022,12,Dec,Friday,4,56-70
+Ord-10522,2022-06-24 00:00:00,29,Male,Brazil,Books,6.48,4,0.37,Paypal,Completed,3,16.33,2022,6,Jun,Friday,2,26-35
+Ord-10048,2022-01-17 00:00:00,21,Other,Canada,Food & Beverage,11.44,6,0.01,Bank Transfer,Completed,5,67.95,2022,1,Jan,Monday,1,18-25
+Ord-10859,2022-10-14 08:00:00,43,Other,Canada,Books,9.3,4,0.35,Bank Transfer,Completed,4,24.18,2022,10,Oct,Friday,4,36-45
+Ord-11054,2022-12-18 08:00:00,47,Male,Brazil,Clothing,147.01,14,0.03,Paypal,Completed,1,1462.3449999999998,2022,12,Dec,Sunday,4,46-55
+Ord-11082,2022-12-27 16:00:00,43,Male,Uk,Sports,78.01,8,0.14,Debit Card,Pending,3,536.71,2022,12,Dec,Tuesday,4,36-45
+Ord-10134,2022-02-14 16:00:00,57,Other,India,Clothing,78.95,3,0.2,Debit Card,Cancelled,4,189.48,2022,2,Feb,Monday,1,56-70
+Ord-10603,2022-07-21 00:00:00,27,Other,Canada,Home & Garden,31.71,14,0.38,Debit Card,Refunded,5,275.24,2022,7,Jul,Thursday,3,26-35
+Ord-10214,2022-03-13 08:00:00,58,Female,Brazil,Electronics,249.85750000000002,12,0.23,Credit Card,Completed,5,1462.3449999999998,2022,3,Mar,Sunday,1,56-70
+Ord-10738,2022-09-04 00:00:00,62,Other,Usa,Clothing,19.76,8,0.11,Credit Card,Refunded,3,140.69,2022,9,Sep,Sunday,3,56-70
+Ord-11157,2023-01-21 16:00:00,36,Female,India,Sports,43.94,8,0.03,Credit Card,Completed,4,340.97,2023,1,Jan,Saturday,1,36-45
+Ord-10676,2022-08-14 08:00:00,27,Other,Usa,Books,38.56,4,0.29,Bank Transfer,Completed,3,109.51,2022,8,Aug,Sunday,3,26-35
+Ord-10679,2022-08-15 08:00:00,55,Other,France,Electronics,16.39,4,0.0,Credit Card,Completed,4,65.56,2022,8,Aug,Monday,3,46-55
+Ord-10193,2022-03-06 08:00:00,18,Other,Uk,Toys,28.09,1,0.04,Debit Card,Completed,3,26.97,2022,3,Mar,Sunday,1,18-25
+Ord-11050,2022-12-17 00:00:00,65,Other,Brazil,Beauty,127.54,11,0.27,Credit Card,Completed,2,1024.15,2022,12,Dec,Saturday,4,56-70
+Ord-10870,2022-10-18 00:00:00,65,Female,India,Books,19.95,7,0.36,Bank Transfer,Cancelled,4,89.38,2022,10,Oct,Tuesday,4,56-70
+Ord-10325,2022-04-19 08:00:00,46,Other,France,Home & Garden,76.05,6,0.32,Paypal,Completed,4,310.28,2022,4,Apr,Tuesday,2,46-55
+Ord-10030,2022-01-11 00:00:00,66,Other,Australia,Beauty,25.63,13,0.24,Bank Transfer,Refunded,2,253.22,2022,1,Jan,Tuesday,1,56-70
+Ord-10003,2022-01-02 00:00:00,32,Other,Brazil,Sports,249.85750000000002,4,0.3,Paypal,Pending,4,1374.04,2022,1,Jan,Sunday,1,26-35
+Ord-10631,2022-07-30 08:00:00,65,Other,Uk,Sports,45.42,11,0.03,Credit Card,Completed,4,484.63,2022,7,Jul,Saturday,3,56-70
+Ord-10954,2022-11-15 00:00:00,51,Other,Brazil,Sports,44.08,11,0.05,Credit Card,Completed,4,460.64,2022,11,Nov,Tuesday,4,46-55
+Ord-10686,2022-08-17 16:00:00,67,Other,Canada,Electronics,18.58,1,0.22,Credit Card,Completed,5,14.49,2022,8,Aug,Wednesday,3,56-70
+Ord-10136,2022-02-15 08:00:00,44,Other,India,Food & Beverage,249.85750000000002,9,0.03,Debit Card,Refunded,5,1462.3449999999998,2022,2,Feb,Tuesday,1,36-45
+Ord-10566,2022-07-08 16:00:00,20,Male,France,Food & Beverage,81.52,7,0.22,Bank Transfer,Refunded,2,445.1,2022,7,Jul,Friday,3,18-25
+Ord-10569,2022-07-09 16:00:00,57,Other,India,Food & Beverage,114.09,8,0.34,Credit Card,Completed,4,602.4,2022,7,Jul,Saturday,3,56-70
+Ord-10415,2022-05-19 08:00:00,57,Female,Germany,Sports,70.65,11,0.11,Paypal,Pending,5,691.66,2022,5,May,Thursday,2,56-70
+Ord-10879,2022-10-21 00:00:00,68,Male,Uk,Beauty,15.21,5,0.33,Paypal,Completed,5,50.95,2022,10,Oct,Friday,4,56-70
+Ord-10588,2022-07-16 00:00:00,27,Female,India,Clothing,154.79,13,0.03,Paypal,Refunded,4,1462.3449999999998,2022,7,Jul,Saturday,3,26-35
+Ord-10541,2022-06-30 08:00:00,36,Male,Brazil,Sports,247.18,6,0.07,Crypto,Completed,4,1379.26,2022,6,Jun,Thursday,2,36-45
+Ord-10385,2022-05-09 08:00:00,66,Male,Brazil,Books,91.8,1,0.31,Crypto,Completed,3,63.34,2022,5,May,Monday,2,56-70
+Ord-10077,2022-01-26 16:00:00,51,Other,Australia,Food & Beverage,73.95,14,0.21,Crypto,Pending,3,817.89,2022,1,Jan,Wednesday,1,46-55
+Ord-10022,2022-01-08 08:00:00,43,Other,France,Toys,5.98,1,0.33,Credit Card,Completed,4,4.01,2022,1,Jan,Saturday,1,36-45
+Ord-11132,2023-01-13 08:00:00,66,Male,France,Clothing,175.59,8,0.24,Debit Card,Completed,5,1067.59,2023,1,Jan,Friday,1,56-70
+Ord-10917,2022-11-02 16:00:00,65,Female,Australia,Electronics,17.18,4,0.05,Credit Card,Completed,4,65.28,2022,11,Nov,Wednesday,4,56-70
+Ord-10520,2022-06-23 08:00:00,69,Male,Uk,Electronics,13.68,13,0.18,Credit Card,Completed,4,145.83,2022,6,Jun,Thursday,2,56-70
+Ord-11165,2023-01-24 08:00:00,35,Female,Australia,Books,7.36,11,0.23,Bank Transfer,Completed,4,62.34,2023,1,Jan,Tuesday,1,26-35
+Ord-10527,2022-06-25 16:00:00,38,Male,Brazil,Home & Garden,231.74,1,0.01,Crypto,Completed,4,229.42,2022,6,Jun,Saturday,2,36-45
+Ord-10998,2022-11-29 16:00:00,35,Female,Uk,Beauty,22.74,11,0.18,Paypal,Completed,4,205.11,2022,11,Nov,Tuesday,4,26-35
+Ord-10420,2022-05-21 00:00:00,56,Male,Brazil,Clothing,16.0,8,0.26,Paypal,Cancelled,3,94.72,2022,5,May,Saturday,2,56-70
+Ord-10969,2022-11-20 00:00:00,43,Female,India,Sports,82.0,2,0.11,Credit Card,Completed,3,145.96,2022,11,Nov,Sunday,4,36-45
+Ord-10560,2022-07-06 16:00:00,50,Other,Australia,Books,19.33,6,0.14,Bank Transfer,Pending,5,99.74,2022,7,Jul,Wednesday,3,46-55
+Ord-10716,2022-08-27 16:00:00,20,Female,Uk,Food & Beverage,89.1,13,0.09,Bank Transfer,Completed,5,1054.05,2022,8,Aug,Saturday,3,18-25
+Ord-10016,2022-01-06 08:00:00,20,Female,France,Sports,79.1,13,0.08,Credit Card,Completed,4,946.04,2022,1,Jan,Thursday,1,18-25
+Ord-10443,2022-05-28 16:00:00,51,Female,Brazil,Beauty,77.19,9,0.04,Debit Card,Completed,3,666.92,2022,5,May,Saturday,2,46-55
+Ord-10862,2022-10-15 08:00:00,67,Male,France,Clothing,249.85750000000002,9,0.35,Credit Card,Completed,4,1462.3449999999998,2022,10,Oct,Saturday,4,56-70
+Ord-10140,2022-02-16 16:00:00,54,Other,Usa,Food & Beverage,36.32,13,0.22,Paypal,Completed,3,368.28,2022,2,Feb,Wednesday,1,46-55
+Ord-10287,2022-04-06 16:00:00,52,Female,Canada,Beauty,63.75,9,0.29,Crypto,Completed,4,407.36,2022,4,Apr,Wednesday,2,46-55
+Ord-10909,2022-10-31 00:00:00,41,Other,Germany,Food & Beverage,44.68,5,0.14,Crypto,Cancelled,5,192.12,2022,10,Oct,Monday,4,36-45
+Ord-10400,2022-05-14 08:00:00,20,Female,Brazil,Electronics,175.72,4,0.11,Credit Card,Cancelled,1,625.56,2022,5,May,Saturday,2,18-25
+Ord-10763,2022-09-12 08:00:00,49,Male,France,Food & Beverage,43.25,7,0.34,Credit Card,Completed,4,199.81,2022,9,Sep,Monday,3,46-55
+Ord-10207,2022-03-11 00:00:00,59,Male,Canada,Clothing,150.16,12,0.3,Bank Transfer,Completed,3,1261.34,2022,3,Mar,Friday,1,56-70
+Ord-11068,2022-12-23 00:00:00,37,Female,Brazil,Sports,249.85750000000002,2,0.13,Paypal,Completed,2,456.16,2022,12,Dec,Friday,4,36-45
+Ord-11088,2022-12-29 16:00:00,43,Female,France,Clothing,30.59,11,0.37,Crypto,Cancelled,4,211.99,2022,12,Dec,Thursday,4,36-45
+Ord-10858,2022-10-14 00:00:00,56,Other,Australia,Sports,21.89,6,0.35,Debit Card,Cancelled,3,85.37,2022,10,Oct,Friday,4,56-70
+Ord-10018,2022-01-07 00:00:00,19,Other,Australia,Electronics,67.1,2,0.15,Debit Card,Completed,4,114.07,2022,1,Jan,Friday,1,18-25
+Ord-10886,2022-10-23 08:00:00,35,Other,Brazil,Food & Beverage,12.8,4,0.09,Credit Card,Completed,3,46.59,2022,10,Oct,Sunday,4,26-35
+Ord-11036,2022-12-12 08:00:00,58,Male,Germany,Sports,51.85,9,0.09,Credit Card,Refunded,4,424.65,2022,12,Dec,Monday,4,56-70
+Ord-10476,2022-06-08 16:00:00,30,Female,Usa,Toys,22.89,4,0.26,Bank Transfer,Pending,3,67.75,2022,6,Jun,Wednesday,2,26-35
+Ord-10704,2022-08-23 16:00:00,21,Male,Usa,Food & Beverage,92.96,3,0.24,Bank Transfer,Completed,2,211.95,2022,8,Aug,Tuesday,3,18-25
+Ord-10099,2022-02-03 00:00:00,32,Other,Brazil,Clothing,83.46,2,0.38,Credit Card,Completed,3,103.49,2022,2,Feb,Thursday,1,26-35
+Ord-10722,2022-08-29 16:00:00,43,Female,Germany,Books,35.52,1,0.28,Credit Card,Completed,4,25.57,2022,8,Aug,Monday,3,36-45
+Ord-10434,2022-05-25 16:00:00,25,Female,Australia,Sports,103.64,1,0.1,Paypal,Completed,5,93.28,2022,5,May,Wednesday,2,18-25
+Ord-10102,2022-02-04 00:00:00,42,Male,Brazil,Food & Beverage,75.83,9,0.4,Bank Transfer,Pending,4,409.48,2022,2,Feb,Friday,1,36-45
+Ord-10766,2022-09-13 08:00:00,55,Male,Canada,Clothing,22.31,10,0.03,Debit Card,Completed,3,216.41,2022,9,Sep,Tuesday,3,46-55
+Ord-10269,2022-03-31 16:00:00,49,Other,Brazil,Toys,114.34,11,0.17,Paypal,Refunded,3,1043.92,2022,3,Mar,Thursday,1,46-55
+Ord-10620,2022-07-26 16:00:00,29,Other,Uk,Electronics,76.9,14,0.13,Credit Card,Refunded,5,936.64,2022,7,Jul,Tuesday,3,26-35
+Ord-10437,2022-05-26 16:00:00,31,Female,Uk,Books,11.21,8,0.24,Crypto,Completed,4,68.16,2022,5,May,Thursday,2,26-35
+Ord-10887,2022-10-23 16:00:00,47,Female,France,Clothing,28.77,3,0.19,Debit Card,Completed,2,69.91,2022,10,Oct,Sunday,4,46-55
+Ord-10353,2022-04-28 16:00:00,55,Female,Australia,Toys,187.18,3,0.2,Crypto,Completed,4,449.23,2022,4,Apr,Thursday,2,46-55
+Ord-10430,2022-05-24 08:00:00,43,Other,Uk,Home & Garden,249.85750000000002,14,0.26,Credit Card,Completed,4,1462.3449999999998,2022,5,May,Tuesday,2,36-45
+Ord-10050,2022-01-17 16:00:00,31,Other,Brazil,Food & Beverage,151.83,4,0.13,Debit Card,Completed,5,528.37,2022,1,Jan,Monday,1,26-35
+Ord-11164,2023-01-24 00:00:00,42,Male,France,Toys,20.72,12,0.07,Credit Card,Completed,5,231.24,2023,1,Jan,Tuesday,1,36-45
+Ord-10131,2022-02-13 16:00:00,54,Male,Brazil,Electronics,107.07,5,0.38,Paypal,Refunded,4,331.92,2022,2,Feb,Sunday,1,46-55
+Ord-10272,2022-04-01 16:00:00,58,Other,Uk,Sports,64.12,1,0.39,Crypto,Refunded,5,39.11,2022,4,Apr,Friday,2,56-70
+Ord-10343,2022-04-25 08:00:00,20,Female,Uk,Beauty,134.06,12,0.0,Bank Transfer,Completed,5,1462.3449999999998,2022,4,Apr,Monday,2,18-25
+Ord-10725,2022-08-30 16:00:00,56,Other,Uk,Home & Garden,33.18,12,0.26,Credit Card,Completed,5,294.64,2022,8,Aug,Tuesday,3,56-70
+Ord-10412,2022-05-18 08:00:00,19,Other,Brazil,Sports,22.17,1,0.17,Paypal,Completed,3,18.4,2022,5,May,Wednesday,2,18-25
+Ord-10798,2022-09-24 00:00:00,43,Female,Australia,Toys,131.29,1,0.3,Debit Card,Pending,5,91.9,2022,9,Sep,Saturday,3,36-45
+Ord-10678,2022-08-15 00:00:00,34,Other,Australia,Home & Garden,15.75,1,0.28,Credit Card,Completed,2,11.34,2022,8,Aug,Monday,3,26-35
+Ord-10158,2022-02-22 16:00:00,56,Other,Uk,Books,41.05,10,0.23,Credit Card,Completed,5,316.08,2022,2,Feb,Tuesday,1,56-70
+Ord-10304,2022-04-12 08:00:00,36,Male,Canada,Clothing,30.36,11,0.38,Crypto,Pending,4,207.06,2022,4,Apr,Tuesday,2,36-45
+Ord-10865,2022-10-16 08:00:00,61,Female,India,Food & Beverage,74.49,2,0.29,Crypto,Completed,5,105.78,2022,10,Oct,Sunday,4,56-70
+Ord-10020,2022-01-07 16:00:00,61,Male,Uk,Sports,47.07,13,0.31,Crypto,Cancelled,4,422.22,2022,1,Jan,Friday,1,56-70
+Ord-10466,2022-06-05 08:00:00,43,Other,Usa,Food & Beverage,110.12,6,0.04,Credit Card,Completed,2,634.29,2022,6,Jun,Sunday,2,36-45
+Ord-10379,2022-05-07 08:00:00,23,Other,Uk,Food & Beverage,249.85750000000002,12,0.14,Crypto,Completed,3,1462.3449999999998,2022,5,May,Saturday,2,18-25
+Ord-11057,2022-12-19 08:00:00,43,Female,Usa,Toys,11.9,13,0.21,Credit Card,Completed,2,122.21,2022,12,Dec,Monday,4,36-45
+Ord-10397,2022-05-13 08:00:00,42,Other,Usa,Beauty,13.95,5,0.17,Credit Card,Pending,4,57.89,2022,5,May,Friday,2,36-45
+Ord-10338,2022-04-23 16:00:00,38,Male,Brazil,Books,8.85,8,0.31,Debit Card,Refunded,4,48.85,2022,4,Apr,Saturday,2,36-45
+Ord-11129,2023-01-12 08:00:00,43,Male,Brazil,Food & Beverage,70.32,13,0.12,Credit Card,Completed,5,804.46,2023,1,Jan,Thursday,1,36-45
+Ord-10878,2022-10-20 16:00:00,28,Male,Germany,Beauty,43.57,1,0.39,Paypal,Completed,4,26.58,2022,10,Oct,Thursday,4,26-35
+Ord-10657,2022-08-08 00:00:00,53,Female,Canada,Food & Beverage,15.5,13,0.35,Credit Card,Refunded,4,130.98,2022,8,Aug,Monday,3,46-55
+Ord-10612,2022-07-24 00:00:00,35,Other,Uk,Electronics,85.09,7,0.2,Credit Card,Completed,3,476.5,2022,7,Jul,Sunday,3,26-35
+Ord-10015,2022-01-06 00:00:00,41,Other,Brazil,Electronics,249.85750000000002,4,0.18,Crypto,Completed,2,1462.3449999999998,2022,1,Jan,Thursday,1,36-45
+Ord-10360,2022-05-01 00:00:00,51,Male,Uk,Sports,53.92,11,0.05,Credit Card,Refunded,4,563.46,2022,5,May,Sunday,2,46-55
+Ord-10586,2022-07-15 08:00:00,46,Male,India,Food & Beverage,249.85750000000002,1,0.21,Paypal,Completed,2,208.63,2022,7,Jul,Friday,3,46-55
+Ord-10472,2022-06-07 08:00:00,52,Female,Usa,Toys,34.91,14,0.29,Debit Card,Completed,4,347.01,2022,6,Jun,Tuesday,2,46-55
+Ord-10791,2022-09-21 16:00:00,63,Female,India,Food & Beverage,42.41,12,0.25,Crypto,Refunded,4,381.69,2022,9,Sep,Wednesday,3,56-70
+Ord-11111,2023-01-06 08:00:00,22,Female,Brazil,Toys,14.14,10,0.08,Credit Card,Completed,5,130.09,2023,1,Jan,Friday,1,18-25
+Ord-10529,2022-06-26 08:00:00,53,Male,Usa,Home & Garden,66.13,13,0.2,Paypal,Completed,4,687.75,2022,6,Jun,Sunday,2,46-55
+Ord-10023,2022-01-08 16:00:00,19,Male,Uk,Home & Garden,77.99,14,0.34,Credit Card,Cancelled,4,720.63,2022,1,Jan,Saturday,1,18-25
+Ord-11141,2023-01-16 08:00:00,52,Male,Australia,Toys,98.15,11,0.37,Crypto,Completed,4,680.18,2023,1,Jan,Monday,1,46-55
+Ord-10188,2022-03-04 16:00:00,28,Other,Uk,Home & Garden,14.02,12,0.25,Credit Card,Completed,4,126.18,2022,3,Mar,Friday,1,26-35
+Ord-11067,2022-12-22 16:00:00,19,Other,France,Home & Garden,10.74,7,0.27,Credit Card,Completed,4,54.88,2022,12,Dec,Thursday,4,18-25
+Ord-11027,2022-12-09 08:00:00,39,Male,Australia,Sports,59.73,9,0.2,Credit Card,Completed,5,430.06,2022,12,Dec,Friday,4,36-45
+Ord-11195,2023-02-03 08:00:00,59,Male,India,Clothing,10.17,8,0.09,Debit Card,Completed,2,74.04,2023,2,Feb,Friday,1,56-70
+Ord-11098,2023-01-02 00:00:00,43,Female,India,Beauty,67.82,5,0.18,Paypal,Refunded,5,278.06,2023,1,Jan,Monday,1,36-45
+Ord-10007,2022-01-03 08:00:00,56,Male,Germany,Food & Beverage,17.36,14,0.04,Credit Card,Pending,1,233.32,2022,1,Jan,Monday,1,56-70
+Ord-10616,2022-07-25 08:00:00,41,Male,France,Sports,10.73,14,0.21,Crypto,Cancelled,4,118.67,2022,7,Jul,Monday,3,36-45
+Ord-10921,2022-11-04 00:00:00,40,Other,Germany,Food & Beverage,6.85,5,0.25,Credit Card,Completed,5,25.69,2022,11,Nov,Friday,4,36-45
+Ord-10840,2022-10-08 00:00:00,34,Other,Uk,Home & Garden,123.49,10,0.34,Debit Card,Completed,4,815.03,2022,10,Oct,Saturday,4,26-35
+Ord-10215,2022-03-13 16:00:00,69,Female,Uk,Books,16.6,10,0.14,Crypto,Completed,3,142.76,2022,3,Mar,Sunday,1,56-70
+Ord-10109,2022-02-06 08:00:00,41,Female,Uk,Home & Garden,120.97,6,0.06,Paypal,Completed,4,682.27,2022,2,Feb,Sunday,1,36-45
+Ord-10219,2022-03-15 00:00:00,29,Female,Uk,Food & Beverage,19.14,8,0.37,Credit Card,Completed,4,96.47,2022,3,Mar,Tuesday,1,26-35
+Ord-11160,2023-01-22 16:00:00,21,Male,Germany,Electronics,24.59,5,0.01,Crypto,Pending,2,121.72,2023,1,Jan,Sunday,1,18-25
+Ord-10764,2022-09-12 16:00:00,33,Other,Australia,Clothing,22.57,8,0.1,Credit Card,Completed,4,162.5,2022,9,Sep,Monday,3,26-35
+Ord-10203,2022-03-09 16:00:00,26,Female,India,Home & Garden,21.3,8,0.02,Credit Card,Cancelled,5,166.99,2022,3,Mar,Wednesday,1,26-35
+Ord-11071,2022-12-24 00:00:00,21,Other,Germany,Electronics,36.11,6,0.35,Bank Transfer,Cancelled,4,140.83,2022,12,Dec,Saturday,4,18-25
+Ord-10627,2022-07-29 00:00:00,47,Male,Germany,Beauty,161.15,1,0.2,Credit Card,Completed,4,128.92,2022,7,Jul,Friday,3,46-55
+Ord-10027,2022-01-10 00:00:00,39,Female,Germany,Toys,145.26,6,0.35,Credit Card,Completed,4,566.51,2022,1,Jan,Monday,1,36-45
+Ord-10230,2022-03-18 16:00:00,45,Female,France,Electronics,77.96,4,0.17,Bank Transfer,Pending,5,258.83,2022,3,Mar,Friday,1,36-45
+Ord-10401,2022-05-14 16:00:00,57,Male,Uk,Beauty,249.85750000000002,14,0.11,Debit Card,Completed,3,1462.3449999999998,2022,5,May,Saturday,2,56-70
+Ord-10052,2022-01-18 08:00:00,26,Other,Germany,Books,15.48,7,0.05,Crypto,Cancelled,5,102.94,2022,1,Jan,Tuesday,1,26-35
+Ord-10945,2022-11-12 00:00:00,39,Female,Uk,Sports,77.17,10,0.2,Credit Card,Refunded,3,617.36,2022,11,Nov,Saturday,4,36-45
+Ord-10697,2022-08-21 08:00:00,18,Male,France,Toys,122.06,2,0.3,Credit Card,Completed,4,170.88,2022,8,Aug,Sunday,3,18-25
+Ord-11114,2023-01-07 08:00:00,61,Female,Brazil,Sports,249.85750000000002,8,0.16,Credit Card,Cancelled,5,1462.3449999999998,2023,1,Jan,Saturday,1,56-70
+Ord-10074,2022-01-25 16:00:00,35,Male,Australia,Electronics,7.67,8,0.01,Credit Card,Cancelled,4,60.75,2022,1,Jan,Tuesday,1,26-35
+Ord-10891,2022-10-25 00:00:00,51,Female,Germany,Clothing,61.55,13,0.06,Crypto,Completed,1,752.14,2022,10,Oct,Tuesday,4,46-55
+Ord-10796,2022-09-23 08:00:00,22,Female,Canada,Books,62.92,11,0.23,Credit Card,Completed,2,532.93,2022,9,Sep,Friday,3,18-25
+Ord-10046,2022-01-16 08:00:00,56,Other,Australia,Toys,42.53,5,0.11,Crypto,Completed,4,189.26,2022,1,Jan,Sunday,1,56-70
+Ord-10196,2022-03-07 08:00:00,30,Other,Australia,Books,73.13,4,0.19,Bank Transfer,Completed,4,236.94,2022,3,Mar,Monday,1,26-35
+Ord-10666,2022-08-11 00:00:00,22,Female,India,Food & Beverage,98.23,14,0.17,Paypal,Cancelled,4,1141.43,2022,8,Aug,Thursday,3,18-25
+Ord-10562,2022-07-07 08:00:00,68,Male,France,Clothing,108.23,2,0.38,Credit Card,Completed,3,134.21,2022,7,Jul,Thursday,3,56-70
+Ord-10877,2022-10-20 08:00:00,19,Male,Brazil,Food & Beverage,56.53,10,0.03,Paypal,Completed,4,548.34,2022,10,Oct,Thursday,4,18-25
+Ord-10126,2022-02-12 00:00:00,51,Other,Australia,Beauty,77.32,2,0.06,Crypto,Completed,4,145.36,2022,2,Feb,Saturday,1,46-55
+Ord-10718,2022-08-28 08:00:00,30,Female,Usa,Home & Garden,212.94,3,0.36,Bank Transfer,Completed,3,408.84,2022,8,Aug,Sunday,3,26-35
+Ord-11077,2022-12-26 00:00:00,68,Female,Canada,Toys,63.85,8,0.29,Debit Card,Completed,4,362.67,2022,12,Dec,Monday,4,56-70
+Ord-10064,2022-01-22 08:00:00,34,Other,Brazil,Toys,129.01,12,0.31,Bank Transfer,Completed,4,1068.2,2022,1,Jan,Saturday,1,26-35
+Ord-10831,2022-10-05 00:00:00,22,Female,Uk,Clothing,51.77,11,0.28,Debit Card,Completed,5,410.02,2022,10,Oct,Wednesday,4,18-25
+Ord-10992,2022-11-27 16:00:00,64,Female,Brazil,Sports,96.4,13,0.0,Credit Card,Completed,4,1253.2,2022,11,Nov,Sunday,4,56-70
+Ord-10827,2022-10-03 16:00:00,43,Male,Canada,Home & Garden,17.23,10,0.06,Crypto,Completed,4,161.96,2022,10,Oct,Monday,4,36-45
+Ord-11008,2022-12-03 00:00:00,34,Male,India,Toys,165.0,8,0.19,Crypto,Completed,4,1069.2,2022,12,Dec,Saturday,4,26-35
+Ord-10866,2022-10-16 16:00:00,43,Other,Brazil,Food & Beverage,12.44,13,0.11,Bank Transfer,Cancelled,3,143.93,2022,10,Oct,Sunday,4,36-45
+Ord-10708,2022-08-25 00:00:00,36,Female,Brazil,Beauty,79.3,7,0.25,Paypal,Pending,3,416.33,2022,8,Aug,Thursday,3,36-45
+Ord-10781,2022-09-18 08:00:00,44,Male,Australia,Clothing,161.96,5,0.23,Paypal,Completed,3,623.55,2022,9,Sep,Sunday,3,36-45
+Ord-10333,2022-04-22 00:00:00,43,Other,India,Beauty,46.08,2,0.22,Credit Card,Refunded,2,71.88,2022,4,Apr,Friday,2,36-45
+Ord-10623,2022-07-27 16:00:00,40,Other,Uk,Books,13.01,8,0.08,Credit Card,Completed,2,95.75,2022,7,Jul,Wednesday,3,36-45
+Ord-11078,2022-12-26 08:00:00,19,Other,India,Books,81.67,12,0.28,Crypto,Completed,4,705.63,2022,12,Dec,Monday,4,18-25
+Ord-10552,2022-07-04 00:00:00,45,Other,France,Beauty,80.79,7,0.14,Crypto,Completed,5,486.36,2022,7,Jul,Monday,3,36-45
+Ord-10405,2022-05-16 00:00:00,49,Female,India,Food & Beverage,142.16,7,0.21,Debit Card,Completed,4,786.14,2022,5,May,Monday,2,46-55
+Ord-10062,2022-01-21 16:00:00,52,Female,Germany,Home & Garden,114.08,6,0.27,Bank Transfer,Completed,2,499.67,2022,1,Jan,Friday,1,46-55
+Ord-10218,2022-03-14 16:00:00,69,Male,Germany,Books,67.09,9,0.08,Debit Card,Completed,5,555.51,2022,3,Mar,Monday,1,56-70
+Ord-10357,2022-04-30 00:00:00,25,Female,Brazil,Clothing,7.84,3,0.32,Credit Card,Completed,5,15.99,2022,4,Apr,Saturday,2,18-25
+Ord-10777,2022-09-17 00:00:00,45,Male,Germany,Books,249.85750000000002,12,0.05,Paypal,Completed,2,1462.3449999999998,2022,9,Sep,Saturday,3,36-45
+Ord-10814,2022-09-29 08:00:00,42,Other,Usa,Beauty,18.28,8,0.24,Debit Card,Refunded,5,111.14,2022,9,Sep,Thursday,3,36-45
+Ord-10548,2022-07-02 16:00:00,41,Female,Germany,Toys,223.92,13,0.12,Debit Card,Completed,4,1462.3449999999998,2022,7,Jul,Saturday,3,36-45
+Ord-10275,2022-04-02 16:00:00,56,Male,India,Home & Garden,41.29,7,0.12,Credit Card,Cancelled,4,254.35,2022,4,Apr,Saturday,2,56-70
+Ord-10810,2022-09-28 00:00:00,66,Other,Germany,Books,137.66,13,0.39,Bank Transfer,Completed,5,1091.64,2022,9,Sep,Wednesday,3,56-70
+Ord-11012,2022-12-04 08:00:00,43,Other,Usa,Books,81.17,9,0.19,Paypal,Completed,5,591.73,2022,12,Dec,Sunday,4,36-45
+Ord-10913,2022-11-01 08:00:00,19,Male,Germany,Toys,84.1,12,0.19,Credit Card,Completed,4,817.45,2022,11,Nov,Tuesday,4,18-25
+Ord-11010,2022-12-03 16:00:00,43,Female,India,Food & Beverage,89.38,8,0.3,Paypal,Cancelled,3,500.53,2022,12,Dec,Saturday,4,36-45
+Ord-10509,2022-06-19 16:00:00,68,Female,Australia,Home & Garden,96.27,5,0.22,Crypto,Completed,5,375.45,2022,6,Jun,Sunday,2,56-70
+Ord-10871,2022-10-18 08:00:00,64,Male,Usa,Electronics,47.14,3,0.25,Debit Card,Completed,4,106.07,2022,10,Oct,Tuesday,4,56-70
+Ord-10754,2022-09-09 08:00:00,32,Female,Brazil,Toys,114.91,14,0.02,Crypto,Refunded,4,1462.3449999999998,2022,9,Sep,Friday,3,26-35
+Ord-10235,2022-03-20 08:00:00,18,Other,Uk,Home & Garden,249.85750000000002,11,0.14,Bank Transfer,Completed,5,1462.3449999999998,2022,3,Mar,Sunday,1,18-25
+Ord-10769,2022-09-14 08:00:00,45,Male,Brazil,Clothing,64.23,6,0.13,Debit Card,Completed,4,335.28,2022,9,Sep,Wednesday,3,36-45
+Ord-10720,2022-08-29 00:00:00,45,Other,Brazil,Electronics,190.31,8,0.08,Debit Card,Completed,4,1400.68,2022,8,Aug,Monday,3,36-45
+Ord-10792,2022-09-22 00:00:00,43,Other,Usa,Sports,64.81,3,0.23,Paypal,Pending,3,149.71,2022,9,Sep,Thursday,3,36-45
+Ord-10849,2022-10-11 00:00:00,21,Other,France,Home & Garden,147.64,9,0.37,Bank Transfer,Cancelled,3,837.12,2022,10,Oct,Tuesday,4,18-25
+Ord-10758,2022-09-10 16:00:00,43,Other,Germany,Home & Garden,50.09,3,0.36,Bank Transfer,Cancelled,4,96.17,2022,9,Sep,Saturday,3,36-45
+Ord-10532,2022-06-27 08:00:00,54,Male,Australia,Home & Garden,144.22,12,0.37,Bank Transfer,Completed,2,1090.3,2022,6,Jun,Monday,2,46-55
+Ord-10100,2022-02-03 08:00:00,62,Female,France,Clothing,42.95,10,0.38,Credit Card,Cancelled,3,266.29,2022,2,Feb,Thursday,1,56-70
+Ord-11148,2023-01-18 16:00:00,28,Male,Brazil,Clothing,5.89,13,0.0,Crypto,Pending,4,76.57,2023,1,Jan,Wednesday,1,26-35
+Ord-10182,2022-03-02 16:00:00,45,Other,Germany,Beauty,140.02,7,0.2,Debit Card,Completed,5,784.11,2022,3,Mar,Wednesday,1,36-45
+Ord-10332,2022-04-21 16:00:00,58,Other,France,Food & Beverage,10.38,11,0.29,Debit Card,Completed,3,81.07,2022,4,Apr,Thursday,2,56-70
+Ord-10726,2022-08-31 00:00:00,18,Male,India,Toys,88.77,3,0.32,Paypal,Pending,4,181.09,2022,8,Aug,Wednesday,3,18-25
+Ord-11035,2022-12-12 00:00:00,59,Other,Germany,Electronics,249.85750000000002,12,0.18,Crypto,Refunded,5,1462.3449999999998,2022,12,Dec,Monday,4,56-70
+Ord-10903,2022-10-29 00:00:00,21,Male,Germany,Electronics,233.32,8,0.14,Credit Card,Completed,3,1462.3449999999998,2022,10,Oct,Saturday,4,18-25
+Ord-10986,2022-11-25 16:00:00,62,Other,India,Books,249.85750000000002,6,0.27,Paypal,Completed,3,1184.97,2022,11,Nov,Friday,4,56-70
+Ord-10799,2022-09-24 08:00:00,19,Female,France,Home & Garden,88.21,6,0.18,Crypto,Pending,5,433.99,2022,9,Sep,Saturday,3,18-25
+Ord-10258,2022-03-28 00:00:00,23,Male,Canada,Toys,75.99,12,0.31,Debit Card,Refunded,4,629.2,2022,3,Mar,Monday,1,18-25
+Ord-10138,2022-02-16 00:00:00,18,Other,Australia,Clothing,17.17,12,0.32,Bank Transfer,Completed,3,140.11,2022,2,Feb,Wednesday,1,18-25
+Ord-10649,2022-08-05 08:00:00,64,Male,Uk,Clothing,126.78,8,0.35,Debit Card,Refunded,4,659.26,2022,8,Aug,Friday,3,56-70
+Ord-10544,2022-07-01 08:00:00,22,Female,India,Beauty,77.27,3,0.33,Bank Transfer,Pending,2,155.31,2022,7,Jul,Friday,3,18-25
+Ord-10961,2022-11-17 08:00:00,43,Male,Australia,Sports,33.23,9,0.26,Debit Card,Completed,3,221.31,2022,11,Nov,Thursday,4,36-45
+Ord-10580,2022-07-13 08:00:00,67,Female,France,Electronics,46.3,10,0.09,Credit Card,Completed,4,421.33,2022,7,Jul,Wednesday,3,56-70
+Ord-10819,2022-10-01 00:00:00,50,Other,Australia,Clothing,20.72,13,0.15,Paypal,Completed,5,228.96,2022,10,Oct,Saturday,4,46-55
+Ord-10644,2022-08-03 16:00:00,45,Male,Australia,Clothing,40.61,1,0.13,Crypto,Completed,4,35.33,2022,8,Aug,Wednesday,3,36-45
+Ord-11166,2023-01-24 16:00:00,57,Other,France,Food & Beverage,19.61,9,0.12,Paypal,Pending,4,155.31,2023,1,Jan,Tuesday,1,56-70
+Ord-10636,2022-08-01 00:00:00,66,Male,Canada,Beauty,37.14,13,0.1,Bank Transfer,Cancelled,5,434.54,2022,8,Aug,Monday,3,56-70
+Ord-10040,2022-01-14 08:00:00,20,Male,Brazil,Home & Garden,13.63,13,0.36,Paypal,Pending,1,113.4,2022,1,Jan,Friday,1,18-25
+Ord-11130,2023-01-12 16:00:00,47,Male,Canada,Electronics,138.6,11,0.2,Credit Card,Pending,4,1219.68,2023,1,Jan,Thursday,1,46-55
+Ord-10960,2022-11-17 00:00:00,26,Male,Usa,Sports,82.3,11,0.2,Crypto,Completed,3,724.24,2022,11,Nov,Thursday,4,26-35
+Ord-10072,2022-01-25 00:00:00,21,Other,Usa,Sports,205.53,5,0.05,Credit Card,Completed,4,976.27,2022,1,Jan,Tuesday,1,18-25
+Ord-10495,2022-06-15 00:00:00,65,Other,Uk,Sports,5.1,14,0.34,Credit Card,Pending,5,47.12,2022,6,Jun,Wednesday,2,56-70
+Ord-10671,2022-08-12 16:00:00,28,Female,Uk,Books,36.22,1,0.14,Paypal,Completed,3,31.15,2022,8,Aug,Friday,3,26-35
+Ord-10593,2022-07-17 16:00:00,24,Male,Usa,Clothing,67.7,14,0.14,Crypto,Pending,2,815.11,2022,7,Jul,Sunday,3,18-25
+Ord-10084,2022-01-29 00:00:00,25,Other,Brazil,Toys,24.13,14,0.34,Paypal,Pending,4,222.96,2022,1,Jan,Saturday,1,18-25
+Ord-10032,2022-01-11 16:00:00,59,Other,Canada,Sports,32.17,5,0.05,Credit Card,Completed,4,152.81,2022,1,Jan,Tuesday,1,56-70
+Ord-10308,2022-04-13 16:00:00,37,Male,Brazil,Home & Garden,64.14,9,0.12,Debit Card,Cancelled,2,507.99,2022,4,Apr,Wednesday,2,36-45
+Ord-11047,2022-12-16 00:00:00,38,Male,Canada,Beauty,249.85750000000002,4,0.05,Credit Card,Pending,4,1462.3449999999998,2022,12,Dec,Friday,4,36-45
+Ord-10955,2022-11-15 08:00:00,66,Other,Germany,Food & Beverage,71.49,1,0.08,Crypto,Completed,3,65.77,2022,11,Nov,Tuesday,4,56-70
+Ord-10610,2022-07-23 08:00:00,65,Female,Uk,Toys,46.58,1,0.28,Crypto,Refunded,4,33.54,2022,7,Jul,Saturday,3,56-70
+Ord-10576,2022-07-12 00:00:00,48,Other,Brazil,Sports,37.32,1,0.06,Debit Card,Pending,2,35.08,2022,7,Jul,Tuesday,3,46-55
+Ord-10191,2022-03-05 16:00:00,43,Female,Australia,Beauty,29.79,3,0.34,Paypal,Completed,5,58.98,2022,3,Mar,Saturday,1,36-45
+Ord-10617,2022-07-25 16:00:00,40,Female,Usa,Sports,50.98,10,0.05,Credit Card,Completed,4,484.31,2022,7,Jul,Monday,3,36-45
+Ord-11137,2023-01-15 00:00:00,28,Female,Uk,Beauty,34.79,2,0.36,Credit Card,Completed,5,44.53,2023,1,Jan,Sunday,1,26-35
+Ord-10786,2022-09-20 00:00:00,30,Male,Uk,Toys,21.39,3,0.31,Bank Transfer,Completed,5,44.28,2022,9,Sep,Tuesday,3,26-35
+Ord-10368,2022-05-03 16:00:00,65,Female,Brazil,Sports,219.58,14,0.1,Debit Card,Cancelled,2,1462.3449999999998,2022,5,May,Tuesday,2,56-70
+Ord-10277,2022-04-03 08:00:00,43,Other,Canada,Home & Garden,57.48,5,0.0,Debit Card,Pending,4,287.4,2022,4,Apr,Sunday,2,36-45
+Ord-10571,2022-07-10 08:00:00,43,Other,Brazil,Toys,50.48,6,0.34,Credit Card,Completed,4,199.9,2022,7,Jul,Sunday,3,36-45
+Ord-10252,2022-03-26 00:00:00,39,Other,Germany,Food & Beverage,249.85750000000002,7,0.2,Crypto,Completed,2,1462.3449999999998,2022,3,Mar,Saturday,1,36-45
+Ord-11021,2022-12-07 08:00:00,58,Female,Canada,Electronics,11.36,7,0.08,Credit Card,Completed,4,73.16,2022,12,Dec,Wednesday,4,56-70
+Ord-10070,2022-01-24 08:00:00,23,Female,France,Electronics,55.14,9,0.31,Paypal,Cancelled,5,342.42,2022,1,Jan,Monday,1,18-25
+Ord-10645,2022-08-04 00:00:00,31,Other,Germany,Clothing,43.16,8,0.32,Credit Card,Refunded,4,234.79,2022,8,Aug,Thursday,3,26-35
+Ord-10745,2022-09-06 08:00:00,53,Other,India,Books,201.49,2,0.28,Paypal,Refunded,4,290.15,2022,9,Sep,Tuesday,3,46-55
+Ord-11056,2022-12-19 00:00:00,41,Male,Germany,Toys,49.17,13,0.33,Crypto,Completed,3,428.27,2022,12,Dec,Monday,4,36-45
+Ord-10968,2022-11-19 16:00:00,34,Female,Canada,Food & Beverage,99.11,11,0.07,Credit Card,Completed,5,1013.9,2022,11,Nov,Saturday,4,26-35
+Ord-11187,2023-01-31 16:00:00,56,Female,Australia,Clothing,23.84,10,0.15,Debit Card,Completed,4,202.64,2023,1,Jan,Tuesday,1,56-70
+Ord-10570,2022-07-10 00:00:00,27,Female,France,Books,169.35,7,0.27,Paypal,Completed,5,865.38,2022,7,Jul,Sunday,3,26-35
+Ord-10801,2022-09-25 00:00:00,47,Male,India,Toys,40.8,8,0.16,Paypal,Completed,5,274.18,2022,9,Sep,Sunday,3,46-55
+Ord-10132,2022-02-14 00:00:00,52,Male,Uk,Beauty,135.91,8,0.21,Debit Card,Refunded,3,858.95,2022,2,Feb,Monday,1,46-55
+Ord-10222,2022-03-16 00:00:00,20,Other,France,Sports,249.85750000000002,8,0.09,Bank Transfer,Completed,5,1462.3449999999998,2022,3,Mar,Wednesday,1,18-25
+Ord-10910,2022-10-31 08:00:00,22,Male,Germany,Sports,60.64,7,0.35,Debit Card,Completed,3,275.91,2022,10,Oct,Monday,4,18-25
+Ord-10267,2022-03-31 00:00:00,36,Other,Brazil,Electronics,48.82,11,0.31,Paypal,Completed,4,370.54,2022,3,Mar,Thursday,1,36-45
+Ord-11037,2022-12-12 16:00:00,54,Other,Usa,Clothing,8.92,1,0.02,Bank Transfer,Completed,2,8.74,2022,12,Dec,Monday,4,46-55
+Ord-10081,2022-01-28 00:00:00,48,Male,France,Food & Beverage,126.31,3,0.12,Debit Card,Completed,4,333.46,2022,1,Jan,Friday,1,46-55
+Ord-10695,2022-08-20 16:00:00,65,Male,Canada,Home & Garden,147.17,9,0.27,Credit Card,Completed,3,966.91,2022,8,Aug,Saturday,3,56-70
+Ord-11173,2023-01-27 00:00:00,55,Other,Usa,Food & Beverage,13.8,12,0.14,Credit Card,Completed,5,142.42,2023,1,Jan,Friday,1,46-55
+Ord-10115,2022-02-08 08:00:00,52,Female,France,Books,187.18,7,0.25,Paypal,Cancelled,3,982.7,2022,2,Feb,Tuesday,1,46-55
+Ord-10428,2022-05-23 16:00:00,30,Other,Canada,Clothing,129.4,3,0.24,Paypal,Completed,4,295.03,2022,5,May,Monday,2,26-35
+Ord-10483,2022-06-11 00:00:00,45,Female,Brazil,Beauty,23.22,11,0.01,Bank Transfer,Refunded,4,252.87,2022,6,Jun,Saturday,2,36-45
+Ord-10467,2022-06-05 16:00:00,62,Other,France,Toys,197.21,5,0.3,Paypal,Cancelled,5,690.24,2022,6,Jun,Sunday,2,56-70
+Ord-10957,2022-11-16 00:00:00,43,Male,Brazil,Electronics,24.04,8,0.07,Credit Card,Completed,5,178.86,2022,11,Nov,Wednesday,4,36-45
+Ord-10208,2022-03-11 08:00:00,61,Female,Australia,Electronics,50.99,14,0.37,Credit Card,Cancelled,4,449.73,2022,3,Mar,Friday,1,56-70
+Ord-10344,2022-04-25 16:00:00,34,Female,Usa,Electronics,84.49,14,0.28,Bank Transfer,Completed,3,851.66,2022,4,Apr,Monday,2,26-35
+Ord-10329,2022-04-20 16:00:00,19,Male,Canada,Clothing,192.24,12,0.39,Paypal,Cancelled,4,1407.2,2022,4,Apr,Wednesday,2,18-25
+Ord-11109,2023-01-05 16:00:00,67,Female,France,Toys,67.05,7,0.02,Paypal,Cancelled,4,459.96,2023,1,Jan,Thursday,1,56-70
+Ord-10014,2022-01-05 16:00:00,43,Female,Canada,Home & Garden,43.09,9,0.17,Paypal,Completed,5,321.88,2022,1,Jan,Wednesday,1,36-45
+Ord-10502,2022-06-17 08:00:00,22,Other,India,Home & Garden,89.33,1,0.3,Credit Card,Completed,4,62.53,2022,6,Jun,Friday,2,18-25
+Ord-10425,2022-05-22 16:00:00,67,Male,Brazil,Sports,44.83,5,0.38,Bank Transfer,Completed,4,138.97,2022,5,May,Sunday,2,56-70
+Ord-10539,2022-06-29 16:00:00,48,Female,Australia,Toys,8.36,4,0.06,Bank Transfer,Cancelled,4,31.43,2022,6,Jun,Wednesday,2,46-55
+Ord-10596,2022-07-18 16:00:00,62,Other,Germany,Sports,7.39,4,0.21,Paypal,Completed,4,23.35,2022,7,Jul,Monday,3,56-70
+Ord-10993,2022-11-28 00:00:00,40,Other,Australia,Toys,21.83,7,0.35,Paypal,Completed,3,99.33,2022,11,Nov,Monday,4,36-45
+Ord-11053,2022-12-18 00:00:00,28,Female,France,Books,68.81,3,0.15,Bank Transfer,Completed,4,175.47,2022,12,Dec,Sunday,4,26-35
+Ord-11045,2022-12-15 08:00:00,50,Other,Brazil,Sports,44.23,14,0.16,Bank Transfer,Cancelled,5,520.14,2022,12,Dec,Thursday,4,46-55
+Ord-10436,2022-05-26 08:00:00,33,Other,India,Beauty,9.77,8,0.28,Bank Transfer,Completed,4,56.28,2022,5,May,Thursday,2,26-35
+Ord-10736,2022-09-03 08:00:00,62,Other,Usa,Home & Garden,6.18,9,0.09,Bank Transfer,Pending,4,50.61,2022,9,Sep,Saturday,3,56-70
+Ord-10684,2022-08-17 00:00:00,43,Other,Germany,Food & Beverage,21.69,8,0.32,Debit Card,Completed,3,117.99,2022,8,Aug,Wednesday,3,36-45
+Ord-10925,2022-11-05 08:00:00,33,Other,Uk,Electronics,73.09,13,0.18,Credit Card,Completed,5,779.14,2022,11,Nov,Saturday,4,26-35
+Ord-11127,2023-01-11 16:00:00,41,Other,Australia,Food & Beverage,50.5,14,0.29,Crypto,Cancelled,3,501.97,2023,1,Jan,Wednesday,1,36-45
+Ord-10106,2022-02-05 08:00:00,18,Other,France,Sports,66.16,1,0.15,Credit Card,Completed,5,56.24,2022,2,Feb,Saturday,1,18-25
+Ord-10896,2022-10-26 16:00:00,32,Male,India,Books,38.44,4,0.11,Crypto,Completed,2,136.85,2022,10,Oct,Wednesday,4,26-35
+Ord-10006,2022-01-03 00:00:00,38,Female,India,Home & Garden,125.61,6,0.12,Credit Card,Cancelled,4,663.22,2022,1,Jan,Monday,1,36-45
+Ord-10515,2022-06-21 16:00:00,22,Female,India,Sports,249.01,12,0.18,Crypto,Completed,4,1462.3449999999998,2022,6,Jun,Tuesday,2,18-25
+Ord-10880,2022-10-21 08:00:00,56,Male,Brazil,Beauty,249.85750000000002,14,0.34,Credit Card,Completed,4,1462.3449999999998,2022,10,Oct,Friday,4,56-70
+Ord-10367,2022-05-03 08:00:00,22,Female,Australia,Toys,36.93,11,0.32,Crypto,Completed,3,276.24,2022,5,May,Tuesday,2,18-25
+Ord-10051,2022-01-18 00:00:00,67,Male,Canada,Toys,198.25,14,0.01,Paypal,Pending,5,1462.3449999999998,2022,1,Jan,Tuesday,1,56-70
+Ord-11117,2023-01-08 08:00:00,57,Other,Brazil,Food & Beverage,38.53,4,0.36,Crypto,Completed,2,98.64,2023,1,Jan,Sunday,1,56-70
+Ord-11090,2022-12-30 08:00:00,36,Male,Australia,Clothing,249.85750000000002,13,0.15,Credit Card,Pending,1,1462.3449999999998,2022,12,Dec,Friday,4,36-45
+Ord-10375,2022-05-06 00:00:00,45,Other,France,Food & Beverage,65.85,2,0.02,Paypal,Completed,2,129.07,2022,5,May,Friday,2,36-45
+Ord-11150,2023-01-19 08:00:00,54,Female,Germany,Electronics,118.73,2,0.32,Paypal,Completed,4,161.47,2023,1,Jan,Thursday,1,46-55
+Ord-11178,2023-01-28 16:00:00,42,Female,Brazil,Electronics,78.18,13,0.09,Crypto,Completed,4,924.87,2023,1,Jan,Saturday,1,36-45
+Ord-10026,2022-01-09 16:00:00,29,Male,Canada,Beauty,78.11,13,0.19,Debit Card,Completed,4,822.5,2022,1,Jan,Sunday,1,26-35
+Ord-10813,2022-09-29 00:00:00,43,Male,Australia,Food & Beverage,49.12,14,0.29,Credit Card,Completed,3,488.25,2022,9,Sep,Thursday,3,36-45
+Ord-10454,2022-06-01 08:00:00,59,Other,Brazil,Toys,13.62,7,0.23,Bank Transfer,Completed,3,73.41,2022,6,Jun,Wednesday,2,56-70
+Ord-10750,2022-09-08 00:00:00,64,Other,Uk,Books,27.6,9,0.01,Crypto,Completed,4,245.92,2022,9,Sep,Thursday,3,56-70
+Ord-10519,2022-06-23 00:00:00,63,Male,France,Sports,17.62,9,0.17,Credit Card,Completed,5,131.62,2022,6,Jun,Thursday,2,56-70
+Ord-10659,2022-08-08 16:00:00,33,Male,India,Books,9.25,7,0.22,Debit Card,Cancelled,5,50.5,2022,8,Aug,Monday,3,26-35
+Ord-10280,2022-04-04 08:00:00,45,Female,France,Clothing,51.53,5,0.09,Debit Card,Completed,4,234.46,2022,4,Apr,Monday,2,36-45
+Ord-11102,2023-01-03 08:00:00,28,Male,Usa,Books,115.33,5,0.26,Debit Card,Refunded,5,426.72,2023,1,Jan,Tuesday,1,26-35
+Ord-10828,2022-10-04 00:00:00,34,Female,Germany,Beauty,30.68,3,0.25,Debit Card,Refunded,4,69.03,2022,10,Oct,Tuesday,4,26-35
+Ord-10485,2022-06-11 16:00:00,54,Other,Australia,Sports,18.35,14,0.09,Crypto,Completed,4,233.78,2022,6,Jun,Saturday,2,46-55
+Ord-10693,2022-08-20 00:00:00,36,Other,France,Food & Beverage,6.41,2,0.21,Bank Transfer,Cancelled,4,10.13,2022,8,Aug,Saturday,3,36-45
+Ord-10232,2022-03-19 08:00:00,54,Other,Usa,Clothing,11.32,9,0.21,Crypto,Completed,2,80.49,2022,3,Mar,Saturday,1,46-55
+Ord-11113,2023-01-07 00:00:00,27,Other,India,Sports,12.71,4,0.16,Crypto,Completed,5,42.71,2023,1,Jan,Saturday,1,26-35
+Ord-10028,2022-01-10 08:00:00,61,Female,France,Books,249.85750000000002,1,0.09,Paypal,Completed,4,237.22,2022,1,Jan,Monday,1,56-70
+Ord-10701,2022-08-22 16:00:00,24,Female,Australia,Beauty,78.43,10,0.3,Debit Card,Completed,4,549.01,2022,8,Aug,Monday,3,18-25
+Ord-10600,2022-07-20 00:00:00,42,Other,Uk,Food & Beverage,130.99,13,0.16,Credit Card,Completed,2,1430.41,2022,7,Jul,Wednesday,3,36-45
+Ord-10579,2022-07-13 00:00:00,68,Female,Brazil,Home & Garden,11.8,6,0.28,Credit Card,Pending,4,50.98,2022,7,Jul,Wednesday,3,56-70
+Ord-10336,2022-04-23 00:00:00,50,Other,Australia,Food & Beverage,147.06,9,0.15,Credit Card,Completed,3,1125.01,2022,4,Apr,Saturday,2,46-55
+Ord-10947,2022-11-12 16:00:00,23,Male,Canada,Food & Beverage,172.07,12,0.34,Credit Card,Completed,4,1362.79,2022,11,Nov,Saturday,4,18-25
+Ord-10288,2022-04-07 00:00:00,24,Other,Usa,Books,49.52,12,0.33,Credit Card,Completed,4,398.14,2022,4,Apr,Thursday,2,18-25
+Ord-11168,2023-01-25 08:00:00,56,Other,India,Clothing,44.24,11,0.33,Crypto,Refunded,5,326.05,2023,1,Jan,Wednesday,1,56-70
+Ord-10829,2022-10-04 08:00:00,22,Male,Germany,Home & Garden,77.71,2,0.24,Debit Card,Pending,5,118.12,2022,10,Oct,Tuesday,4,18-25
+Ord-10640,2022-08-02 08:00:00,36,Other,Australia,Home & Garden,52.74,11,0.33,Debit Card,Completed,4,388.69,2022,8,Aug,Tuesday,3,36-45
+Ord-10984,2022-11-25 00:00:00,41,Other,France,Clothing,20.57,8,0.32,Credit Card,Refunded,5,111.9,2022,11,Nov,Friday,4,36-45
+Ord-10283,2022-04-05 08:00:00,40,Other,Australia,Toys,135.36,6,0.34,Crypto,Refunded,4,536.03,2022,4,Apr,Tuesday,2,36-45
+Ord-10590,2022-07-16 16:00:00,51,Male,Germany,Beauty,111.35,1,0.07,Credit Card,Pending,3,103.56,2022,7,Jul,Saturday,3,46-55
+Ord-10078,2022-01-27 00:00:00,27,Other,Germany,Books,19.48,6,0.14,Credit Card,Completed,1,100.52,2022,1,Jan,Thursday,1,26-35
+Ord-10501,2022-06-17 00:00:00,56,Female,France,Beauty,19.03,14,0.25,Crypto,Refunded,2,199.82,2022,6,Jun,Friday,2,56-70
+Ord-11033,2022-12-11 08:00:00,61,Male,Usa,Food & Beverage,176.28,8,0.06,Credit Card,Cancelled,2,1325.63,2022,12,Dec,Sunday,4,56-70
+Ord-10673,2022-08-13 08:00:00,64,Other,Uk,Electronics,74.42,2,0.03,Paypal,Completed,1,144.37,2022,8,Aug,Saturday,3,56-70
+Ord-10938,2022-11-09 16:00:00,68,Female,Germany,Books,15.39,14,0.34,Crypto,Completed,3,142.2,2022,11,Nov,Wednesday,4,56-70
+Ord-10853,2022-10-12 08:00:00,49,Other,France,Electronics,30.3,11,0.02,Crypto,Cancelled,1,326.63,2022,10,Oct,Wednesday,4,46-55
+Ord-10499,2022-06-16 08:00:00,18,Female,Germany,Books,70.39,7,0.22,Credit Card,Pending,4,384.33,2022,6,Jun,Thursday,2,18-25
+Ord-10800,2022-09-24 16:00:00,27,Male,Canada,Books,20.37,5,0.28,Debit Card,Cancelled,2,73.33,2022,9,Sep,Saturday,3,26-35
+Ord-10494,2022-06-14 16:00:00,43,Male,Canada,Books,54.61,13,0.38,Debit Card,Cancelled,2,440.16,2022,6,Jun,Tuesday,2,36-45
+Ord-10037,2022-01-13 08:00:00,68,Other,India,Sports,28.66,10,0.16,Paypal,Completed,3,240.74,2022,1,Jan,Thursday,1,56-70
+Ord-11032,2022-12-11 00:00:00,66,Other,Usa,Sports,52.92,8,0.34,Paypal,Completed,4,279.42,2022,12,Dec,Sunday,4,56-70
+Ord-10488,2022-06-12 16:00:00,26,Male,India,Food & Beverage,6.44,11,0.03,Paypal,Completed,4,68.71,2022,6,Jun,Sunday,2,26-35
+Ord-10988,2022-11-26 08:00:00,31,Other,Germany,Electronics,16.49,11,0.09,Credit Card,Completed,4,165.06,2022,11,Nov,Saturday,4,26-35
+Ord-10105,2022-02-05 00:00:00,41,Other,Uk,Home & Garden,65.0,2,0.03,Crypto,Completed,4,126.1,2022,2,Feb,Saturday,1,36-45
+Ord-10973,2022-11-21 08:00:00,43,Other,Canada,Food & Beverage,24.96,7,0.11,Credit Card,Completed,5,155.5,2022,11,Nov,Monday,4,36-45
+Ord-10682,2022-08-16 08:00:00,30,Male,Usa,Home & Garden,110.61,3,0.19,Paypal,Completed,4,268.78,2022,8,Aug,Tuesday,3,26-35
+Ord-10125,2022-02-11 16:00:00,29,Female,Canada,Toys,249.85750000000002,5,0.02,Paypal,Completed,4,1462.3449999999998,2022,2,Feb,Friday,1,26-35
+Ord-10759,2022-09-11 00:00:00,40,Other,Germany,Home & Garden,186.62,3,0.13,Credit Card,Completed,3,487.08,2022,9,Sep,Sunday,3,36-45
+Ord-10384,2022-05-09 00:00:00,46,Male,Australia,Toys,72.76,12,0.03,Bank Transfer,Completed,4,846.93,2022,5,May,Monday,2,46-55
+Ord-10161,2022-02-23 16:00:00,49,Other,France,Beauty,249.85750000000002,7,0.24,Credit Card,Completed,4,1462.3449999999998,2022,2,Feb,Wednesday,1,46-55
+Ord-10861,2022-10-15 00:00:00,20,Male,Germany,Beauty,41.07,5,0.08,Crypto,Cancelled,5,188.92,2022,10,Oct,Saturday,4,18-25
+Ord-10489,2022-06-13 00:00:00,29,Other,Brazil,Toys,132.48,4,0.18,Paypal,Completed,4,434.53,2022,6,Jun,Monday,2,26-35
+Ord-10598,2022-07-19 08:00:00,46,Female,India,Beauty,79.55,1,0.1,Credit Card,Completed,4,71.6,2022,7,Jul,Tuesday,3,46-55
+Ord-10373,2022-05-05 08:00:00,34,Other,Usa,Food & Beverage,100.18,13,0.0,Credit Card,Completed,4,1302.34,2022,5,May,Thursday,2,26-35
+Ord-10441,2022-05-28 00:00:00,32,Female,Usa,Clothing,52.24,7,0.35,Credit Card,Completed,4,237.69,2022,5,May,Saturday,2,26-35
+Ord-10597,2022-07-19 00:00:00,28,Female,France,Food & Beverage,45.27,8,0.24,Paypal,Completed,4,275.24,2022,7,Jul,Tuesday,3,26-35
+Ord-10832,2022-10-05 08:00:00,55,Other,Canada,Clothing,52.22,13,0.18,Paypal,Cancelled,2,556.67,2022,10,Oct,Wednesday,4,46-55
+Ord-10793,2022-09-22 08:00:00,23,Other,Usa,Electronics,14.53,11,0.25,Credit Card,Completed,4,119.87,2022,9,Sep,Thursday,3,18-25
+Ord-10374,2022-05-05 16:00:00,61,Other,Uk,Toys,9.0,2,0.27,Credit Card,Completed,2,13.14,2022,5,May,Thursday,2,56-70
+Ord-10625,2022-07-28 08:00:00,52,Male,Uk,Toys,34.93,1,0.36,Bank Transfer,Completed,4,22.36,2022,7,Jul,Thursday,3,46-55
+Ord-10558,2022-07-06 00:00:00,67,Male,Australia,Home & Garden,57.45,13,0.38,Crypto,Completed,4,463.05,2022,7,Jul,Wednesday,3,56-70
+Ord-10118,2022-02-09 08:00:00,59,Other,Uk,Toys,249.85750000000002,10,0.1,Paypal,Completed,5,1462.3449999999998,2022,2,Feb,Wednesday,1,56-70
+Ord-10930,2022-11-07 00:00:00,42,Other,Usa,Home & Garden,79.59,11,0.18,Credit Card,Pending,4,717.9,2022,11,Nov,Monday,4,36-45
+Ord-11070,2022-12-23 16:00:00,28,Male,Germany,Clothing,185.93,12,0.38,Debit Card,Pending,4,1383.32,2022,12,Dec,Friday,4,26-35
+Ord-11013,2022-12-04 16:00:00,42,Other,France,Electronics,162.04,14,0.17,Credit Card,Completed,2,1462.3449999999998,2022,12,Dec,Sunday,4,36-45
+Ord-10643,2022-08-03 08:00:00,43,Male,Canada,Home & Garden,28.28,13,0.19,Bank Transfer,Completed,4,297.79,2022,8,Aug,Wednesday,3,36-45
+Ord-10976,2022-11-22 08:00:00,32,Female,France,Books,155.72,9,0.23,Paypal,Pending,3,1079.14,2022,11,Nov,Tuesday,4,26-35
+Ord-10970,2022-11-20 08:00:00,53,Male,Brazil,Sports,85.23,12,0.09,Crypto,Completed,5,930.71,2022,11,Nov,Sunday,4,46-55
+Ord-10939,2022-11-10 00:00:00,36,Male,France,Beauty,57.04,10,0.4,Credit Card,Completed,5,342.24,2022,11,Nov,Thursday,4,36-45
+Ord-10127,2022-02-12 08:00:00,50,Male,Germany,Beauty,38.15,5,0.0,Crypto,Completed,4,190.75,2022,2,Feb,Saturday,1,46-55
+Ord-11188,2023-02-01 00:00:00,68,Other,Germany,Clothing,144.5,7,0.32,Crypto,Refunded,5,687.82,2023,2,Feb,Wednesday,1,56-70
+Ord-10854,2022-10-12 16:00:00,51,Female,Germany,Toys,76.88,14,0.01,Debit Card,Completed,4,1065.56,2022,10,Oct,Wednesday,4,46-55
+Ord-10689,2022-08-18 16:00:00,22,Female,Canada,Beauty,28.58,10,0.23,Credit Card,Completed,4,220.07,2022,8,Aug,Thursday,3,18-25
+Ord-10399,2022-05-14 00:00:00,43,Male,Australia,Clothing,21.78,14,0.04,Credit Card,Refunded,5,292.72,2022,5,May,Saturday,2,36-45
+Ord-10991,2022-11-27 08:00:00,20,Other,Canada,Sports,74.81,14,0.11,Crypto,Completed,3,932.13,2022,11,Nov,Sunday,4,18-25
+Ord-11177,2023-01-28 08:00:00,50,Male,India,Toys,58.34,3,0.18,Crypto,Completed,5,143.52,2023,1,Jan,Saturday,1,46-55
+Ord-11022,2022-12-07 16:00:00,62,Other,France,Home & Garden,31.21,14,0.14,Bank Transfer,Completed,2,375.77,2022,12,Dec,Wednesday,4,56-70
+Ord-10174,2022-02-28 00:00:00,24,Female,Usa,Food & Beverage,87.86,2,0.19,Credit Card,Refunded,4,142.33,2022,2,Feb,Monday,1,18-25
+Ord-10320,2022-04-17 16:00:00,52,Male,France,Food & Beverage,44.76,13,0.37,Bank Transfer,Completed,3,366.58,2022,4,Apr,Sunday,2,46-55
+Ord-10524,2022-06-24 16:00:00,43,Male,Usa,Electronics,23.89,1,0.33,Debit Card,Cancelled,4,16.01,2022,6,Jun,Friday,2,36-45
+Ord-10469,2022-06-06 08:00:00,69,Female,Australia,Electronics,249.85750000000002,4,0.17,Crypto,Cancelled,4,903.37,2022,6,Jun,Monday,2,56-70
+Ord-10789,2022-09-21 00:00:00,43,Other,India,Electronics,12.28,12,0.02,Bank Transfer,Refunded,4,144.41,2022,9,Sep,Wednesday,3,36-45
+Ord-10624,2022-07-28 00:00:00,42,Male,India,Home & Garden,89.47,5,0.16,Crypto,Completed,4,375.77,2022,7,Jul,Thursday,3,36-45
+Ord-10079,2022-01-27 08:00:00,53,Male,Uk,Food & Beverage,7.76,12,0.15,Bank Transfer,Completed,5,79.15,2022,1,Jan,Thursday,1,46-55
+Ord-10533,2022-06-27 16:00:00,40,Other,Germany,Electronics,40.43,6,0.04,Crypto,Completed,4,232.88,2022,6,Jun,Monday,2,36-45
+Ord-10775,2022-09-16 08:00:00,67,Male,Usa,Food & Beverage,106.16,2,0.02,Bank Transfer,Completed,4,208.07,2022,9,Sep,Friday,3,56-70
+Ord-10457,2022-06-02 08:00:00,60,Other,Germany,Electronics,144.86,11,0.38,Crypto,Completed,2,987.95,2022,6,Jun,Thursday,2,56-70
+Ord-10290,2022-04-07 16:00:00,43,Other,India,Beauty,48.23,14,0.15,Credit Card,Refunded,5,573.94,2022,4,Apr,Thursday,2,36-45
+Ord-10370,2022-05-04 08:00:00,21,Male,Canada,Beauty,31.44,3,0.23,Credit Card,Completed,2,72.63,2022,5,May,Wednesday,2,18-25
+Ord-11006,2022-12-02 08:00:00,27,Male,Australia,Clothing,17.93,2,0.1,Debit Card,Completed,5,32.27,2022,12,Dec,Friday,4,26-35
+Ord-10477,2022-06-09 00:00:00,67,Other,India,Electronics,167.07,9,0.1,Crypto,Completed,5,1353.27,2022,6,Jun,Thursday,2,56-70
+Ord-10979,2022-11-23 08:00:00,31,Other,Australia,Electronics,249.85750000000002,13,0.32,Credit Card,Completed,4,1462.3449999999998,2022,11,Nov,Wednesday,4,26-35
+Ord-11089,2022-12-30 00:00:00,21,Female,Germany,Home & Garden,215.84,6,0.07,Debit Card,Completed,5,1204.39,2022,12,Dec,Friday,4,18-25
+Ord-10895,2022-10-26 08:00:00,41,Male,Canada,Clothing,25.64,11,0.18,Crypto,Refunded,3,231.27,2022,10,Oct,Wednesday,4,36-45
+Ord-10473,2022-06-07 16:00:00,57,Male,Germany,Sports,35.94,9,0.0,Paypal,Refunded,4,323.46,2022,6,Jun,Tuesday,2,56-70
+Ord-10197,2022-03-07 16:00:00,58,Male,France,Books,150.67,10,0.26,Credit Card,Pending,3,1114.96,2022,3,Mar,Monday,1,56-70
+Ord-10185,2022-03-03 16:00:00,61,Male,Usa,Food & Beverage,46.57,8,0.14,Paypal,Completed,3,320.4,2022,3,Mar,Thursday,1,56-70
+Ord-10421,2022-05-21 08:00:00,46,Female,Australia,Food & Beverage,31.65,14,0.39,Debit Card,Cancelled,4,270.29,2022,5,May,Saturday,2,46-55
+Ord-10451,2022-05-31 08:00:00,39,Other,Germany,Beauty,18.85,12,0.27,Bank Transfer,Completed,4,165.13,2022,5,May,Tuesday,2,36-45
+Ord-10256,2022-03-27 08:00:00,50,Female,Uk,Clothing,93.67,2,0.13,Bank Transfer,Completed,5,162.99,2022,3,Mar,Sunday,1,46-55
+Ord-10135,2022-02-15 00:00:00,43,Other,Germany,Home & Garden,136.54,3,0.27,Crypto,Completed,4,299.02,2022,2,Feb,Tuesday,1,36-45
+Ord-10806,2022-09-26 16:00:00,18,Male,India,Toys,33.77,6,0.14,Crypto,Pending,5,174.25,2022,9,Sep,Monday,3,18-25
+Ord-10881,2022-10-21 16:00:00,55,Female,France,Electronics,6.62,12,0.38,Debit Card,Completed,3,49.25,2022,10,Oct,Friday,4,46-55
+Ord-11095,2023-01-01 00:00:00,29,Other,India,Electronics,35.49,1,0.24,Debit Card,Cancelled,5,26.97,2023,1,Jan,Sunday,1,26-35
+Ord-10583,2022-07-14 08:00:00,34,Other,Brazil,Sports,23.21,3,0.0,Credit Card,Pending,1,69.63,2022,7,Jul,Thursday,3,26-35
+Ord-10872,2022-10-18 16:00:00,40,Male,France,Beauty,48.95,3,0.39,Crypto,Completed,5,89.58,2022,10,Oct,Tuesday,4,36-45
+Ord-11144,2023-01-17 08:00:00,57,Female,Germany,Clothing,64.41,1,0.26,Crypto,Pending,1,47.66,2023,1,Jan,Tuesday,1,56-70
+Ord-11180,2023-01-29 08:00:00,50,Female,Australia,Books,6.86,1,0.1,Credit Card,Completed,3,6.17,2023,1,Jan,Sunday,1,46-55
+Ord-10049,2022-01-17 08:00:00,43,Male,Australia,Books,13.81,10,0.15,Bank Transfer,Completed,3,117.38,2022,1,Jan,Monday,1,36-45
+Ord-10994,2022-11-28 08:00:00,63,Other,France,Home & Garden,82.19,2,0.32,Bank Transfer,Refunded,3,111.78,2022,11,Nov,Monday,4,56-70
+Ord-10771,2022-09-15 00:00:00,45,Female,Canada,Electronics,217.29,12,0.32,Debit Card,Completed,4,1462.3449999999998,2022,9,Sep,Thursday,3,36-45
+Ord-10526,2022-06-25 08:00:00,65,Other,Canada,Sports,124.62,8,0.18,Credit Card,Pending,2,817.51,2022,6,Jun,Saturday,2,56-70
+Ord-10699,2022-08-22 00:00:00,69,Female,Uk,Electronics,131.98,11,0.08,Paypal,Completed,3,1335.64,2022,8,Aug,Monday,3,56-70
+Ord-11007,2022-12-02 16:00:00,56,Female,Canada,Beauty,15.88,9,0.36,Paypal,Completed,5,91.47,2022,12,Dec,Friday,4,56-70
+Ord-10462,2022-06-04 00:00:00,61,Other,Germany,Toys,16.26,3,0.39,Bank Transfer,Completed,2,29.76,2022,6,Jun,Saturday,2,56-70
+Ord-10655,2022-08-07 08:00:00,69,Male,India,Clothing,7.78,13,0.08,Credit Card,Completed,4,93.05,2022,8,Aug,Sunday,3,56-70
+Ord-10706,2022-08-24 08:00:00,23,Other,Canada,Clothing,39.29,9,0.36,Crypto,Completed,3,226.31,2022,8,Aug,Wednesday,3,18-25
+Ord-10468,2022-06-06 00:00:00,49,Male,Brazil,Toys,160.79,13,0.37,Paypal,Completed,5,1316.87,2022,6,Jun,Monday,2,46-55
+Ord-10857,2022-10-13 16:00:00,25,Female,India,Beauty,53.83,13,0.24,Paypal,Pending,4,531.84,2022,10,Oct,Thursday,4,18-25
+Ord-10033,2022-01-12 00:00:00,43,Male,India,Toys,81.35,3,0.26,Credit Card,Pending,4,180.6,2022,1,Jan,Wednesday,1,36-45
+Ord-10416,2022-05-19 16:00:00,50,Male,France,Beauty,14.85,7,0.08,Bank Transfer,Pending,4,95.63,2022,5,May,Thursday,2,46-55
+Ord-10247,2022-03-24 08:00:00,41,Male,Australia,Food & Beverage,86.5,9,0.34,Crypto,Completed,3,513.81,2022,3,Mar,Thursday,1,36-45
+Ord-10551,2022-07-03 16:00:00,66,Female,Brazil,Books,127.38,7,0.21,Paypal,Completed,4,704.41,2022,7,Jul,Sunday,3,56-70
+Ord-11140,2023-01-16 00:00:00,29,Other,Canada,Toys,81.36,2,0.26,Paypal,Pending,3,120.41,2023,1,Jan,Monday,1,26-35
+Ord-11133,2023-01-13 16:00:00,43,Other,Usa,Electronics,31.05,2,0.17,Credit Card,Completed,5,51.54,2023,1,Jan,Friday,1,36-45
+Ord-10923,2022-11-04 16:00:00,48,Male,Brazil,Home & Garden,25.25,11,0.2,Crypto,Completed,5,222.2,2022,11,Nov,Friday,4,46-55
+Ord-10216,2022-03-14 00:00:00,66,Female,Germany,Sports,57.89,1,0.26,Debit Card,Completed,5,42.84,2022,3,Mar,Monday,1,56-70
+Ord-10856,2022-10-13 08:00:00,48,Male,Germany,Food & Beverage,26.0,1,0.03,Bank Transfer,Completed,4,25.22,2022,10,Oct,Thursday,4,46-55
+Ord-10543,2022-07-01 00:00:00,18,Female,India,Electronics,186.24,5,0.35,Debit Card,Completed,5,605.28,2022,7,Jul,Friday,3,18-25
+Ord-10493,2022-06-14 08:00:00,51,Other,Australia,Home & Garden,21.41,9,0.03,Paypal,Completed,5,186.91,2022,6,Jun,Tuesday,2,46-55
+Ord-11011,2022-12-04 00:00:00,43,Male,Brazil,Sports,138.15,14,0.06,Credit Card,Completed,4,1462.3449999999998,2022,12,Dec,Sunday,4,36-45
+Ord-10464,2022-06-04 16:00:00,56,Female,Canada,Food & Beverage,249.85750000000002,14,0.0,Bank Transfer,Cancelled,4,1462.3449999999998,2022,6,Jun,Saturday,2,56-70
+Ord-10391,2022-05-11 08:00:00,38,Female,France,Beauty,27.51,10,0.15,Debit Card,Completed,5,233.84,2022,5,May,Wednesday,2,36-45
+Ord-10438,2022-05-27 00:00:00,29,Other,France,Toys,158.07,14,0.13,Bank Transfer,Pending,3,1462.3449999999998,2022,5,May,Friday,2,26-35
+Ord-10582,2022-07-14 00:00:00,43,Other,Australia,Toys,48.36,8,0.07,Bank Transfer,Pending,4,359.8,2022,7,Jul,Thursday,3,36-45
+Ord-11016,2022-12-05 16:00:00,37,Male,Germany,Electronics,16.43,2,0.31,Crypto,Completed,5,22.67,2022,12,Dec,Monday,4,36-45
+Ord-10326,2022-04-19 16:00:00,35,Female,Germany,Toys,249.85750000000002,2,0.08,Credit Card,Completed,4,603.28,2022,4,Apr,Tuesday,2,26-35
+Ord-11196,2023-02-03 16:00:00,69,Other,Canada,Clothing,134.3,7,0.15,Paypal,Completed,4,799.09,2023,2,Feb,Friday,1,56-70
+Ord-10465,2022-06-05 00:00:00,21,Other,France,Toys,7.54,8,0.17,Paypal,Completed,4,50.07,2022,6,Jun,Sunday,2,18-25
+Ord-10553,2022-07-04 08:00:00,49,Male,Uk,Toys,57.99,12,0.14,Bank Transfer,Cancelled,1,598.46,2022,7,Jul,Monday,3,46-55
+Ord-10061,2022-01-21 08:00:00,64,Other,Canada,Books,43.15,9,0.21,Bank Transfer,Completed,5,306.8,2022,1,Jan,Friday,1,56-70
+Ord-10418,2022-05-20 08:00:00,60,Other,India,Books,5.73,11,0.11,Credit Card,Pending,3,56.1,2022,5,May,Friday,2,56-70
+Ord-10875,2022-10-19 16:00:00,38,Female,Usa,Electronics,33.63,13,0.02,Bank Transfer,Completed,4,428.45,2022,10,Oct,Wednesday,4,36-45
+Ord-10538,2022-06-29 08:00:00,69,Other,France,Books,142.83,10,0.06,Debit Card,Completed,2,1342.6,2022,6,Jun,Wednesday,2,56-70
+Ord-10155,2022-02-21 16:00:00,30,Other,India,Electronics,147.07,13,0.4,Debit Card,Completed,5,1147.15,2022,2,Feb,Monday,1,26-35
+Ord-11034,2022-12-11 16:00:00,36,Other,France,Books,13.94,5,0.01,Paypal,Pending,4,69.0,2022,12,Dec,Sunday,4,36-45
+Ord-10714,2022-08-27 00:00:00,36,Male,Brazil,Sports,32.25,5,0.13,Credit Card,Cancelled,4,140.29,2022,8,Aug,Saturday,3,36-45
+Ord-10082,2022-01-28 08:00:00,65,Female,Canada,Home & Garden,31.01,7,0.26,Credit Card,Completed,5,160.63,2022,1,Jan,Friday,1,56-70
+Ord-10680,2022-08-15 16:00:00,43,Female,Usa,Food & Beverage,17.4,2,0.09,Credit Card,Completed,4,31.67,2022,8,Aug,Monday,3,36-45
+Ord-10366,2022-05-03 00:00:00,50,Other,Canada,Electronics,7.89,12,0.27,Crypto,Completed,5,69.12,2022,5,May,Tuesday,2,46-55
+Ord-10611,2022-07-23 16:00:00,53,Male,Uk,Food & Beverage,78.68,10,0.07,Debit Card,Completed,5,731.72,2022,7,Jul,Saturday,3,46-55
+Ord-10348,2022-04-27 00:00:00,68,Male,Australia,Clothing,64.56,8,0.28,Paypal,Completed,4,371.87,2022,4,Apr,Wednesday,2,56-70
+Ord-11014,2022-12-05 00:00:00,34,Other,Uk,Books,44.86,3,0.24,Crypto,Completed,5,102.28,2022,12,Dec,Monday,4,26-35
+Ord-11153,2023-01-20 08:00:00,52,Female,India,Books,152.6,1,0.19,Debit Card,Completed,4,123.61,2023,1,Jan,Friday,1,46-55
+Ord-10166,2022-02-25 08:00:00,56,Other,Brazil,Home & Garden,55.95,6,0.32,Paypal,Completed,4,228.28,2022,2,Feb,Friday,1,56-70
+Ord-10937,2022-11-09 08:00:00,67,Other,India,Food & Beverage,92.8,9,0.22,Crypto,Completed,4,651.46,2022,11,Nov,Wednesday,4,56-70
+Ord-10996,2022-11-29 00:00:00,64,Female,France,Beauty,148.81,13,0.3,Bank Transfer,Pending,5,1354.17,2022,11,Nov,Tuesday,4,56-70
+Ord-10546,2022-07-02 00:00:00,21,Female,Australia,Sports,80.93,4,0.04,Debit Card,Completed,2,310.77,2022,7,Jul,Saturday,3,18-25
+Ord-10204,2022-03-10 00:00:00,43,Other,France,Clothing,12.57,5,0.3,Debit Card,Completed,4,44.0,2022,3,Mar,Thursday,1,36-45
+Ord-10967,2022-11-19 08:00:00,65,Other,Canada,Beauty,20.66,14,0.23,Paypal,Completed,4,222.71,2022,11,Nov,Saturday,4,56-70
+Ord-10605,2022-07-21 16:00:00,26,Female,Brazil,Beauty,43.74,14,0.22,Credit Card,Pending,3,477.64,2022,7,Jul,Thursday,3,26-35
+Ord-11152,2023-01-20 00:00:00,47,Other,India,Sports,117.93,6,0.23,Crypto,Refunded,5,544.84,2023,1,Jan,Friday,1,46-55
+Ord-10186,2022-03-04 00:00:00,37,Male,Germany,Home & Garden,60.05,8,0.37,Bank Transfer,Completed,4,302.65,2022,3,Mar,Friday,1,36-45
+Ord-11081,2022-12-27 08:00:00,25,Other,Uk,Toys,14.4,3,0.12,Credit Card,Completed,5,38.02,2022,12,Dec,Tuesday,4,18-25
+Ord-10009,2022-01-04 00:00:00,40,Other,India,Clothing,105.16,11,0.26,Debit Card,Completed,4,856.0,2022,1,Jan,Tuesday,1,36-45
+Ord-10010,2022-01-04 08:00:00,28,Other,Brazil,Toys,59.49,7,0.02,Credit Card,Cancelled,3,408.1,2022,1,Jan,Tuesday,1,26-35
+Ord-11005,2022-12-02 00:00:00,45,Other,India,Home & Garden,29.74,12,0.08,Paypal,Completed,3,328.33,2022,12,Dec,Friday,4,36-45
+Ord-10918,2022-11-03 00:00:00,28,Male,Usa,Books,24.06,6,0.23,Crypto,Completed,4,111.16,2022,11,Nov,Thursday,4,26-35
+Ord-10630,2022-07-30 00:00:00,37,Male,India,Books,78.05,3,0.32,Bank Transfer,Completed,4,159.22,2022,7,Jul,Saturday,3,36-45
+Ord-10822,2022-10-02 00:00:00,43,Other,Usa,Electronics,23.47,11,0.2,Credit Card,Pending,5,206.54,2022,10,Oct,Sunday,4,36-45
+Ord-10555,2022-07-05 00:00:00,37,Female,Uk,Books,69.42,4,0.32,Bank Transfer,Refunded,1,188.82,2022,7,Jul,Tuesday,3,36-45
+Ord-10289,2022-04-07 08:00:00,43,Male,Canada,Toys,172.43,11,0.07,Debit Card,Completed,5,1462.3449999999998,2022,4,Apr,Thursday,2,36-45
+Ord-10427,2022-05-23 08:00:00,41,Female,France,Clothing,117.1,14,0.04,Crypto,Completed,5,1462.3449999999998,2022,5,May,Monday,2,36-45
+Ord-10561,2022-07-07 00:00:00,50,Female,Brazil,Beauty,51.19,12,0.2,Bank Transfer,Completed,5,491.42,2022,7,Jul,Thursday,3,46-55
+Ord-10733,2022-09-02 08:00:00,55,Other,Brazil,Electronics,77.6,5,0.11,Paypal,Completed,3,345.32,2022,9,Sep,Friday,3,46-55
+Ord-10459,2022-06-03 00:00:00,50,Female,Canada,Sports,151.58,7,0.34,Credit Card,Completed,5,700.3,2022,6,Jun,Friday,2,46-55
+Ord-11169,2023-01-25 16:00:00,57,Male,France,Food & Beverage,46.18,3,0.39,Credit Card,Completed,3,84.51,2023,1,Jan,Wednesday,1,56-70
+Ord-10965,2022-11-18 16:00:00,47,Female,France,Sports,127.12,3,0.26,Crypto,Completed,4,282.21,2022,11,Nov,Friday,4,46-55
+Ord-10656,2022-08-07 16:00:00,43,Female,Germany,Toys,249.85750000000002,1,0.03,Crypto,Completed,3,340.04,2022,8,Aug,Sunday,3,36-45
+Ord-10780,2022-09-18 00:00:00,53,Female,Germany,Food & Beverage,15.52,4,0.31,Debit Card,Completed,3,42.84,2022,9,Sep,Sunday,3,46-55
+Ord-10151,2022-02-20 08:00:00,32,Female,Uk,Home & Garden,37.74,1,0.1,Crypto,Completed,5,33.97,2022,2,Feb,Sunday,1,26-35
+Ord-10112,2022-02-07 08:00:00,34,Male,Usa,Food & Beverage,11.28,11,0.23,Credit Card,Completed,4,95.54,2022,2,Feb,Monday,1,26-35
+Ord-10423,2022-05-22 00:00:00,43,Other,Brazil,Home & Garden,50.28,14,0.03,Debit Card,Completed,4,682.8,2022,5,May,Sunday,2,36-45
+Ord-11031,2022-12-10 16:00:00,57,Female,Brazil,Food & Beverage,181.14,13,0.18,Bank Transfer,Completed,4,1462.3449999999998,2022,12,Dec,Saturday,4,56-70
+Ord-10130,2022-02-13 08:00:00,41,Male,Brazil,Beauty,70.08,10,0.05,Crypto,Completed,1,665.76,2022,2,Feb,Sunday,1,36-45
+Ord-10461,2022-06-03 16:00:00,61,Other,Brazil,Beauty,25.91,12,0.27,Crypto,Completed,3,226.97,2022,6,Jun,Friday,2,56-70
+Ord-11060,2022-12-20 08:00:00,48,Female,Australia,Home & Garden,127.04,13,0.14,Debit Card,Pending,4,1420.31,2022,12,Dec,Tuesday,4,46-55
+Ord-10000,2022-01-01 00:00:00,56,Male,India,Home & Garden,59.72,1,0.29,Paypal,Completed,4,42.4,2022,1,Jan,Saturday,1,56-70
+Ord-10850,2022-10-11 08:00:00,18,Female,Usa,Clothing,93.6,1,0.23,Crypto,Pending,5,72.07,2022,10,Oct,Tuesday,4,18-25
+Ord-10944,2022-11-11 16:00:00,59,Female,India,Electronics,15.41,3,0.3,Credit Card,Completed,3,32.36,2022,11,Nov,Friday,4,56-70
+Ord-10975,2022-11-22 00:00:00,69,Male,Uk,Electronics,90.3,3,0.39,Bank Transfer,Pending,5,165.25,2022,11,Nov,Tuesday,4,56-70
+Ord-10719,2022-08-28 16:00:00,67,Other,France,Electronics,51.12,14,0.2,Paypal,Refunded,5,572.54,2022,8,Aug,Sunday,3,56-70
+Ord-10730,2022-09-01 08:00:00,66,Other,Uk,Sports,71.31,13,0.38,Debit Card,Completed,3,574.76,2022,9,Sep,Thursday,3,56-70
+Ord-10977,2022-11-22 16:00:00,64,Other,Usa,Home & Garden,108.08,8,0.06,Credit Card,Completed,5,812.76,2022,11,Nov,Tuesday,4,56-70
+Ord-10411,2022-05-18 00:00:00,59,Male,Australia,Toys,28.95,3,0.28,Credit Card,Completed,5,62.53,2022,5,May,Wednesday,2,56-70
+Ord-10322,2022-04-18 08:00:00,42,Female,Germany,Toys,249.85750000000002,13,0.29,Credit Card,Completed,4,1462.3449999999998,2022,4,Apr,Monday,2,36-45
+Ord-10001,2022-01-01 08:00:00,69,Male,Usa,Electronics,113.22,1,0.27,Credit Card,Completed,3,82.65,2022,1,Jan,Saturday,1,56-70
+Ord-10978,2022-11-23 00:00:00,39,Other,Brazil,Toys,130.65,4,0.15,Credit Card,Completed,1,444.21,2022,11,Nov,Wednesday,4,36-45
+Ord-10435,2022-05-26 00:00:00,63,Other,Canada,Books,56.33,9,0.27,Credit Card,Completed,5,370.09,2022,5,May,Thursday,2,56-70
+Ord-10452,2022-05-31 16:00:00,66,Other,Canada,Electronics,55.57,4,0.16,Credit Card,Completed,5,186.72,2022,5,May,Tuesday,2,56-70
+Ord-10038,2022-01-13 16:00:00,61,Female,Uk,Books,108.6,3,0.29,Credit Card,Refunded,3,231.32,2022,1,Jan,Thursday,1,56-70
+Ord-10183,2022-03-03 00:00:00,45,Male,Uk,Home & Garden,60.15,6,0.0,Credit Card,Completed,5,360.9,2022,3,Mar,Thursday,1,36-45
+Ord-10217,2022-03-14 08:00:00,66,Male,Australia,Toys,30.17,2,0.1,Bank Transfer,Completed,4,54.31,2022,3,Mar,Monday,1,56-70
+Ord-10729,2022-09-01 00:00:00,45,Female,Australia,Clothing,80.29,7,0.11,Credit Card,Completed,1,500.21,2022,9,Sep,Thursday,3,36-45
+Ord-10306,2022-04-13 00:00:00,33,Female,Brazil,Sports,12.69,11,0.11,Bank Transfer,Completed,4,124.24,2022,4,Apr,Wednesday,2,26-35
+Ord-11020,2022-12-07 00:00:00,20,Female,Brazil,Beauty,137.39,8,0.01,Credit Card,Completed,4,1088.13,2022,12,Dec,Wednesday,4,18-25
+Ord-10549,2022-07-03 00:00:00,33,Male,Australia,Beauty,240.53,3,0.1,Paypal,Completed,4,649.43,2022,7,Jul,Sunday,3,26-35
+Ord-10313,2022-04-15 08:00:00,28,Other,France,Beauty,158.29,4,0.2,Credit Card,Completed,4,506.53,2022,4,Apr,Friday,2,26-35
+Ord-10927,2022-11-06 00:00:00,21,Male,Brazil,Sports,73.48,6,0.33,Credit Card,Completed,5,295.39,2022,11,Nov,Sunday,4,18-25
+Ord-10700,2022-08-22 08:00:00,34,Male,Brazil,Food & Beverage,205.75,13,0.36,Paypal,Cancelled,4,1462.3449999999998,2022,8,Aug,Monday,3,26-35
+Ord-10331,2022-04-21 08:00:00,33,Other,Germany,Books,113.8,9,0.28,Credit Card,Pending,4,737.42,2022,4,Apr,Thursday,2,26-35
+Ord-10036,2022-01-13 00:00:00,64,Other,France,Clothing,13.5,14,0.26,Crypto,Cancelled,4,139.86,2022,1,Jan,Thursday,1,56-70
+Ord-10110,2022-02-06 16:00:00,28,Female,India,Clothing,13.69,2,0.25,Credit Card,Completed,4,20.54,2022,2,Feb,Sunday,1,26-35
+Ord-10802,2022-09-25 08:00:00,67,Male,Canada,Home & Garden,194.06,2,0.09,Paypal,Pending,3,353.19,2022,9,Sep,Sunday,3,56-70
+Ord-10916,2022-11-02 08:00:00,60,Female,France,Electronics,107.24,5,0.32,Debit Card,Pending,4,364.62,2022,11,Nov,Wednesday,4,56-70
+Ord-11028,2022-12-09 16:00:00,51,Other,Germany,Toys,44.07,5,0.02,Credit Card,Cancelled,2,215.94,2022,12,Dec,Friday,4,46-55
+Ord-10818,2022-09-30 16:00:00,30,Other,Germany,Beauty,66.32,11,0.27,Paypal,Pending,4,532.55,2022,9,Sep,Friday,3,26-35
+Ord-10990,2022-11-27 00:00:00,24,Female,Usa,Beauty,129.98,13,0.1,Crypto,Refunded,4,1462.3449999999998,2022,11,Nov,Sunday,4,18-25
+Ord-10713,2022-08-26 16:00:00,43,Female,Brazil,Food & Beverage,12.59,11,0.08,Crypto,Completed,4,127.41,2022,8,Aug,Friday,3,36-45
+Ord-10577,2022-07-12 08:00:00,63,Female,India,Electronics,67.55,13,0.27,Credit Card,Completed,4,641.05,2022,7,Jul,Tuesday,3,56-70
+Ord-11051,2022-12-17 08:00:00,21,Female,Usa,Food & Beverage,249.85750000000002,3,0.23,Credit Card,Completed,5,1462.3449999999998,2022,12,Dec,Saturday,4,18-25
+Ord-10433,2022-05-25 08:00:00,18,Male,Australia,Food & Beverage,122.92,4,0.39,Credit Card,Pending,4,299.92,2022,5,May,Wednesday,2,18-25
+Ord-10163,2022-02-24 08:00:00,47,Male,Brazil,Food & Beverage,14.7,1,0.25,Paypal,Completed,4,11.02,2022,2,Feb,Thursday,1,46-55
+Ord-10263,2022-03-29 16:00:00,53,Other,Uk,Books,15.27,7,0.11,Paypal,Completed,2,95.13,2022,3,Mar,Tuesday,1,46-55
+Ord-10231,2022-03-19 00:00:00,40,Other,Brazil,Sports,54.25,7,0.23,Debit Card,Cancelled,2,292.41,2022,3,Mar,Saturday,1,36-45
+Ord-10302,2022-04-11 16:00:00,43,Male,Germany,Books,57.28,6,0.31,Bank Transfer,Completed,5,237.14,2022,4,Apr,Monday,2,36-45
+Ord-10175,2022-02-28 08:00:00,68,Other,Australia,Electronics,48.81,6,0.29,Bank Transfer,Pending,2,207.93,2022,2,Feb,Monday,1,56-70
+Ord-10821,2022-10-01 16:00:00,58,Male,Australia,Food & Beverage,25.93,10,0.07,Debit Card,Completed,3,241.15,2022,10,Oct,Saturday,4,56-70
+Ord-10149,2022-02-19 16:00:00,44,Other,Usa,Electronics,198.19,6,0.32,Bank Transfer,Completed,3,808.62,2022,2,Feb,Saturday,1,36-45
+Ord-10071,2022-01-24 16:00:00,59,Other,Germany,Electronics,57.44,4,0.32,Crypto,Completed,4,156.24,2022,1,Jan,Monday,1,56-70
+Ord-10168,2022-02-26 00:00:00,32,Female,Canada,Beauty,58.05,6,0.38,Credit Card,Refunded,5,215.95,2022,2,Feb,Saturday,1,26-35
+Ord-10455,2022-06-01 16:00:00,23,Female,Uk,Toys,159.05,14,0.1,Paypal,Completed,5,1462.3449999999998,2022,6,Jun,Wednesday,2,18-25
+Ord-10089,2022-01-30 16:00:00,33,Other,Brazil,Sports,162.65,9,0.18,Debit Card,Pending,3,1200.36,2022,1,Jan,Sunday,1,26-35
+Ord-10117,2022-02-09 00:00:00,22,Other,Australia,Home & Garden,134.06,10,0.27,Credit Card,Cancelled,5,978.64,2022,2,Feb,Wednesday,1,18-25
+Ord-10487,2022-06-12 08:00:00,40,Other,India,Home & Garden,65.46,4,0.1,Debit Card,Completed,5,235.66,2022,6,Jun,Sunday,2,36-45
+Ord-10321,2022-04-18 00:00:00,65,Male,Australia,Books,15.63,12,0.28,Crypto,Pending,4,135.04,2022,4,Apr,Monday,2,56-70
+Ord-11003,2022-12-01 08:00:00,42,Female,Uk,Home & Garden,88.1,14,0.02,Paypal,Completed,4,1208.73,2022,12,Dec,Thursday,4,36-45
+Ord-10531,2022-06-27 00:00:00,47,Other,Brazil,Food & Beverage,11.89,8,0.2,Paypal,Completed,4,76.1,2022,6,Jun,Monday,2,46-55
+Ord-10946,2022-11-12 08:00:00,38,Other,Canada,Electronics,225.47,12,0.19,Crypto,Completed,2,1462.3449999999998,2022,11,Nov,Saturday,4,36-45
+Ord-10241,2022-03-22 08:00:00,23,Male,Canada,Electronics,129.86,12,0.19,Bank Transfer,Completed,4,1262.24,2022,3,Mar,Tuesday,1,18-25
+Ord-10898,2022-10-27 08:00:00,59,Other,Germany,Clothing,39.01,13,0.13,Paypal,Pending,5,441.2,2022,10,Oct,Thursday,4,56-70
+Ord-10702,2022-08-23 00:00:00,42,Male,France,Beauty,231.25,14,0.36,Credit Card,Completed,4,1462.3449999999998,2022,8,Aug,Tuesday,3,36-45
+Ord-10914,2022-11-01 16:00:00,30,Other,Germany,Books,94.74,5,0.12,Paypal,Completed,4,416.86,2022,11,Nov,Tuesday,4,26-35
+Ord-10692,2022-08-19 16:00:00,55,Female,Canada,Food & Beverage,42.51,7,0.32,Credit Card,Refunded,5,202.35,2022,8,Aug,Friday,3,46-55
+Ord-10270,2022-04-01 00:00:00,24,Other,Brazil,Home & Garden,9.52,8,0.21,Credit Card,Refunded,3,60.17,2022,4,Apr,Friday,2,18-25
+Ord-10111,2022-02-07 00:00:00,68,Male,Usa,Sports,37.56,8,0.31,Debit Card,Completed,1,207.33,2022,2,Feb,Monday,1,56-70
+Ord-10595,2022-07-18 08:00:00,67,Male,Germany,Home & Garden,75.95,13,0.09,Bank Transfer,Completed,5,898.49,2022,7,Jul,Monday,3,56-70
+Ord-10516,2022-06-22 00:00:00,64,Female,France,Food & Beverage,195.72,1,0.25,Credit Card,Completed,5,146.79,2022,6,Jun,Wednesday,2,56-70
+Ord-10226,2022-03-17 08:00:00,34,Other,France,Food & Beverage,38.77,4,0.35,Crypto,Completed,3,100.8,2022,3,Mar,Thursday,1,26-35
+Ord-10496,2022-06-15 08:00:00,42,Male,Germany,Food & Beverage,77.97,6,0.32,Paypal,Pending,3,318.12,2022,6,Jun,Wednesday,2,36-45
+Ord-10498,2022-06-16 00:00:00,62,Other,Germany,Clothing,27.75,8,0.37,Paypal,Cancelled,4,139.86,2022,6,Jun,Thursday,2,56-70
+Ord-10889,2022-10-24 08:00:00,44,Other,Brazil,Clothing,165.01,12,0.04,Crypto,Completed,4,1462.3449999999998,2022,10,Oct,Monday,4,36-45
+Ord-11080,2022-12-27 00:00:00,28,Male,Brazil,Books,8.58,7,0.4,Credit Card,Completed,3,36.04,2022,12,Dec,Tuesday,4,26-35
+Ord-10195,2022-03-07 00:00:00,69,Female,India,Home & Garden,59.54,5,0.01,Debit Card,Pending,4,294.72,2022,3,Mar,Monday,1,56-70
+Ord-10836,2022-10-06 16:00:00,54,Male,Usa,Toys,141.61,5,0.01,Credit Card,Completed,4,700.97,2022,10,Oct,Thursday,4,46-55
+Ord-10932,2022-11-07 16:00:00,49,Male,Uk,Clothing,187.83,12,0.23,Credit Card,Completed,5,1462.3449999999998,2022,11,Nov,Monday,4,46-55
+Ord-10137,2022-02-15 16:00:00,52,Female,Canada,Electronics,236.18,5,0.11,Bank Transfer,Completed,4,1051.0,2022,2,Feb,Tuesday,1,46-55
+Ord-10876,2022-10-20 00:00:00,31,Other,Canada,Clothing,249.85750000000002,3,0.13,Debit Card,Completed,4,843.21,2022,10,Oct,Thursday,4,26-35
+Ord-10528,2022-06-26 00:00:00,56,Male,France,Beauty,11.01,8,0.12,Bank Transfer,Pending,5,77.51,2022,6,Jun,Sunday,2,56-70
+Ord-10507,2022-06-19 00:00:00,43,Male,Brazil,Beauty,17.96,14,0.37,Debit Card,Completed,1,158.41,2022,6,Jun,Sunday,2,36-45
+Ord-10943,2022-11-11 08:00:00,45,Other,Canada,Food & Beverage,124.95,3,0.2,Paypal,Completed,3,299.88,2022,11,Nov,Friday,4,36-45
+Ord-10393,2022-05-12 00:00:00,40,Female,Uk,Electronics,18.99,6,0.26,Paypal,Completed,4,84.32,2022,5,May,Thursday,2,36-45
+Ord-10382,2022-05-08 08:00:00,54,Female,Germany,Electronics,63.07,9,0.29,Bank Transfer,Completed,1,403.02,2022,5,May,Sunday,2,46-55
+Ord-10221,2022-03-15 16:00:00,19,Male,Uk,Sports,154.88,3,0.2,Credit Card,Completed,1,371.71,2022,3,Mar,Tuesday,1,18-25
+Ord-10756,2022-09-10 00:00:00,43,Other,Uk,Sports,63.92,12,0.13,Bank Transfer,Pending,4,667.32,2022,9,Sep,Saturday,3,36-45
+Ord-10409,2022-05-17 08:00:00,19,Female,Australia,Electronics,69.99,13,0.16,Credit Card,Cancelled,4,764.29,2022,5,May,Tuesday,2,18-25
+Ord-10677,2022-08-14 16:00:00,61,Other,Australia,Home & Garden,65.78,14,0.26,Crypto,Pending,4,681.48,2022,8,Aug,Sunday,3,56-70
+Ord-10785,2022-09-19 16:00:00,37,Male,Brazil,Beauty,131.16,4,0.01,Paypal,Completed,5,519.39,2022,9,Sep,Monday,3,36-45
+Ord-10328,2022-04-20 08:00:00,35,Male,Canada,Food & Beverage,78.46,3,0.13,Debit Card,Cancelled,4,204.78,2022,4,Apr,Wednesday,2,26-35
+Ord-10012,2022-01-05 00:00:00,41,Male,France,Electronics,13.69,10,0.38,Paypal,Cancelled,5,84.88,2022,1,Jan,Wednesday,1,36-45
+Ord-10958,2022-11-16 08:00:00,62,Female,France,Beauty,58.03,7,0.23,Paypal,Completed,2,312.78,2022,11,Nov,Wednesday,4,56-70
+Ord-10206,2022-03-10 16:00:00,68,Female,France,Home & Garden,10.66,4,0.16,Paypal,Refunded,4,35.82,2022,3,Mar,Thursday,1,56-70
+Ord-10103,2022-02-04 08:00:00,43,Male,Usa,Electronics,32.86,5,0.22,Credit Card,Completed,3,128.15,2022,2,Feb,Friday,1,36-45
+Ord-10309,2022-04-14 00:00:00,41,Other,Germany,Books,110.42,3,0.29,Paypal,Completed,5,235.19,2022,4,Apr,Thursday,2,36-45
+Ord-10816,2022-09-30 00:00:00,44,Other,India,Electronics,167.76,11,0.18,Paypal,Completed,2,1462.3449999999998,2022,9,Sep,Friday,3,36-45
+Ord-10734,2022-09-02 16:00:00,23,Other,France,Food & Beverage,68.12,14,0.08,Credit Card,Completed,2,877.39,2022,9,Sep,Friday,3,18-25
+Ord-11124,2023-01-10 16:00:00,26,Other,Uk,Sports,12.88,5,0.17,Crypto,Completed,3,53.45,2023,1,Jan,Tuesday,1,26-35
+Ord-10180,2022-03-02 00:00:00,62,Other,Germany,Electronics,143.34,3,0.23,Crypto,Pending,4,331.12,2022,3,Mar,Wednesday,1,56-70
+Ord-11156,2023-01-21 08:00:00,22,Male,Brazil,Food & Beverage,15.66,2,0.09,Crypto,Cancelled,5,28.5,2023,1,Jan,Saturday,1,18-25
+Ord-11198,2023-02-04 08:00:00,64,Male,Brazil,Sports,110.83,7,0.33,Paypal,Completed,4,519.79,2023,2,Feb,Saturday,1,56-70
+Ord-10497,2022-06-15 16:00:00,57,Female,Germany,Beauty,79.78,9,0.33,Paypal,Completed,2,481.07,2022,6,Jun,Wednesday,2,56-70
+Ord-10316,2022-04-16 08:00:00,53,Other,Germany,Clothing,30.98,14,0.33,Crypto,Completed,2,290.59,2022,4,Apr,Saturday,2,46-55
+Ord-11039,2022-12-13 08:00:00,69,Female,Brazil,Clothing,114.7,3,0.04,Bank Transfer,Completed,3,330.34,2022,12,Dec,Tuesday,4,56-70
+Ord-10327,2022-04-20 00:00:00,43,Female,Australia,Sports,177.47,6,0.14,Paypal,Completed,2,915.75,2022,4,Apr,Wednesday,2,36-45
+Ord-10660,2022-08-09 00:00:00,43,Other,France,Sports,86.73,12,0.39,Credit Card,Completed,5,634.86,2022,8,Aug,Tuesday,3,36-45
+Ord-10346,2022-04-26 08:00:00,65,Other,Brazil,Electronics,63.43,5,0.18,Credit Card,Completed,4,260.06,2022,4,Apr,Tuesday,2,56-70
+Ord-10210,2022-03-12 00:00:00,32,Other,Australia,Food & Beverage,107.28,13,0.23,Paypal,Refunded,4,1073.87,2022,3,Mar,Saturday,1,26-35
+Ord-10567,2022-07-09 00:00:00,18,Female,Brazil,Clothing,36.92,9,0.2,Paypal,Pending,4,265.82,2022,7,Jul,Saturday,3,18-25
+Ord-10142,2022-02-17 08:00:00,31,Female,Canada,Clothing,85.24,1,0.02,Paypal,Completed,4,83.54,2022,2,Feb,Thursday,1,26-35
+Ord-10514,2022-06-21 08:00:00,45,Female,France,Home & Garden,118.2,3,0.31,Crypto,Pending,5,244.67,2022,6,Jun,Tuesday,2,36-45
+Ord-10362,2022-05-01 16:00:00,47,Female,Canada,Sports,30.5,7,0.06,Credit Card,Completed,1,200.69,2022,5,May,Sunday,2,46-55
+Ord-10004,2022-01-02 08:00:00,60,Other,India,Electronics,116.68,4,0.38,Credit Card,Cancelled,5,289.37,2022,1,Jan,Sunday,1,56-70
+Ord-10044,2022-01-15 16:00:00,38,Other,Usa,Beauty,89.3,5,0.04,Paypal,Refunded,4,428.64,2022,1,Jan,Saturday,1,36-45
+Ord-10281,2022-04-04 16:00:00,42,Male,Brazil,Home & Garden,46.47,4,0.27,Bank Transfer,Completed,3,135.69,2022,4,Apr,Monday,2,36-45
+Ord-10202,2022-03-09 08:00:00,44,Male,France,Sports,249.85750000000002,8,0.4,Crypto,Completed,5,1247.09,2022,3,Mar,Wednesday,1,36-45
+Ord-10907,2022-10-30 08:00:00,34,Female,Canada,Toys,73.38,10,0.32,Bank Transfer,Completed,2,498.98,2022,10,Oct,Sunday,4,26-35
+Ord-10358,2022-04-30 08:00:00,44,Female,India,Clothing,185.24,2,0.22,Debit Card,Completed,4,288.97,2022,4,Apr,Saturday,2,36-45
+Ord-10563,2022-07-07 16:00:00,60,Other,France,Electronics,76.97,8,0.35,Crypto,Completed,2,400.24,2022,7,Jul,Thursday,3,56-70
+Ord-10885,2022-10-23 00:00:00,51,Female,France,Toys,94.07,7,0.08,Bank Transfer,Completed,5,605.81,2022,10,Oct,Sunday,4,46-55
+Ord-10371,2022-05-04 16:00:00,52,Male,Germany,Sports,28.3,1,0.33,Credit Card,Pending,4,18.96,2022,5,May,Wednesday,2,46-55
+Ord-10962,2022-11-17 16:00:00,64,Other,France,Beauty,50.02,3,0.09,Crypto,Refunded,3,136.55,2022,11,Nov,Thursday,4,56-70
+Ord-10952,2022-11-14 08:00:00,43,Female,India,Clothing,78.82,4,0.18,Credit Card,Completed,5,258.53,2022,11,Nov,Monday,4,36-45
+Ord-11046,2022-12-15 16:00:00,39,Other,Germany,Electronics,54.58,14,0.3,Credit Card,Completed,3,534.88,2022,12,Dec,Thursday,4,36-45
+Ord-10237,2022-03-21 00:00:00,19,Male,Germany,Clothing,13.7,5,0.38,Credit Card,Completed,4,42.47,2022,3,Mar,Monday,1,18-25
+Ord-10995,2022-11-28 16:00:00,60,Male,Brazil,Books,36.27,6,0.25,Paypal,Cancelled,4,163.22,2022,11,Nov,Monday,4,56-70
+Ord-10683,2022-08-16 16:00:00,57,Female,Australia,Home & Garden,19.18,12,0.0,Crypto,Completed,4,230.16,2022,8,Aug,Tuesday,3,56-70
+Ord-10273,2022-04-02 00:00:00,43,Male,Brazil,Electronics,249.85750000000002,12,0.09,Bank Transfer,Pending,2,1462.3449999999998,2022,4,Apr,Saturday,2,36-45
+Ord-10632,2022-07-30 16:00:00,42,Other,Canada,Books,26.64,7,0.19,Debit Card,Completed,2,151.05,2022,7,Jul,Saturday,3,36-45
+Ord-10194,2022-03-06 16:00:00,43,Female,Usa,Toys,85.21,7,0.17,Paypal,Refunded,5,495.07,2022,3,Mar,Sunday,1,36-45
+Ord-10513,2022-06-21 00:00:00,31,Female,Germany,Clothing,90.6,5,0.27,Debit Card,Completed,4,330.69,2022,6,Jun,Tuesday,2,26-35
+Ord-10614,2022-07-24 16:00:00,56,Other,Germany,Electronics,62.5,5,0.35,Paypal,Completed,3,203.12,2022,7,Jul,Sunday,3,56-70
+Ord-10431,2022-05-24 16:00:00,62,Other,France,Electronics,240.45,14,0.11,Bank Transfer,Completed,4,1462.3449999999998,2022,5,May,Tuesday,2,56-70
+Ord-10674,2022-08-13 16:00:00,29,Other,India,Sports,28.47,2,0.15,Credit Card,Completed,4,48.4,2022,8,Aug,Saturday,3,26-35
+Ord-11084,2022-12-28 08:00:00,62,Other,Usa,Food & Beverage,42.73,14,0.18,Bank Transfer,Pending,5,490.54,2022,12,Dec,Wednesday,4,56-70
+Ord-10209,2022-03-11 16:00:00,41,Other,Australia,Books,202.69,11,0.38,Credit Card,Cancelled,4,1382.35,2022,3,Mar,Friday,1,36-45
+Ord-10162,2022-02-24 00:00:00,21,Female,Canada,Clothing,126.04,6,0.03,Debit Card,Refunded,3,733.55,2022,2,Feb,Thursday,1,18-25
+Ord-10635,2022-07-31 16:00:00,36,Male,Usa,Electronics,51.68,7,0.28,Paypal,Completed,5,260.47,2022,7,Jul,Sunday,3,36-45
+Ord-10920,2022-11-03 16:00:00,64,Male,Australia,Food & Beverage,36.15,11,0.06,Debit Card,Completed,5,373.79,2022,11,Nov,Thursday,4,56-70
+Ord-10087,2022-01-30 00:00:00,57,Female,Germany,Sports,54.15,6,0.31,Bank Transfer,Completed,4,224.18,2022,1,Jan,Sunday,1,56-70
+Ord-10345,2022-04-26 00:00:00,50,Female,France,Toys,24.5,10,0.39,Crypto,Completed,3,149.45,2022,4,Apr,Tuesday,2,46-55
+Ord-10971,2022-11-20 16:00:00,18,Female,Canada,Electronics,25.79,3,0.07,Credit Card,Refunded,4,71.95,2022,11,Nov,Sunday,4,18-25
+Ord-10717,2022-08-28 00:00:00,62,Female,Brazil,Home & Garden,120.92,6,0.17,Bank Transfer,Completed,1,602.18,2022,8,Aug,Sunday,3,56-70
+Ord-10190,2022-03-05 08:00:00,42,Male,India,Electronics,29.49,10,0.13,Credit Card,Completed,4,256.56,2022,3,Mar,Saturday,1,36-45
+Ord-10752,2022-09-08 16:00:00,43,Male,Usa,Toys,45.12,6,0.1,Crypto,Pending,4,243.65,2022,9,Sep,Thursday,3,36-45
+Ord-10178,2022-03-01 08:00:00,19,Other,India,Beauty,99.01,10,0.27,Credit Card,Refunded,4,722.77,2022,3,Mar,Tuesday,1,18-25
+Ord-10768,2022-09-14 00:00:00,41,Other,Brazil,Clothing,81.85,9,0.4,Crypto,Completed,5,441.99,2022,9,Sep,Wednesday,3,36-45
+Ord-10556,2022-07-05 08:00:00,41,Female,Canada,Toys,77.8,6,0.12,Bank Transfer,Cancelled,3,410.78,2022,7,Jul,Tuesday,3,36-45
+Ord-10912,2022-11-01 00:00:00,23,Male,Usa,Home & Garden,67.08,8,0.03,Paypal,Pending,3,520.54,2022,11,Nov,Tuesday,4,18-25
+Ord-10392,2022-05-11 16:00:00,49,Female,Brazil,Food & Beverage,18.7,9,0.38,Credit Card,Completed,4,104.35,2022,5,May,Wednesday,2,46-55
+Ord-10833,2022-10-05 16:00:00,20,Female,Canada,Books,249.85750000000002,5,0.27,Debit Card,Pending,5,1462.3449999999998,2022,10,Oct,Wednesday,4,18-25
+Ord-10888,2022-10-24 00:00:00,32,Male,Australia,Beauty,129.06,1,0.11,Debit Card,Completed,3,114.86,2022,10,Oct,Monday,4,26-35
+Ord-10744,2022-09-06 00:00:00,54,Other,Brazil,Clothing,155.27,11,0.04,Crypto,Completed,5,1462.3449999999998,2022,9,Sep,Tuesday,3,46-55
+Ord-10981,2022-11-24 00:00:00,45,Female,Australia,Sports,39.99,1,0.03,Paypal,Completed,5,38.79,2022,11,Nov,Thursday,4,36-45
+Ord-11072,2022-12-24 08:00:00,32,Female,Germany,Books,15.7,12,0.3,Crypto,Refunded,5,131.88,2022,12,Dec,Saturday,4,26-35
+Ord-10883,2022-10-22 08:00:00,43,Female,Uk,Home & Garden,122.09,12,0.15,Paypal,Completed,5,1245.32,2022,10,Oct,Saturday,4,36-45
+Ord-10511,2022-06-20 08:00:00,39,Female,France,Food & Beverage,249.85750000000002,5,0.15,Paypal,Cancelled,4,1271.43,2022,6,Jun,Monday,2,36-45
+Ord-10983,2022-11-24 16:00:00,31,Male,Usa,Beauty,57.57,1,0.34,Paypal,Refunded,5,38.0,2022,11,Nov,Thursday,4,26-35
+Ord-10439,2022-05-27 08:00:00,68,Female,Australia,Clothing,249.85750000000002,10,0.11,Paypal,Pending,4,1462.3449999999998,2022,5,May,Friday,2,56-70
+Ord-10728,2022-08-31 16:00:00,30,Female,Canada,Electronics,84.59,1,0.28,Paypal,Pending,5,60.9,2022,8,Aug,Wednesday,3,26-35
+Ord-10471,2022-06-07 00:00:00,64,Male,Canada,Electronics,51.71,1,0.17,Crypto,Completed,2,42.92,2022,6,Jun,Tuesday,2,56-70
+Ord-10398,2022-05-13 16:00:00,59,Male,Brazil,Books,101.05,5,0.3,Credit Card,Completed,4,353.67,2022,5,May,Friday,2,56-70
+Ord-11191,2023-02-02 00:00:00,20,Other,Germany,Toys,15.44,1,0.03,Crypto,Completed,4,14.98,2023,2,Feb,Thursday,1,18-25
+Ord-10035,2022-01-12 16:00:00,32,Other,India,Beauty,16.98,3,0.13,Bank Transfer,Completed,2,44.32,2022,1,Jan,Wednesday,1,26-35
+Ord-10205,2022-03-10 08:00:00,50,Female,India,Books,122.92,6,0.15,Credit Card,Completed,4,626.89,2022,3,Mar,Thursday,1,46-55
+Ord-10608,2022-07-22 16:00:00,66,Male,Canada,Electronics,26.51,4,0.22,Debit Card,Completed,4,82.71,2022,7,Jul,Friday,3,56-70
+Ord-11100,2023-01-02 16:00:00,55,Other,Germany,Home & Garden,24.99,5,0.1,Debit Card,Completed,4,112.46,2023,1,Jan,Monday,1,46-55
+Ord-10893,2022-10-25 16:00:00,43,Other,Australia,Home & Garden,10.22,13,0.3,Credit Card,Refunded,5,93.0,2022,10,Oct,Tuesday,4,36-45
+Ord-10043,2022-01-15 08:00:00,24,Other,Canada,Home & Garden,6.86,1,0.02,Crypto,Pending,5,6.72,2022,1,Jan,Saturday,1,18-25
+Ord-10261,2022-03-29 00:00:00,20,Male,France,Home & Garden,56.28,12,0.35,Crypto,Completed,4,438.98,2022,3,Mar,Tuesday,1,18-25
+Ord-11029,2022-12-10 00:00:00,64,Other,Brazil,Electronics,52.85,1,0.01,Paypal,Refunded,3,52.32,2022,12,Dec,Saturday,4,56-70
+Ord-10429,2022-05-24 00:00:00,43,Male,Uk,Books,20.27,3,0.25,Crypto,Completed,4,45.61,2022,5,May,Tuesday,2,36-45
+Ord-10851,2022-10-11 16:00:00,66,Female,Canada,Books,249.85750000000002,13,0.24,Bank Transfer,Pending,4,1462.3449999999998,2022,10,Oct,Tuesday,4,56-70
+Ord-10228,2022-03-18 00:00:00,19,Female,Germany,Sports,47.59,6,0.38,Crypto,Completed,5,177.03,2022,3,Mar,Friday,1,18-25
+Ord-10724,2022-08-30 08:00:00,58,Other,Usa,Electronics,42.69,14,0.33,Bank Transfer,Completed,5,400.43,2022,8,Aug,Tuesday,3,56-70
+Ord-10005,2022-01-02 16:00:00,25,Male,Canada,Beauty,103.2,11,0.28,Credit Card,Completed,4,817.34,2022,1,Jan,Sunday,1,18-25
+Ord-10874,2022-10-19 08:00:00,54,Male,Canada,Clothing,5.1,2,0.34,Credit Card,Pending,5,6.73,2022,10,Oct,Wednesday,4,46-55
+Ord-11179,2023-01-29 00:00:00,34,Other,France,Clothing,78.73,3,0.25,Crypto,Completed,4,177.14,2023,1,Jan,Sunday,1,26-35
+Ord-10585,2022-07-15 00:00:00,25,Other,Germany,Beauty,20.31,10,0.29,Debit Card,Completed,3,144.2,2022,7,Jul,Friday,3,18-25
+Ord-10727,2022-08-31 08:00:00,20,Male,Uk,Books,36.85,11,0.11,Crypto,Completed,3,360.76,2022,8,Aug,Wednesday,3,18-25
+Ord-10629,2022-07-29 16:00:00,43,Other,India,Home & Garden,76.02,5,0.01,Bank Transfer,Completed,2,376.3,2022,7,Jul,Friday,3,36-45
+Ord-11172,2023-01-26 16:00:00,68,Other,Australia,Electronics,107.82,2,0.17,Debit Card,Completed,4,178.98,2023,1,Jan,Thursday,1,56-70
+Ord-10312,2022-04-15 00:00:00,43,Other,Australia,Electronics,33.19,9,0.21,Credit Card,Completed,2,235.98,2022,4,Apr,Friday,2,36-45
+Ord-10075,2022-01-26 00:00:00,43,Female,Usa,Sports,200.12,12,0.12,Crypto,Refunded,3,1462.3449999999998,2022,1,Jan,Wednesday,1,36-45
+Ord-10173,2022-02-27 16:00:00,49,Other,France,Books,24.67,5,0.06,Paypal,Completed,4,115.95,2022,2,Feb,Sunday,1,46-55
+Ord-10094,2022-02-01 08:00:00,43,Male,Usa,Electronics,45.51,13,0.1,Paypal,Completed,4,532.47,2022,2,Feb,Tuesday,1,36-45
+Ord-10788,2022-09-20 16:00:00,43,Other,France,Food & Beverage,49.21,10,0.3,Bank Transfer,Pending,2,344.47,2022,9,Sep,Tuesday,3,36-45
+Ord-10825,2022-10-03 00:00:00,65,Other,India,Food & Beverage,84.98,11,0.26,Crypto,Cancelled,5,691.74,2022,10,Oct,Monday,4,56-70
+Ord-10419,2022-05-20 16:00:00,65,Male,Germany,Food & Beverage,141.6,2,0.11,Paypal,Completed,4,252.05,2022,5,May,Friday,2,56-70
+Ord-10747,2022-09-07 00:00:00,43,Other,Uk,Books,14.23,3,0.17,Bank Transfer,Completed,3,35.43,2022,9,Sep,Wednesday,3,36-45
+Ord-10220,2022-03-15 08:00:00,56,Male,Canada,Beauty,152.38,14,0.04,Bank Transfer,Completed,5,1462.3449999999998,2022,3,Mar,Tuesday,1,56-70
+Ord-10508,2022-06-19 08:00:00,33,Female,Brazil,Sports,54.98,2,0.23,Credit Card,Pending,5,84.67,2022,6,Jun,Sunday,2,26-35
+Ord-10710,2022-08-25 16:00:00,56,Male,France,Food & Beverage,166.06,3,0.19,Credit Card,Completed,4,403.53,2022,8,Aug,Thursday,3,56-70
+Ord-11042,2022-12-14 08:00:00,62,Male,Uk,Toys,13.91,7,0.07,Debit Card,Completed,4,90.55,2022,12,Dec,Wednesday,4,56-70
+Ord-10607,2022-07-22 08:00:00,43,Male,Australia,Toys,149.63,11,0.17,Bank Transfer,Cancelled,5,1366.12,2022,7,Jul,Friday,3,36-45
+Ord-10387,2022-05-10 00:00:00,48,Other,Australia,Beauty,164.9,7,0.17,Credit Card,Pending,4,958.07,2022,5,May,Tuesday,2,46-55
+Ord-10093,2022-02-01 00:00:00,41,Male,Germany,Food & Beverage,249.85750000000002,9,0.09,Credit Card,Cancelled,4,1462.3449999999998,2022,2,Feb,Tuesday,1,36-45
+Ord-10334,2022-04-22 08:00:00,50,Male,Usa,Clothing,249.85750000000002,12,0.38,Debit Card,Completed,3,1462.3449999999998,2022,4,Apr,Friday,2,46-55
+Ord-10751,2022-09-08 08:00:00,58,Male,Usa,Clothing,56.81,5,0.35,Debit Card,Completed,5,184.63,2022,9,Sep,Thursday,3,56-70
+Ord-10956,2022-11-15 16:00:00,31,Female,India,Electronics,22.03,14,0.38,Crypto,Completed,2,191.22,2022,11,Nov,Tuesday,4,26-35
+Ord-11110,2023-01-06 00:00:00,43,Other,Germany,Sports,109.14,14,0.0,Credit Card,Completed,5,1462.3449999999998,2023,1,Jan,Friday,1,36-45
+Ord-10651,2022-08-06 00:00:00,22,Male,Canada,Electronics,52.3,13,0.03,Credit Card,Completed,5,659.5,2022,8,Aug,Saturday,3,18-25
+Ord-10148,2022-02-19 08:00:00,56,Female,Canada,Home & Garden,102.38,7,0.39,Paypal,Completed,3,437.16,2022,2,Feb,Saturday,1,56-70
+Ord-10753,2022-09-09 00:00:00,31,Other,France,Electronics,68.78,10,0.22,Crypto,Completed,4,536.48,2022,9,Sep,Friday,3,26-35
+Ord-10482,2022-06-10 16:00:00,36,Other,Brazil,Home & Garden,18.88,9,0.3,Crypto,Refunded,5,118.94,2022,6,Jun,Friday,2,36-45
+Ord-10402,2022-05-15 00:00:00,63,Male,Uk,Home & Garden,55.11,4,0.17,Crypto,Pending,2,182.97,2022,5,May,Sunday,2,56-70
+Ord-10249,2022-03-25 00:00:00,69,Female,Brazil,Beauty,108.02,5,0.03,Bank Transfer,Completed,5,523.9,2022,3,Mar,Friday,1,56-70
+Ord-10340,2022-04-24 08:00:00,37,Female,Canada,Books,7.99,6,0.15,Crypto,Completed,5,40.75,2022,4,Apr,Sunday,2,36-45
+Ord-10997,2022-11-29 08:00:00,62,Male,France,Food & Beverage,84.39,6,0.06,Credit Card,Completed,4,475.96,2022,11,Nov,Tuesday,4,56-70
+Ord-10200,2022-03-08 16:00:00,23,Male,Brazil,Beauty,48.86,4,0.16,Paypal,Completed,3,164.17,2022,3,Mar,Tuesday,1,18-25
+Ord-11183,2023-01-30 08:00:00,31,Other,France,Food & Beverage,17.91,12,0.33,Crypto,Completed,3,144.0,2023,1,Jan,Monday,1,26-35
+Ord-10091,2022-01-31 08:00:00,35,Other,Brazil,Beauty,21.31,6,0.12,Debit Card,Completed,1,112.52,2022,1,Jan,Monday,1,26-35
+Ord-10732,2022-09-02 00:00:00,43,Other,Uk,Food & Beverage,68.61,5,0.13,Crypto,Completed,3,298.45,2022,9,Sep,Friday,3,36-45
+Ord-10540,2022-06-30 00:00:00,43,Other,Germany,Toys,93.79,13,0.03,Paypal,Completed,4,1182.69,2022,6,Jun,Thursday,2,36-45
+Ord-10691,2022-08-19 08:00:00,54,Female,Australia,Clothing,249.85750000000002,9,0.3,Credit Card,Completed,4,1462.3449999999998,2022,8,Aug,Friday,3,46-55
+Ord-10584,2022-07-14 16:00:00,43,Other,Canada,Food & Beverage,151.83,12,0.29,Crypto,Completed,3,1293.59,2022,7,Jul,Thursday,3,36-45
+Ord-10442,2022-05-28 08:00:00,45,Other,Canada,Sports,88.43,6,0.38,Crypto,Cancelled,4,328.96,2022,5,May,Saturday,2,36-45
+Ord-10609,2022-07-23 00:00:00,52,Male,India,Home & Garden,124.69,12,0.28,Credit Card,Pending,4,1077.32,2022,7,Jul,Saturday,3,46-55
+Ord-11105,2023-01-04 08:00:00,60,Other,Brazil,Beauty,9.43,9,0.23,Paypal,Completed,5,65.35,2023,1,Jan,Wednesday,1,56-70
+Ord-10410,2022-05-17 16:00:00,44,Female,Usa,Books,118.06,2,0.3,Paypal,Completed,4,165.28,2022,5,May,Tuesday,2,36-45
+Ord-10987,2022-11-26 00:00:00,43,Other,Usa,Food & Beverage,27.86,3,0.09,Credit Card,Completed,3,76.06,2022,11,Nov,Saturday,4,36-45
+Ord-11145,2023-01-17 16:00:00,39,Other,France,Toys,155.74,9,0.36,Credit Card,Pending,1,897.06,2023,1,Jan,Tuesday,1,36-45
+Ord-10568,2022-07-09 08:00:00,50,Other,Australia,Home & Garden,55.82,1,0.08,Credit Card,Completed,3,51.35,2022,7,Jul,Saturday,3,46-55
+Ord-10972,2022-11-21 00:00:00,25,Female,Usa,Food & Beverage,26.18,4,0.33,Bank Transfer,Completed,2,70.16,2022,11,Nov,Monday,4,18-25
+Ord-10694,2022-08-20 08:00:00,25,Male,France,Food & Beverage,27.39,13,0.06,Crypto,Completed,4,334.71,2022,8,Aug,Saturday,3,18-25
+Ord-10642,2022-08-03 00:00:00,26,Male,India,Home & Garden,242.42,14,0.34,Credit Card,Completed,4,1462.3449999999998,2022,8,Aug,Wednesday,3,26-35
+Ord-10687,2022-08-18 00:00:00,44,Male,Uk,Books,26.38,1,0.03,Crypto,Pending,4,25.59,2022,8,Aug,Thursday,3,36-45
+Ord-10335,2022-04-22 16:00:00,21,Female,Brazil,Food & Beverage,25.97,12,0.2,Debit Card,Cancelled,2,249.31,2022,4,Apr,Friday,2,18-25
+Ord-10314,2022-04-15 16:00:00,66,Female,Germany,Books,105.58,2,0.15,Credit Card,Completed,5,179.49,2022,4,Apr,Friday,2,56-70
+Ord-10782,2022-09-18 16:00:00,34,Female,Brazil,Food & Beverage,133.67,8,0.13,Credit Card,Cancelled,5,930.34,2022,9,Sep,Sunday,3,26-35
+Ord-10980,2022-11-23 16:00:00,43,Other,Canada,Electronics,89.92,1,0.15,Crypto,Completed,5,76.43,2022,11,Nov,Wednesday,4,36-45
+Ord-10506,2022-06-18 16:00:00,29,Male,France,Sports,249.85750000000002,11,0.15,Debit Card,Completed,4,1462.3449999999998,2022,6,Jun,Saturday,2,26-35
+Ord-11106,2023-01-04 16:00:00,20,Female,Germany,Sports,35.86,6,0.36,Crypto,Completed,3,137.7,2023,1,Jan,Wednesday,1,18-25
+Ord-10133,2022-02-14 08:00:00,61,Female,Australia,Electronics,249.85750000000002,1,0.1,Debit Card,Cancelled,1,327.46,2022,2,Feb,Monday,1,56-70
+Ord-10092,2022-01-31 16:00:00,64,Female,India,Beauty,33.49,12,0.03,Credit Card,Completed,4,389.82,2022,1,Jan,Monday,1,56-70
+Ord-10834,2022-10-06 00:00:00,40,Other,France,Beauty,6.28,14,0.33,Credit Card,Completed,4,58.91,2022,10,Oct,Thursday,4,36-45
+Ord-10592,2022-07-17 08:00:00,58,Male,Usa,Beauty,61.23,8,0.1,Debit Card,Completed,3,440.86,2022,7,Jul,Sunday,3,56-70
+Ord-11097,2023-01-01 16:00:00,18,Other,France,Clothing,28.92,14,0.39,Credit Card,Cancelled,3,246.98,2023,1,Jan,Sunday,1,18-25
+Ord-10394,2022-05-12 08:00:00,50,Other,India,Books,37.52,5,0.27,Credit Card,Completed,4,136.95,2022,5,May,Thursday,2,46-55
+Ord-11103,2023-01-03 16:00:00,53,Other,France,Sports,70.28,3,0.3,Paypal,Completed,4,147.59,2023,1,Jan,Tuesday,1,46-55
+Ord-10278,2022-04-03 16:00:00,18,Female,India,Home & Garden,178.02,12,0.29,Paypal,Cancelled,2,1462.3449999999998,2022,4,Apr,Sunday,2,18-25
+Ord-10575,2022-07-11 16:00:00,29,Female,Australia,Beauty,89.74,2,0.24,Credit Card,Completed,4,136.4,2022,7,Jul,Monday,3,26-35
+Ord-10573,2022-07-11 00:00:00,46,Male,India,Toys,19.11,6,0.3,Credit Card,Cancelled,2,80.26,2022,7,Jul,Monday,3,46-55
+Ord-11171,2023-01-26 08:00:00,49,Male,Germany,Home & Garden,62.09,11,0.39,Crypto,Pending,2,416.62,2023,1,Jan,Thursday,1,46-55
+Ord-10735,2022-09-03 00:00:00,61,Other,France,Clothing,52.02,1,0.28,Credit Card,Completed,5,37.45,2022,9,Sep,Saturday,3,56-70
+Ord-11136,2023-01-14 16:00:00,31,Female,Australia,Beauty,90.73,14,0.22,Bank Transfer,Completed,4,990.77,2023,1,Jan,Saturday,1,26-35
+Ord-11158,2023-01-22 00:00:00,31,Male,Brazil,Books,87.48,9,0.24,Paypal,Cancelled,3,598.36,2023,1,Jan,Sunday,1,26-35
+Ord-10279,2022-04-04 00:00:00,28,Male,Usa,Sports,65.45,11,0.39,Credit Card,Pending,2,439.17,2022,4,Apr,Monday,2,26-35
+Ord-10639,2022-08-02 00:00:00,58,Male,Australia,Beauty,17.6,3,0.21,Crypto,Completed,4,41.71,2022,8,Aug,Tuesday,3,56-70
+Ord-10337,2022-04-23 08:00:00,31,Other,India,Beauty,15.26,5,0.07,Crypto,Completed,5,70.96,2022,4,Apr,Saturday,2,26-35
+Ord-10227,2022-03-17 16:00:00,43,Male,India,Toys,39.65,3,0.11,Bank Transfer,Completed,3,105.87,2022,3,Mar,Thursday,1,36-45
+Ord-10698,2022-08-21 16:00:00,39,Female,Uk,Clothing,249.85750000000002,3,0.07,Credit Card,Pending,3,1462.3449999999998,2022,8,Aug,Sunday,3,36-45
+Ord-10008,2022-01-03 16:00:00,36,Male,France,Clothing,23.31,12,0.31,Bank Transfer,Pending,4,193.01,2022,1,Jan,Monday,1,36-45
+Ord-10085,2022-01-29 08:00:00,31,Female,Usa,Electronics,62.92,8,0.01,Crypto,Completed,5,498.33,2022,1,Jan,Saturday,1,26-35
+Ord-11104,2023-01-04 00:00:00,30,Male,Usa,Electronics,20.93,9,0.3,Credit Card,Completed,5,131.86,2023,1,Jan,Wednesday,1,26-35
+Ord-11123,2023-01-10 08:00:00,34,Other,Australia,Beauty,18.15,4,0.14,Credit Card,Pending,4,62.44,2023,1,Jan,Tuesday,1,26-35
+Ord-10068,2022-01-23 16:00:00,21,Female,India,Home & Garden,164.33,4,0.05,Bank Transfer,Pending,5,624.45,2022,1,Jan,Sunday,1,18-25
+Ord-11162,2023-01-23 08:00:00,62,Other,Usa,Food & Beverage,92.02,9,0.21,Bank Transfer,Completed,2,654.26,2023,1,Jan,Monday,1,56-70
+Ord-10096,2022-02-02 00:00:00,62,Other,France,Clothing,133.67,8,0.3,Crypto,Completed,5,748.55,2022,2,Feb,Wednesday,1,56-70
+Ord-10341,2022-04-24 16:00:00,25,Male,France,Electronics,249.85750000000002,3,0.01,Debit Card,Completed,4,763.97,2022,4,Apr,Sunday,2,18-25
+Ord-10121,2022-02-10 08:00:00,45,Other,France,Beauty,46.94,14,0.12,Paypal,Completed,5,578.3,2022,2,Feb,Thursday,1,36-45
+Ord-10156,2022-02-22 00:00:00,68,Other,Brazil,Home & Garden,38.87,2,0.28,Crypto,Completed,2,55.97,2022,2,Feb,Tuesday,1,56-70
+Ord-11017,2022-12-06 00:00:00,42,Other,Canada,Beauty,13.62,8,0.16,Debit Card,Completed,4,91.53,2022,12,Dec,Tuesday,4,36-45
+Ord-10024,2022-01-09 00:00:00,38,Female,Canada,Beauty,71.69,14,0.08,Bank Transfer,Completed,4,923.37,2022,1,Jan,Sunday,1,36-45
+Ord-10633,2022-07-31 00:00:00,39,Male,Uk,Clothing,26.4,7,0.22,Paypal,Completed,3,144.14,2022,7,Jul,Sunday,3,36-45
+Ord-10470,2022-06-06 16:00:00,47,Male,Brazil,Clothing,119.2,8,0.1,Bank Transfer,Completed,5,858.24,2022,6,Jun,Monday,2,46-55
+Ord-10557,2022-07-05 16:00:00,29,Other,Brazil,Home & Garden,127.54,12,0.37,Paypal,Pending,4,964.2,2022,7,Jul,Tuesday,3,26-35
+Ord-10723,2022-08-30 00:00:00,25,Female,Australia,Toys,167.54,9,0.15,Paypal,Completed,4,1281.68,2022,8,Aug,Tuesday,3,18-25
+Ord-10293,2022-04-08 16:00:00,66,Female,Canada,Clothing,5.02,13,0.39,Debit Card,Refunded,5,39.81,2022,4,Apr,Friday,2,56-70
+Ord-10772,2022-09-15 08:00:00,53,Other,Usa,Sports,65.79,1,0.34,Crypto,Completed,5,43.42,2022,9,Sep,Thursday,3,46-55
+Ord-10414,2022-05-19 00:00:00,34,Female,Brazil,Books,36.61,11,0.16,Credit Card,Completed,4,338.28,2022,5,May,Thursday,2,26-35
+Ord-10164,2022-02-24 16:00:00,54,Other,Uk,Beauty,71.74,1,0.39,Credit Card,Pending,4,43.76,2022,2,Feb,Thursday,1,46-55
+Ord-10120,2022-02-10 00:00:00,43,Female,India,Clothing,166.39,8,0.37,Paypal,Completed,3,838.61,2022,2,Feb,Thursday,1,36-45
+Ord-10905,2022-10-29 16:00:00,34,Other,Brazil,Electronics,19.12,9,0.03,Crypto,Cancelled,4,166.92,2022,10,Oct,Saturday,4,26-35
+Ord-10696,2022-08-21 00:00:00,62,Female,Brazil,Toys,164.97,10,0.25,Credit Card,Completed,3,1237.28,2022,8,Aug,Sunday,3,56-70
+Ord-10282,2022-04-05 00:00:00,67,Female,Usa,Clothing,72.97,14,0.3,Debit Card,Cancelled,5,715.11,2022,4,Apr,Tuesday,2,56-70
+Ord-10364,2022-05-02 08:00:00,45,Other,Germany,Electronics,8.63,1,0.12,Debit Card,Completed,4,7.59,2022,5,May,Monday,2,36-45
+Ord-10746,2022-09-06 16:00:00,52,Male,Australia,Sports,139.46,4,0.15,Debit Card,Completed,5,474.16,2022,9,Sep,Tuesday,3,46-55
+Ord-10310,2022-04-14 08:00:00,50,Male,France,Sports,5.27,1,0.3,Bank Transfer,Pending,5,3.69,2022,4,Apr,Thursday,2,46-55
+Ord-10510,2022-06-20 00:00:00,54,Female,France,Beauty,45.27,5,0.11,Credit Card,Completed,4,201.45,2022,6,Jun,Monday,2,46-55
+Ord-10179,2022-03-01 16:00:00,59,Female,India,Clothing,96.95,2,0.07,Crypto,Completed,3,180.33,2022,3,Mar,Tuesday,1,56-70
+Ord-10911,2022-10-31 16:00:00,51,Other,Germany,Clothing,45.49,5,0.06,Crypto,Completed,2,213.8,2022,10,Oct,Monday,4,46-55
+Ord-10809,2022-09-27 16:00:00,43,Other,Australia,Electronics,94.04,1,0.4,Debit Card,Cancelled,4,56.42,2022,9,Sep,Tuesday,3,36-45
+Ord-10820,2022-10-01 08:00:00,51,Female,Usa,Beauty,34.95,4,0.38,Paypal,Pending,4,86.68,2022,10,Oct,Saturday,4,46-55
+Ord-10069,2022-01-24 00:00:00,19,Other,Germany,Clothing,210.07,8,0.01,Credit Card,Pending,3,1462.3449999999998,2022,1,Jan,Monday,1,18-25
+Ord-10783,2022-09-19 00:00:00,26,Female,Australia,Beauty,21.32,1,0.26,Crypto,Completed,5,15.78,2022,9,Sep,Monday,3,26-35
+Ord-11108,2023-01-05 08:00:00,23,Female,Usa,Beauty,30.1,7,0.3,Paypal,Completed,5,147.49,2023,1,Jan,Thursday,1,18-25
+Ord-10523,2022-06-24 08:00:00,33,Other,Australia,Clothing,57.68,3,0.03,Debit Card,Completed,4,167.85,2022,6,Jun,Friday,2,26-35
+Ord-11065,2022-12-22 00:00:00,48,Male,Uk,Books,28.59,8,0.11,Bank Transfer,Completed,5,203.56,2022,12,Dec,Thursday,4,46-55
+Ord-10804,2022-09-26 00:00:00,22,Male,Australia,Toys,70.07,8,0.37,Debit Card,Completed,5,353.15,2022,9,Sep,Monday,3,18-25
+Ord-10815,2022-09-29 16:00:00,43,Female,Uk,Electronics,26.45,8,0.02,Crypto,Completed,3,207.37,2022,9,Sep,Thursday,3,36-45
+Ord-10123,2022-02-11 00:00:00,43,Other,Germany,Home & Garden,28.43,5,0.36,Credit Card,Completed,4,90.98,2022,2,Feb,Friday,1,36-45
+Ord-10863,2022-10-15 16:00:00,29,Male,Canada,Books,52.3,1,0.35,Bank Transfer,Pending,4,33.99,2022,10,Oct,Saturday,4,26-35
+Ord-10058,2022-01-20 08:00:00,24,Female,Germany,Beauty,34.85,9,0.0,Credit Card,Refunded,4,313.65,2022,1,Jan,Thursday,1,18-25
+Ord-11189,2023-02-01 08:00:00,23,Female,Australia,Clothing,63.77,10,0.13,Paypal,Pending,5,554.8,2023,2,Feb,Wednesday,1,18-25
+Ord-10363,2022-05-02 00:00:00,50,Other,France,Beauty,56.8,6,0.12,Paypal,Completed,3,299.9,2022,5,May,Monday,2,46-55
+Ord-10265,2022-03-30 08:00:00,43,Female,Australia,Food & Beverage,22.11,13,0.02,Crypto,Completed,4,281.68,2022,3,Mar,Wednesday,1,36-45
+Ord-10248,2022-03-24 16:00:00,22,Male,France,Electronics,118.85,4,0.08,Credit Card,Cancelled,4,437.37,2022,3,Mar,Thursday,1,18-25
+Ord-10380,2022-05-07 16:00:00,52,Female,Uk,Toys,10.08,7,0.25,Bank Transfer,Refunded,4,52.92,2022,5,May,Saturday,2,46-55
+Ord-10604,2022-07-21 08:00:00,54,Male,Usa,Food & Beverage,40.6,1,0.25,Crypto,Pending,5,30.45,2022,7,Jul,Thursday,3,46-55
+Ord-11115,2023-01-07 16:00:00,19,Male,France,Clothing,58.62,6,0.35,Credit Card,Completed,5,228.62,2023,1,Jan,Saturday,1,18-25
+Ord-10550,2022-07-03 08:00:00,19,Male,Usa,Home & Garden,83.53,4,0.21,Debit Card,Pending,5,263.95,2022,7,Jul,Sunday,3,18-25
+Ord-10147,2022-02-19 00:00:00,31,Other,Uk,Food & Beverage,87.38,9,0.34,Debit Card,Completed,4,519.04,2022,2,Feb,Saturday,1,26-35
+Ord-10251,2022-03-25 16:00:00,23,Male,Australia,Electronics,249.85750000000002,8,0.38,Credit Card,Completed,2,1462.3449999999998,2022,3,Mar,Friday,1,18-25
+Ord-11018,2022-12-06 08:00:00,21,Female,India,Clothing,91.0,10,0.33,Credit Card,Refunded,5,609.7,2022,12,Dec,Tuesday,4,18-25
+Ord-11181,2023-01-29 16:00:00,64,Other,Brazil,Clothing,36.1,6,0.23,Debit Card,Cancelled,3,166.78,2023,1,Jan,Sunday,1,56-70
+Ord-10212,2022-03-12 16:00:00,43,Male,Canada,Food & Beverage,243.56,8,0.32,Paypal,Completed,3,1324.97,2022,3,Mar,Saturday,1,36-45
+Ord-10440,2022-05-27 16:00:00,40,Female,Germany,Food & Beverage,95.17,6,0.24,Bank Transfer,Completed,4,433.98,2022,5,May,Friday,2,36-45
+Ord-11093,2022-12-31 08:00:00,37,Male,India,Home & Garden,249.85750000000002,7,0.04,Credit Card,Refunded,3,1462.3449999999998,2022,12,Dec,Saturday,4,36-45
+Ord-10564,2022-07-08 00:00:00,54,Male,India,Home & Garden,89.05,2,0.04,Credit Card,Refunded,3,170.98,2022,7,Jul,Friday,3,46-55
+Ord-11000,2022-11-30 08:00:00,52,Other,Canada,Toys,8.49,6,0.04,Debit Card,Completed,4,48.9,2022,11,Nov,Wednesday,4,46-55
+Ord-10330,2022-04-21 00:00:00,52,Male,France,Beauty,249.85750000000002,12,0.34,Credit Card,Completed,4,1462.3449999999998,2022,4,Apr,Thursday,2,46-55
+Ord-10432,2022-05-25 00:00:00,37,Female,Australia,Home & Garden,19.56,11,0.01,Credit Card,Completed,4,213.01,2022,5,May,Wednesday,2,36-45
+Ord-10276,2022-04-03 00:00:00,35,Other,Usa,Food & Beverage,70.8,8,0.09,Credit Card,Completed,4,515.42,2022,4,Apr,Sunday,2,26-35
+Ord-11135,2023-01-14 08:00:00,67,Other,Australia,Sports,174.5,7,0.05,Paypal,Completed,4,1160.42,2023,1,Jan,Saturday,1,56-70
+Ord-10291,2022-04-08 00:00:00,65,Other,Usa,Books,54.58,7,0.36,Debit Card,Pending,4,244.52,2022,4,Apr,Friday,2,56-70
+Ord-10901,2022-10-28 08:00:00,22,Female,India,Books,144.57,12,0.05,Paypal,Refunded,2,1462.3449999999998,2022,10,Oct,Friday,4,18-25
+Ord-10448,2022-05-30 08:00:00,68,Male,Australia,Electronics,141.65,10,0.08,Bank Transfer,Completed,3,1303.18,2022,5,May,Monday,2,56-70
+Ord-11074,2022-12-25 00:00:00,66,Male,Australia,Beauty,14.68,2,0.11,Debit Card,Completed,5,26.13,2022,12,Dec,Sunday,4,56-70
+Ord-10303,2022-04-12 00:00:00,52,Male,Usa,Toys,74.54,10,0.23,Debit Card,Pending,3,573.96,2022,4,Apr,Tuesday,2,46-55
+Ord-11096,2023-01-01 08:00:00,64,Male,Uk,Food & Beverage,174.14,9,0.06,Paypal,Completed,4,1462.3449999999998,2023,1,Jan,Sunday,1,56-70
+Ord-11190,2023-02-01 16:00:00,23,Male,Uk,Food & Beverage,42.4,13,0.08,Paypal,Completed,5,507.1,2023,2,Feb,Wednesday,1,18-25
+Ord-10940,2022-11-10 08:00:00,38,Female,Germany,Home & Garden,61.44,12,0.36,Credit Card,Completed,3,471.86,2022,11,Nov,Thursday,4,36-45
+Ord-10067,2022-01-23 08:00:00,57,Female,Brazil,Home & Garden,47.82,9,0.39,Paypal,Pending,4,262.53,2022,1,Jan,Sunday,1,56-70
+Ord-10019,2022-01-07 08:00:00,41,Female,Australia,Food & Beverage,58.3,3,0.02,Credit Card,Completed,5,171.4,2022,1,Jan,Friday,1,36-45
+Ord-10324,2022-04-19 00:00:00,42,Other,Canada,Books,28.98,4,0.11,Bank Transfer,Refunded,5,103.17,2022,4,Apr,Tuesday,2,36-45
+Ord-10054,2022-01-19 00:00:00,19,Male,Brazil,Beauty,19.48,2,0.2,Paypal,Cancelled,4,31.17,2022,1,Jan,Wednesday,1,18-25
+Ord-10963,2022-11-18 00:00:00,43,Other,France,Books,19.97,2,0.22,Bank Transfer,Completed,4,31.15,2022,11,Nov,Friday,4,36-45
+Ord-10931,2022-11-07 08:00:00,43,Female,Usa,Electronics,16.99,7,0.29,Crypto,Completed,5,84.44,2022,11,Nov,Monday,4,36-45
+Ord-11193,2023-02-02 16:00:00,68,Other,Brazil,Toys,26.52,11,0.19,Crypto,Completed,2,236.29,2023,2,Feb,Thursday,1,56-70
+Ord-10150,2022-02-20 00:00:00,26,Male,Germany,Toys,83.42,7,0.34,Crypto,Refunded,5,385.4,2022,2,Feb,Sunday,1,26-35
+Ord-11073,2022-12-24 16:00:00,23,Other,France,Books,56.45,2,0.11,Debit Card,Completed,3,100.48,2022,12,Dec,Saturday,4,18-25
+Ord-10743,2022-09-05 16:00:00,28,Male,Brazil,Electronics,247.06,6,0.08,Paypal,Completed,3,1363.77,2022,9,Sep,Monday,3,26-35
+Ord-10749,2022-09-07 16:00:00,35,Other,Australia,Toys,64.83,7,0.1,Debit Card,Completed,5,408.43,2022,9,Sep,Wednesday,3,26-35
+Ord-10755,2022-09-09 16:00:00,48,Other,France,Home & Garden,105.56,12,0.27,Paypal,Pending,5,924.71,2022,9,Sep,Friday,3,46-55
+Ord-11048,2022-12-16 08:00:00,23,Male,Germany,Clothing,249.85750000000002,14,0.31,Credit Card,Completed,5,1462.3449999999998,2022,12,Dec,Friday,4,18-25
+Ord-10811,2022-09-28 08:00:00,28,Other,India,Sports,121.42,2,0.26,Crypto,Completed,5,179.7,2022,9,Sep,Wednesday,3,26-35
+Ord-10661,2022-08-09 08:00:00,62,Male,Brazil,Toys,25.36,10,0.03,Crypto,Pending,4,245.99,2022,8,Aug,Tuesday,3,56-70
+Ord-10255,2022-03-27 00:00:00,33,Other,Brazil,Electronics,9.24,8,0.33,Crypto,Cancelled,1,49.53,2022,3,Mar,Sunday,1,26-35
+Ord-10934,2022-11-08 08:00:00,43,Female,France,Food & Beverage,35.56,1,0.31,Debit Card,Completed,4,24.54,2022,11,Nov,Tuesday,4,36-45
+Ord-10869,2022-10-17 16:00:00,43,Female,India,Toys,117.47,11,0.01,Crypto,Pending,4,1279.25,2022,10,Oct,Monday,4,36-45
+Ord-11176,2023-01-28 00:00:00,32,Other,France,Home & Garden,9.34,2,0.28,Bank Transfer,Completed,3,13.45,2023,1,Jan,Saturday,1,26-35
+Ord-10892,2022-10-25 08:00:00,69,Male,Australia,Sports,18.88,3,0.39,Credit Card,Completed,5,34.55,2022,10,Oct,Tuesday,4,56-70
+Ord-10873,2022-10-19 00:00:00,32,Other,Australia,Clothing,142.99,10,0.19,Bank Transfer,Completed,4,1158.22,2022,10,Oct,Wednesday,4,26-35
+Ord-10613,2022-07-24 08:00:00,43,Male,Germany,Clothing,42.33,5,0.16,Crypto,Completed,5,177.79,2022,7,Jul,Sunday,3,36-45
+Ord-10388,2022-05-10 08:00:00,52,Male,Brazil,Clothing,110.91,7,0.27,Credit Card,Completed,5,566.75,2022,5,May,Tuesday,2,46-55
+Ord-10936,2022-11-09 00:00:00,49,Female,India,Sports,144.53,4,0.13,Credit Card,Refunded,1,502.96,2022,11,Nov,Wednesday,4,46-55
+Ord-10406,2022-05-16 08:00:00,43,Female,Usa,Home & Garden,25.77,9,0.07,Debit Card,Completed,4,215.69,2022,5,May,Monday,2,36-45
+Ord-10794,2022-09-22 16:00:00,35,Other,Australia,Home & Garden,5.21,11,0.35,Crypto,Cancelled,4,37.25,2022,9,Sep,Thursday,3,26-35
+Ord-10715,2022-08-27 08:00:00,56,Female,Uk,Clothing,14.24,2,0.1,Credit Card,Completed,5,25.63,2022,8,Aug,Saturday,3,56-70
+Ord-11023,2022-12-08 00:00:00,35,Other,Germany,Books,218.11,7,0.2,Paypal,Pending,5,1221.42,2022,12,Dec,Thursday,4,26-35
+Ord-11055,2022-12-18 16:00:00,48,Female,Germany,Toys,10.7,12,0.01,Credit Card,Cancelled,4,127.12,2022,12,Dec,Sunday,4,46-55
+Ord-11120,2023-01-09 08:00:00,18,Female,Germany,Toys,113.83,2,0.11,Bank Transfer,Completed,4,202.62,2023,1,Jan,Monday,1,18-25
+Ord-10246,2022-03-24 00:00:00,55,Other,Usa,Food & Beverage,118.64,12,0.13,Crypto,Refunded,4,1238.6,2022,3,Mar,Thursday,1,46-55
+Ord-10145,2022-02-18 08:00:00,22,Male,India,Toys,15.48,4,0.08,Paypal,Completed,4,56.97,2022,2,Feb,Friday,1,18-25
+Ord-11197,2023-02-04 00:00:00,32,Other,Germany,Sports,121.4,10,0.32,Bank Transfer,Completed,4,825.52,2023,2,Feb,Saturday,1,26-35
+Ord-11167,2023-01-25 00:00:00,25,Other,Uk,Beauty,21.0,1,0.38,Paypal,Completed,4,13.02,2023,1,Jan,Wednesday,1,18-25
+Ord-10622,2022-07-27 08:00:00,30,Other,France,Beauty,91.92,9,0.28,Debit Card,Completed,4,595.64,2022,7,Jul,Wednesday,3,26-35
+Ord-10460,2022-06-03 08:00:00,25,Other,India,Electronics,123.56,9,0.08,Bank Transfer,Completed,4,1023.08,2022,6,Jun,Friday,2,18-25
+Ord-10486,2022-06-12 00:00:00,43,Other,Australia,Clothing,53.37,9,0.11,Bank Transfer,Refunded,4,427.49,2022,6,Jun,Sunday,2,36-45
+Ord-10830,2022-10-04 16:00:00,48,Other,France,Clothing,95.12,6,0.07,Credit Card,Completed,5,530.77,2022,10,Oct,Tuesday,4,46-55
+Ord-10090,2022-01-31 00:00:00,62,Male,India,Electronics,66.27,13,0.16,Crypto,Completed,5,723.67,2022,1,Jan,Monday,1,56-70
+Ord-10492,2022-06-14 00:00:00,64,Male,Uk,Beauty,249.85750000000002,2,0.27,Credit Card,Completed,1,407.56,2022,6,Jun,Tuesday,2,56-70
+Ord-10170,2022-02-26 16:00:00,46,Female,India,Food & Beverage,113.29,1,0.21,Crypto,Pending,2,89.5,2022,2,Feb,Saturday,1,46-55
+Ord-10056,2022-01-19 16:00:00,45,Male,Germany,Clothing,150.36,1,0.21,Paypal,Completed,5,118.78,2022,1,Jan,Wednesday,1,36-45
+Ord-10404,2022-05-15 16:00:00,67,Male,Canada,Books,5.41,1,0.03,Credit Card,Pending,5,5.25,2022,5,May,Sunday,2,56-70
+Ord-10599,2022-07-19 16:00:00,53,Other,Australia,Books,77.85,13,0.02,Crypto,Refunded,5,991.81,2022,7,Jul,Tuesday,3,46-55
+Ord-11015,2022-12-05 08:00:00,30,Other,Usa,Books,249.85750000000002,3,0.4,Paypal,Cancelled,2,459.52,2022,12,Dec,Monday,4,26-35
+Ord-10097,2022-02-02 08:00:00,58,Male,India,Home & Garden,39.39,11,0.19,Debit Card,Completed,4,350.96,2022,2,Feb,Wednesday,1,56-70
+Ord-10826,2022-10-03 08:00:00,23,Male,Usa,Food & Beverage,9.82,11,0.11,Bank Transfer,Completed,4,96.14,2022,10,Oct,Monday,4,18-25
+Ord-10479,2022-06-09 16:00:00,47,Female,Canada,Sports,71.18,11,0.04,Bank Transfer,Cancelled,5,751.66,2022,6,Jun,Thursday,2,46-55
+Ord-10323,2022-04-18 16:00:00,52,Female,France,Clothing,132.95,9,0.34,Debit Card,Completed,5,789.72,2022,4,Apr,Monday,2,46-55
+Ord-11139,2023-01-15 16:00:00,51,Male,France,Food & Beverage,140.04,8,0.29,Paypal,Completed,5,795.43,2023,1,Jan,Sunday,1,46-55
+Ord-10098,2022-02-02 16:00:00,46,Other,France,Toys,55.52,4,0.02,Paypal,Completed,4,217.64,2022,2,Feb,Wednesday,1,46-55
+Ord-10424,2022-05-22 08:00:00,52,Male,India,Clothing,151.67,4,0.03,Credit Card,Completed,4,588.48,2022,5,May,Sunday,2,46-55
+Ord-10296,2022-04-09 16:00:00,65,Other,Australia,Electronics,220.76,5,0.24,Bank Transfer,Completed,3,838.89,2022,4,Apr,Saturday,2,56-70
+Ord-10737,2022-09-03 16:00:00,49,Male,Uk,Beauty,75.76,7,0.24,Credit Card,Completed,4,403.04,2022,9,Sep,Saturday,3,46-55
+Ord-11199,2023-02-04 16:00:00,46,Other,Usa,Books,33.47,5,0.15,Paypal,Completed,4,142.25,2023,2,Feb,Saturday,1,46-55
+Ord-10902,2022-10-28 16:00:00,43,Other,Germany,Food & Beverage,31.25,2,0.1,Debit Card,Completed,4,56.25,2022,10,Oct,Friday,4,36-45
+Ord-10601,2022-07-20 08:00:00,38,Male,Uk,Home & Garden,90.14,6,0.09,Bank Transfer,Completed,3,492.16,2022,7,Jul,Wednesday,3,36-45
+Ord-10999,2022-11-30 00:00:00,55,Other,Uk,Toys,10.34,3,0.14,Credit Card,Completed,3,26.68,2022,11,Nov,Wednesday,4,46-55
+Ord-10395,2022-05-12 16:00:00,20,Male,India,Beauty,26.82,3,0.25,Debit Card,Completed,3,60.35,2022,5,May,Thursday,2,18-25
+Ord-10426,2022-05-23 00:00:00,42,Other,Usa,Clothing,20.83,8,0.12,Bank Transfer,Completed,2,146.64,2022,5,May,Monday,2,36-45
+Ord-11149,2023-01-19 00:00:00,58,Male,Germany,Sports,115.76,10,0.33,Debit Card,Completed,5,775.59,2023,1,Jan,Thursday,1,56-70
+Ord-11038,2022-12-13 00:00:00,43,Female,India,Electronics,8.1,4,0.29,Credit Card,Pending,3,23.0,2022,12,Dec,Tuesday,4,36-45
+Ord-10238,2022-03-21 08:00:00,61,Other,India,Clothing,35.22,3,0.36,Bank Transfer,Completed,4,67.62,2022,3,Mar,Monday,1,56-70
+Ord-10844,2022-10-09 08:00:00,63,Female,France,Home & Garden,46.02,7,0.2,Debit Card,Completed,4,257.71,2022,10,Oct,Sunday,4,56-70
+Ord-10845,2022-10-09 16:00:00,18,Other,Uk,Beauty,41.58,6,0.16,Paypal,Completed,4,209.56,2022,10,Oct,Sunday,4,18-25
+Ord-10554,2022-07-04 16:00:00,44,Other,India,Books,91.5,12,0.33,Paypal,Completed,2,735.66,2022,7,Jul,Monday,3,36-45
+Ord-10545,2022-07-01 16:00:00,62,Other,Uk,Books,81.7,6,0.27,Debit Card,Cancelled,4,357.85,2022,7,Jul,Friday,3,56-70
+Ord-10250,2022-03-25 08:00:00,51,Other,France,Home & Garden,86.12,5,0.03,Bank Transfer,Cancelled,3,417.68,2022,3,Mar,Friday,1,46-55
+Ord-10739,2022-09-04 08:00:00,64,Other,India,Beauty,87.31,9,0.26,Bank Transfer,Completed,5,581.48,2022,9,Sep,Sunday,3,56-70
+Ord-10964,2022-11-18 08:00:00,64,Other,Brazil,Sports,11.2,1,0.15,Crypto,Refunded,2,9.52,2022,11,Nov,Friday,4,56-70
+Ord-10198,2022-03-08 00:00:00,20,Other,Uk,Toys,46.45,4,0.05,Credit Card,Completed,2,176.51,2022,3,Mar,Tuesday,1,18-25
+Ord-10897,2022-10-27 00:00:00,47,Male,Uk,Food & Beverage,43.36,3,0.32,Paypal,Completed,2,88.45,2022,10,Oct,Thursday,4,46-55
+Ord-11116,2023-01-08 00:00:00,43,Female,India,Beauty,18.07,4,0.36,Debit Card,Completed,4,46.26,2023,1,Jan,Sunday,1,36-45
+Ord-10989,2022-11-26 16:00:00,68,Other,India,Food & Beverage,48.38,5,0.35,Bank Transfer,Completed,4,157.24,2022,11,Nov,Saturday,4,56-70
+Ord-11040,2022-12-13 16:00:00,43,Female,Uk,Beauty,91.08,2,0.24,Bank Transfer,Completed,3,138.44,2022,12,Dec,Tuesday,4,36-45
+Ord-10243,2022-03-23 00:00:00,21,Other,France,Food & Beverage,63.93,8,0.08,Bank Transfer,Completed,3,470.52,2022,3,Mar,Wednesday,1,18-25
+Ord-10066,2022-01-23 00:00:00,67,Other,Germany,Clothing,14.71,12,0.21,Credit Card,Completed,4,139.45,2022,1,Jan,Sunday,1,56-70
+Ord-10933,2022-11-08 00:00:00,20,Female,Uk,Food & Beverage,146.44,5,0.27,Bank Transfer,Completed,2,534.51,2022,11,Nov,Tuesday,4,18-25
+Ord-10359,2022-04-30 16:00:00,44,Female,Australia,Beauty,162.36,10,0.16,Bank Transfer,Cancelled,5,1363.82,2022,4,Apr,Saturday,2,36-45
+Ord-10095,2022-02-01 16:00:00,42,Other,Germany,Beauty,49.52,4,0.19,Crypto,Completed,2,160.44,2022,2,Feb,Tuesday,1,36-45
+Ord-10521,2022-06-23 16:00:00,22,Male,Usa,Electronics,72.69,9,0.26,Crypto,Completed,4,484.12,2022,6,Jun,Thursday,2,18-25
+Ord-10974,2022-11-21 16:00:00,52,Male,Brazil,Sports,20.27,13,0.37,Bank Transfer,Pending,3,166.01,2022,11,Nov,Monday,4,46-55
+Ord-10665,2022-08-10 16:00:00,48,Other,India,Beauty,75.29,11,0.32,Bank Transfer,Completed,4,563.17,2022,8,Aug,Wednesday,3,46-55
+Ord-10361,2022-05-01 08:00:00,38,Male,Brazil,Beauty,44.7,9,0.35,Bank Transfer,Completed,3,261.5,2022,5,May,Sunday,2,36-45
+Ord-10484,2022-06-11 08:00:00,43,Female,India,Home & Garden,12.65,14,0.1,Crypto,Completed,4,159.39,2022,6,Jun,Saturday,2,36-45
+Ord-10311,2022-04-14 16:00:00,41,Other,Australia,Food & Beverage,55.39,4,0.04,Credit Card,Completed,4,212.7,2022,4,Apr,Thursday,2,36-45
+Ord-10842,2022-10-08 16:00:00,31,Male,Germany,Home & Garden,87.92,5,0.38,Credit Card,Refunded,4,272.55,2022,10,Oct,Saturday,4,26-35
+Ord-10413,2022-05-18 16:00:00,43,Female,Germany,Toys,12.03,6,0.14,Paypal,Refunded,2,62.07,2022,5,May,Wednesday,2,36-45
+Ord-10031,2022-01-11 08:00:00,44,Male,Usa,Books,49.08,3,0.12,Crypto,Completed,4,129.57,2022,1,Jan,Tuesday,1,36-45
+Ord-10765,2022-09-13 00:00:00,25,Female,India,Sports,57.19,11,0.23,Debit Card,Completed,3,484.4,2022,9,Sep,Tuesday,3,18-25
+Ord-10458,2022-06-02 16:00:00,43,Other,Canada,Food & Beverage,33.35,12,0.16,Paypal,Completed,4,336.17,2022,6,Jun,Thursday,2,36-45
+Ord-10339,2022-04-24 00:00:00,65,Other,Usa,Toys,43.77,2,0.29,Credit Card,Cancelled,4,62.15,2022,4,Apr,Sunday,2,56-70
+Ord-10286,2022-04-06 08:00:00,43,Other,Brazil,Books,112.11,3,0.13,Debit Card,Completed,3,292.61,2022,4,Apr,Wednesday,2,36-45
+Ord-10949,2022-11-13 08:00:00,22,Female,Brazil,Clothing,157.55,6,0.34,Paypal,Completed,3,623.9,2022,11,Nov,Sunday,4,18-25
+Ord-10139,2022-02-16 08:00:00,52,Other,Australia,Food & Beverage,46.72,9,0.18,Crypto,Cancelled,5,344.79,2022,2,Feb,Wednesday,1,46-55
+Ord-10848,2022-10-10 16:00:00,30,Other,Canada,Clothing,51.73,12,0.11,Paypal,Pending,5,552.48,2022,10,Oct,Monday,4,26-35
+Ord-11025,2022-12-08 16:00:00,53,Female,India,Clothing,126.56,1,0.36,Credit Card,Completed,5,81.0,2022,12,Dec,Thursday,4,46-55
+Ord-11138,2023-01-15 08:00:00,26,Other,Australia,Home & Garden,113.49,2,0.14,Credit Card,Completed,4,195.2,2023,1,Jan,Sunday,1,26-35
+Ord-10900,2022-10-28 00:00:00,34,Other,France,Home & Garden,62.02,3,0.09,Credit Card,Completed,4,169.31,2022,10,Oct,Friday,4,26-35
+Ord-10731,2022-09-01 16:00:00,42,Female,France,Electronics,43.3,10,0.25,Bank Transfer,Completed,5,324.75,2022,9,Sep,Thursday,3,36-45
+Ord-10264,2022-03-30 00:00:00,36,Other,Canada,Clothing,110.05,3,0.17,Bank Transfer,Completed,4,274.02,2022,3,Mar,Wednesday,1,36-45
+Ord-10274,2022-04-02 08:00:00,57,Other,France,Home & Garden,89.02,1,0.12,Credit Card,Refunded,5,78.34,2022,4,Apr,Saturday,2,56-70
+Ord-11094,2022-12-31 16:00:00,66,Female,India,Clothing,94.05,1,0.07,Crypto,Completed,5,87.47,2022,12,Dec,Saturday,4,56-70
+Ord-10444,2022-05-29 00:00:00,19,Male,Australia,Food & Beverage,43.71,3,0.06,Debit Card,Completed,2,123.26,2022,5,May,Sunday,2,18-25
+Ord-10039,2022-01-14 00:00:00,69,Other,Brazil,Toys,76.91,5,0.08,Crypto,Completed,5,353.79,2022,1,Jan,Friday,1,56-70
+Ord-11122,2023-01-10 00:00:00,26,Other,France,Beauty,13.96,14,0.07,Bank Transfer,Completed,4,181.76,2023,1,Jan,Tuesday,1,26-35
+Ord-10021,2022-01-08 00:00:00,47,Female,Brazil,Beauty,123.23,11,0.17,Credit Card,Completed,2,1125.09,2022,1,Jan,Saturday,1,46-55
+Ord-10705,2022-08-24 00:00:00,53,Female,Brazil,Home & Garden,73.87,6,0.26,Debit Card,Refunded,2,327.98,2022,8,Aug,Wednesday,3,46-55
+Ord-10517,2022-06-22 08:00:00,66,Other,Germany,Beauty,108.07,5,0.1,Bank Transfer,Completed,4,486.31,2022,6,Jun,Wednesday,2,56-70
+Ord-10354,2022-04-29 00:00:00,55,Other,India,Electronics,54.8,4,0.29,Credit Card,Completed,4,155.63,2022,4,Apr,Friday,2,46-55
+Ord-10297,2022-04-10 00:00:00,29,Male,Uk,Beauty,10.81,14,0.26,Credit Card,Pending,3,111.99,2022,4,Apr,Sunday,2,26-35
+Ord-11076,2022-12-25 16:00:00,55,Female,Usa,Beauty,207.36,13,0.0,Credit Card,Completed,5,1462.3449999999998,2022,12,Dec,Sunday,4,46-55
+Ord-10839,2022-10-07 16:00:00,36,Female,Canada,Food & Beverage,193.75,5,0.28,Crypto,Pending,2,697.5,2022,10,Oct,Friday,4,36-45
+Ord-10924,2022-11-05 00:00:00,28,Male,Brazil,Books,249.85750000000002,6,0.03,Debit Card,Completed,4,1462.3449999999998,2022,11,Nov,Saturday,4,26-35
+Ord-10122,2022-02-10 16:00:00,24,Other,Germany,Beauty,69.19,9,0.19,Bank Transfer,Completed,5,504.4,2022,2,Feb,Thursday,1,18-25
+Ord-11091,2022-12-30 16:00:00,43,Other,Germany,Books,59.82,7,0.37,Credit Card,Completed,3,263.81,2022,12,Dec,Friday,4,36-45
+Ord-11151,2023-01-19 16:00:00,31,Other,Canada,Beauty,95.75,6,0.04,Crypto,Completed,4,551.52,2023,1,Jan,Thursday,1,26-35
+Ord-10417,2022-05-20 00:00:00,26,Other,Australia,Electronics,42.82,11,0.19,Credit Card,Refunded,2,381.53,2022,5,May,Friday,2,26-35
+Ord-10966,2022-11-19 00:00:00,60,Other,Canada,Electronics,29.67,5,0.06,Credit Card,Completed,2,139.45,2022,11,Nov,Saturday,4,56-70
+Ord-10157,2022-02-22 08:00:00,49,Male,Australia,Electronics,123.92,12,0.39,Debit Card,Completed,3,907.09,2022,2,Feb,Tuesday,1,46-55
+Ord-11118,2023-01-08 16:00:00,19,Other,India,Beauty,47.68,2,0.13,Credit Card,Cancelled,4,82.96,2023,1,Jan,Sunday,1,18-25
+Ord-11063,2022-12-21 08:00:00,53,Female,Uk,Food & Beverage,93.05,6,0.27,Paypal,Completed,3,407.56,2022,12,Dec,Wednesday,4,46-55
+Ord-11154,2023-01-20 16:00:00,43,Other,Brazil,Food & Beverage,55.84,7,0.05,Paypal,Completed,5,371.34,2023,1,Jan,Friday,1,36-45
+Ord-10189,2022-03-05 00:00:00,43,Other,France,Toys,17.07,11,0.09,Credit Card,Pending,5,170.87,2022,3,Mar,Saturday,1,36-45
+Ord-10589,2022-07-16 08:00:00,43,Male,Brazil,Clothing,84.27,13,0.01,Paypal,Completed,5,1084.55,2022,7,Jul,Saturday,3,36-45
+Ord-10760,2022-09-11 08:00:00,28,Other,Canada,Home & Garden,10.92,12,0.36,Debit Card,Cancelled,4,83.87,2022,9,Sep,Sunday,3,26-35
+Ord-11062,2022-12-21 00:00:00,54,Other,Germany,Home & Garden,249.85750000000002,11,0.38,Credit Card,Pending,2,1462.3449999999998,2022,12,Dec,Wednesday,4,46-55
+Ord-10242,2022-03-22 16:00:00,49,Female,Usa,Food & Beverage,98.84,10,0.2,Bank Transfer,Refunded,4,790.72,2022,3,Mar,Tuesday,1,46-55
+Ord-10884,2022-10-22 16:00:00,67,Female,India,Toys,27.34,11,0.03,Debit Card,Completed,4,291.72,2022,10,Oct,Saturday,4,56-70
+Ord-10650,2022-08-05 16:00:00,33,Other,India,Clothing,102.77,8,0.19,Paypal,Refunded,3,665.95,2022,8,Aug,Friday,3,26-35
+Ord-10503,2022-06-17 16:00:00,39,Other,Canada,Books,36.55,14,0.3,Credit Card,Completed,5,358.19,2022,6,Jun,Friday,2,36-45
+Ord-10922,2022-11-04 08:00:00,33,Other,Uk,Books,18.36,2,0.11,Bank Transfer,Completed,1,32.68,2022,11,Nov,Friday,4,26-35
+Ord-10159,2022-02-23 00:00:00,66,Female,France,Sports,162.9,11,0.1,Crypto,Completed,2,1462.3449999999998,2022,2,Feb,Wednesday,1,56-70
+Ord-10882,2022-10-22 00:00:00,51,Male,Usa,Home & Garden,111.9,5,0.03,Crypto,Completed,4,542.72,2022,10,Oct,Saturday,4,46-55
+Ord-10537,2022-06-29 00:00:00,51,Male,France,Clothing,99.52,3,0.1,Crypto,Completed,4,268.7,2022,6,Jun,Wednesday,2,46-55
+Ord-10240,2022-03-22 00:00:00,49,Male,France,Electronics,249.85750000000002,8,0.31,Crypto,Completed,4,1462.3449999999998,2022,3,Mar,Tuesday,1,46-55
+Ord-10013,2022-01-05 08:00:00,53,Female,Brazil,Clothing,66.51,5,0.2,Credit Card,Completed,4,266.04,2022,1,Jan,Wednesday,1,46-55
+Ord-10475,2022-06-08 08:00:00,33,Male,Brazil,Toys,114.58,8,0.25,Crypto,Completed,5,687.48,2022,6,Jun,Wednesday,2,26-35
+Ord-10928,2022-11-06 08:00:00,57,Male,Usa,Beauty,57.21,5,0.02,Debit Card,Completed,5,280.33,2022,11,Nov,Sunday,4,56-70
+Ord-10795,2022-09-23 00:00:00,43,Other,Australia,Toys,86.29,14,0.23,Crypto,Pending,4,930.21,2022,9,Sep,Friday,3,36-45
+Ord-10355,2022-04-29 08:00:00,62,Female,Australia,Clothing,83.03,2,0.35,Crypto,Completed,5,107.94,2022,4,Apr,Friday,2,56-70
+Ord-11058,2022-12-19 16:00:00,20,Male,Brazil,Clothing,62.83,2,0.31,Credit Card,Completed,4,86.71,2022,12,Dec,Monday,4,18-25
+Ord-10688,2022-08-18 08:00:00,19,Other,Germany,Home & Garden,249.85750000000002,12,0.31,Credit Card,Cancelled,5,1462.3449999999998,2022,8,Aug,Thursday,3,18-25
+Ord-10184,2022-03-03 08:00:00,61,Other,France,Beauty,10.56,12,0.0,Paypal,Completed,3,126.72,2022,3,Mar,Thursday,1,56-70
+Ord-10823,2022-10-02 08:00:00,18,Female,Germany,Sports,86.28,14,0.28,Debit Card,Completed,4,869.7,2022,10,Oct,Sunday,4,18-25
+Ord-11194,2023-02-03 00:00:00,25,Other,Brazil,Home & Garden,42.14,9,0.34,Crypto,Pending,5,250.31,2023,2,Feb,Friday,1,18-25
+Ord-11001,2022-11-30 16:00:00,68,Female,Germany,Sports,42.14,10,0.19,Bank Transfer,Pending,2,341.33,2022,11,Nov,Wednesday,4,56-70
+Ord-10187,2022-03-04 08:00:00,47,Other,Australia,Sports,106.9,6,0.09,Crypto,Completed,4,583.67,2022,3,Mar,Friday,1,46-55
+Ord-10941,2022-11-10 16:00:00,22,Other,Australia,Home & Garden,26.17,6,0.15,Crypto,Completed,5,133.47,2022,11,Nov,Thursday,4,18-25
+Ord-10284,2022-04-05 16:00:00,48,Female,India,Toys,66.84,14,0.17,Bank Transfer,Completed,2,776.68,2022,4,Apr,Tuesday,2,46-55
+Ord-10899,2022-10-27 16:00:00,68,Female,Brazil,Sports,26.86,1,0.12,Bank Transfer,Completed,5,23.64,2022,10,Oct,Thursday,4,56-70
+Ord-10165,2022-02-25 00:00:00,40,Other,Brazil,Beauty,249.85750000000002,2,0.08,Debit Card,Pending,3,631.05,2022,2,Feb,Friday,1,36-45
+Ord-10347,2022-04-26 16:00:00,29,Female,France,Beauty,77.76,12,0.09,Credit Card,Completed,4,849.14,2022,4,Apr,Tuesday,2,26-35
+Ord-10298,2022-04-10 08:00:00,22,Other,Germany,Beauty,5.76,13,0.03,Crypto,Cancelled,4,72.63,2022,4,Apr,Sunday,2,18-25
+Ord-10535,2022-06-28 08:00:00,22,Female,India,Electronics,249.85750000000002,14,0.16,Credit Card,Cancelled,3,1462.3449999999998,2022,6,Jun,Tuesday,2,18-25
+Ord-10229,2022-03-18 08:00:00,19,Other,Brazil,Toys,102.64,7,0.23,Debit Card,Cancelled,3,553.23,2022,3,Mar,Friday,1,18-25
+Ord-10041,2022-01-14 16:00:00,54,Male,Usa,Electronics,205.82,5,0.11,Bank Transfer,Completed,4,915.9,2022,1,Jan,Friday,1,46-55
+Ord-10868,2022-10-17 08:00:00,47,Female,Uk,Toys,85.62,5,0.4,Bank Transfer,Completed,4,256.86,2022,10,Oct,Monday,4,46-55
+Ord-10748,2022-09-07 08:00:00,43,Female,Australia,Clothing,17.91,13,0.01,Credit Card,Pending,5,230.5,2022,9,Sep,Wednesday,3,36-45
+Ord-10446,2022-05-29 16:00:00,40,Other,Usa,Books,142.86,3,0.29,Credit Card,Completed,4,304.29,2022,5,May,Sunday,2,36-45
+Ord-10349,2022-04-27 08:00:00,39,Female,Usa,Home & Garden,29.11,10,0.33,Credit Card,Completed,3,195.04,2022,4,Apr,Wednesday,2,36-45
+Ord-10045,2022-01-16 00:00:00,26,Other,Usa,Beauty,123.01,10,0.21,Credit Card,Pending,3,971.78,2022,1,Jan,Sunday,1,26-35
+Ord-10108,2022-02-06 00:00:00,25,Other,Canada,Beauty,59.98,7,0.08,Bank Transfer,Pending,2,386.27,2022,2,Feb,Sunday,1,18-25
+Ord-10029,2022-01-10 16:00:00,42,Other,Usa,Toys,38.55,11,0.27,Credit Card,Completed,3,309.56,2022,1,Jan,Monday,1,36-45
+Ord-10181,2022-03-02 08:00:00,23,Male,France,Home & Garden,65.34,13,0.31,Paypal,Completed,3,586.1,2022,3,Mar,Wednesday,1,18-25
+Ord-10621,2022-07-27 00:00:00,66,Female,Brazil,Sports,74.29,9,0.06,Paypal,Completed,2,628.49,2022,7,Jul,Wednesday,3,56-70
+Ord-10634,2022-07-31 08:00:00,30,Male,Uk,Electronics,177.13,9,0.25,Credit Card,Pending,5,1195.63,2022,7,Jul,Sunday,3,26-35
+Ord-10104,2022-02-04 16:00:00,26,Female,France,Toys,105.16,4,0.39,Paypal,Completed,3,256.59,2022,2,Feb,Friday,1,26-35
+Ord-10060,2022-01-21 00:00:00,43,Other,France,Clothing,79.9,6,0.39,Credit Card,Completed,5,292.43,2022,1,Jan,Friday,1,36-45
+Ord-10658,2022-08-08 08:00:00,40,Male,India,Clothing,26.03,10,0.16,Debit Card,Completed,4,218.65,2022,8,Aug,Monday,3,36-45
+Ord-11107,2023-01-05 00:00:00,50,Other,France,Books,116.93,1,0.33,Debit Card,Completed,4,78.34,2023,1,Jan,Thursday,1,46-55
+Ord-10490,2022-06-13 08:00:00,18,Male,Brazil,Beauty,32.87,12,0.29,Credit Card,Cancelled,5,280.05,2022,6,Jun,Monday,2,18-25
+Ord-10315,2022-04-16 00:00:00,25,Female,Canada,Sports,76.15,10,0.37,Credit Card,Completed,5,479.74,2022,4,Apr,Saturday,2,18-25
+Ord-10381,2022-05-08 00:00:00,58,Female,Uk,Food & Beverage,176.58,6,0.13,Debit Card,Completed,5,921.75,2022,5,May,Sunday,2,56-70
+Ord-10422,2022-05-21 16:00:00,59,Other,India,Clothing,6.49,6,0.24,Paypal,Pending,5,29.59,2022,5,May,Saturday,2,56-70
+Ord-10445,2022-05-29 08:00:00,49,Other,Uk,Toys,10.43,14,0.38,Paypal,Completed,4,90.53,2022,5,May,Sunday,2,46-55
+Ord-10663,2022-08-10 00:00:00,56,Male,France,Beauty,12.42,8,0.03,Debit Card,Completed,4,96.38,2022,8,Aug,Wednesday,3,56-70
+Ord-11024,2022-12-08 08:00:00,64,Other,Germany,Sports,28.34,3,0.25,Crypto,Completed,4,63.76,2022,12,Dec,Thursday,4,56-70
+Ord-10779,2022-09-17 16:00:00,58,Other,India,Toys,64.13,7,0.14,Bank Transfer,Pending,2,386.06,2022,9,Sep,Saturday,3,56-70
+Ord-10626,2022-07-28 16:00:00,58,Other,Germany,Toys,45.74,9,0.08,Paypal,Completed,4,378.73,2022,7,Jul,Thursday,3,56-70
+Ord-11112,2023-01-06 16:00:00,40,Other,Australia,Books,97.49,10,0.27,Paypal,Completed,4,711.68,2023,1,Jan,Friday,1,36-45
+Ord-11101,2023-01-03 00:00:00,54,Other,India,Electronics,249.85750000000002,3,0.19,Crypto,Completed,4,757.65,2023,1,Jan,Tuesday,1,46-55
+Ord-10268,2022-03-31 08:00:00,37,Female,Brazil,Toys,131.91,2,0.0,Crypto,Completed,4,263.82,2022,3,Mar,Thursday,1,36-45
+Ord-10929,2022-11-06 16:00:00,21,Other,France,Books,35.12,6,0.17,Bank Transfer,Pending,3,174.9,2022,11,Nov,Sunday,4,18-25
+Ord-11147,2023-01-18 08:00:00,25,Male,Canada,Toys,148.03,10,0.13,Debit Card,Completed,3,1287.86,2023,1,Jan,Wednesday,1,18-25
+Ord-11119,2023-01-09 00:00:00,37,Female,Australia,Electronics,118.57,14,0.28,Debit Card,Refunded,4,1195.19,2023,1,Jan,Monday,1,36-45
+Ord-10011,2022-01-04 16:00:00,28,Male,Australia,Toys,117.4,9,0.14,Crypto,Completed,4,908.68,2022,1,Jan,Tuesday,1,26-35
+Ord-10114,2022-02-08 00:00:00,52,Male,India,Clothing,30.43,8,0.32,Paypal,Completed,3,165.54,2022,2,Feb,Tuesday,1,46-55
+Ord-10843,2022-10-09 00:00:00,26,Other,Australia,Toys,77.46,3,0.21,Bank Transfer,Completed,5,183.58,2022,10,Oct,Sunday,4,26-35
+Ord-10352,2022-04-28 08:00:00,47,Other,India,Sports,249.85750000000002,5,0.02,Debit Card,Completed,4,1462.3449999999998,2022,4,Apr,Thursday,2,46-55
+Ord-10773,2022-09-15 16:00:00,43,Male,Australia,Beauty,74.58,8,0.4,Credit Card,Pending,3,357.98,2022,9,Sep,Thursday,3,36-45
+Ord-10690,2022-08-19 00:00:00,46,Female,Australia,Toys,91.69,3,0.31,Credit Card,Completed,5,189.8,2022,8,Aug,Friday,3,46-55
+Ord-10790,2022-09-21 08:00:00,30,Female,France,Books,140.32,2,0.33,Debit Card,Completed,5,188.03,2022,9,Sep,Wednesday,3,26-35
+Ord-10867,2022-10-17 00:00:00,47,Male,India,Clothing,249.85750000000002,6,0.32,Paypal,Completed,4,1084.91,2022,10,Oct,Monday,4,46-55
+Ord-10169,2022-02-26 08:00:00,60,Other,Australia,Beauty,62.47,2,0.38,Bank Transfer,Completed,4,77.46,2022,2,Feb,Saturday,1,56-70
+Ord-10239,2022-03-21 16:00:00,43,Male,Canada,Books,136.78,11,0.17,Debit Card,Completed,4,1248.8,2022,3,Mar,Monday,1,36-45
+Ord-11184,2023-01-30 16:00:00,57,Other,India,Beauty,100.1,3,0.33,Credit Card,Completed,4,201.2,2023,1,Jan,Monday,1,56-70
+Ord-10073,2022-01-25 08:00:00,46,Male,Usa,Food & Beverage,75.76,14,0.11,Bank Transfer,Completed,3,943.97,2022,1,Jan,Tuesday,1,46-55
+Ord-11086,2022-12-29 00:00:00,22,Female,Australia,Home & Garden,44.37,14,0.14,Crypto,Pending,5,534.21,2022,12,Dec,Thursday,4,18-25
+Ord-10761,2022-09-11 16:00:00,29,Male,Brazil,Toys,249.85750000000002,12,0.4,Bank Transfer,Completed,4,1462.3449999999998,2022,9,Sep,Sunday,3,26-35
+Ord-10740,2022-09-04 16:00:00,38,Female,India,Electronics,118.95,6,0.33,Crypto,Refunded,5,478.18,2022,9,Sep,Sunday,3,36-45
+Ord-10741,2022-09-05 00:00:00,33,Female,Australia,Home & Garden,60.52,12,0.31,Debit Card,Completed,3,501.11,2022,9,Sep,Monday,3,26-35
+Ord-10047,2022-01-16 16:00:00,35,Female,Usa,Toys,10.71,4,0.33,Bank Transfer,Refunded,5,28.7,2022,1,Jan,Sunday,1,26-35
+Ord-10762,2022-09-12 00:00:00,27,Male,India,Clothing,90.07,9,0.33,Bank Transfer,Pending,5,543.12,2022,9,Sep,Monday,3,26-35
+Ord-10591,2022-07-17 00:00:00,68,Male,Uk,Books,121.79,3,0.36,Credit Card,Completed,4,233.84,2022,7,Jul,Sunday,3,56-70
+Ord-10807,2022-09-27 00:00:00,35,Other,France,Beauty,110.33,1,0.21,Credit Card,Completed,3,87.16,2022,9,Sep,Tuesday,3,26-35
+Ord-11083,2022-12-28 00:00:00,68,Other,Brazil,Sports,12.99,7,0.03,Credit Card,Completed,4,88.2,2022,12,Dec,Wednesday,4,56-70
+Ord-10505,2022-06-18 08:00:00,20,Other,Germany,Beauty,50.43,3,0.03,Paypal,Pending,3,146.75,2022,6,Jun,Saturday,2,18-25
+Ord-11044,2022-12-15 00:00:00,54,Other,India,Beauty,61.84,2,0.32,Paypal,Completed,4,84.1,2022,12,Dec,Thursday,4,46-55
+Ord-10652,2022-08-06 08:00:00,52,Other,Australia,Beauty,164.74,5,0.16,Credit Card,Completed,1,691.91,2022,8,Aug,Saturday,3,46-55
+Ord-10192,2022-03-06 00:00:00,50,Female,Brazil,Electronics,110.4,3,0.29,Credit Card,Completed,4,235.15,2022,3,Mar,Sunday,1,46-55
+Ord-10244,2022-03-23 08:00:00,43,Male,Usa,Food & Beverage,12.26,8,0.24,Bank Transfer,Completed,4,74.54,2022,3,Mar,Wednesday,1,36-45
+Ord-10059,2022-01-20 16:00:00,43,Male,Usa,Electronics,25.64,4,0.19,Crypto,Completed,4,83.07,2022,1,Jan,Thursday,1,36-45
+Ord-10176,2022-02-28 16:00:00,39,Other,Canada,Electronics,16.35,9,0.1,Crypto,Completed,1,132.44,2022,2,Feb,Monday,1,36-45
+Ord-10449,2022-05-30 16:00:00,42,Other,Uk,Home & Garden,28.28,3,0.24,Credit Card,Completed,2,64.48,2022,5,May,Monday,2,36-45
+Ord-10055,2022-01-19 08:00:00,37,Male,India,Clothing,21.5,3,0.16,Paypal,Pending,4,54.18,2022,1,Jan,Wednesday,1,36-45
+Ord-10919,2022-11-03 08:00:00,68,Female,Germany,Sports,141.62,3,0.2,Bank Transfer,Completed,4,339.89,2022,11,Nov,Thursday,4,56-70
+Ord-11092,2022-12-31 00:00:00,50,Other,Uk,Home & Garden,6.02,5,0.02,Bank Transfer,Completed,4,29.5,2022,12,Dec,Saturday,4,46-55
+Ord-11192,2023-02-02 08:00:00,24,Male,Germany,Electronics,111.39,12,0.19,Crypto,Completed,3,1082.71,2023,2,Feb,Thursday,1,18-25
+Ord-11059,2022-12-20 00:00:00,68,Male,Canada,Toys,188.33,13,0.09,Bank Transfer,Completed,4,1462.3449999999998,2022,12,Dec,Tuesday,4,56-70
+Ord-10641,2022-08-02 16:00:00,29,Other,India,Beauty,75.92,13,0.33,Paypal,Pending,4,661.26,2022,8,Aug,Tuesday,3,26-35

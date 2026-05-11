@@ -1,0 +1,1281 @@
+order_ID,Date,Customer_Age,Gender,Country,Category,Unit_Price,Quantity,Discount,Payment_Method,Order_Status,Customer_Rating,Revenue
+ORD-10784,2022-09-19 08:00:00,50.0,Other,France,Electronics,33.0,1,0.09,PayPal,Completed,3.0,30.03
+ORD-10504,2022-06-18 00:00:00,46.0,Female,UK,Sports,76.38,12,0.21,Crypto,Cancelled,4.0,724.08
+ORD-10894,2022-10-26 00:00:00,50.0,Other,Canada,Clothing,15.01,2,0.39,Bank Transfer,Completed,5.0,18.31
+ORD-11125,2023-01-11 00:00:00,28.0,Male,Australia,Toys,73.86,8,0.33,Debit Card,Refunded,5.0,395.89
+ORD-10356,2022-04-29 16:00:00,68.0,Female,Australia,Beauty,115.23,9,0.07,Bank Transfer,Pending,5.0,964.48
+ORD-10350,2022-04-27 16:00:00,39.0,Male,France,Toys,62.93,14,0.22,PayPal,Completed,2.0,687.2
+ORD-10619,2022-07-26 08:00:00,54.0,Other,UK,Home & Garden,46.54,6,0.05,Bank Transfer,Cancelled,5.0,265.28
+ORD-10712,2022-08-26 08:00:00,27.0,Female,France,Sports,116.68,6,0.11,Bank Transfer,Completed,1.0,623.07
+ORD-10378,2022-05-07 00:00:00,63.0,Female,Germany,Toys,184.91,8,0.12,Credit Card,Completed,4.0,1301.77
+ORD-10757,2022-09-10 08:00:00,20.0,Female,UK,Toys,143.25,2,0.36,Debit Card,Completed,3.0,183.36
+ORD-11155,2023-01-21 00:00:00,54.0,Other,USA,Sports,60.78,8,0.39,Credit Card,Refunded,5.0,296.61
+ORD-11079,2022-12-26 16:00:00,32.0,Male,Brazil,Food & Beverage,18.63,2,0.25,Credit Card,Pending,3.0,27.94
+ORD-10453,2022-06-01 00:00:00,69.0,Male,France,Electronics,236.03,13,0.01,Credit Card,Completed,4.0,3037.71
+ORD-10447,2022-05-30 00:00:00,39.0,Male,France,beauty,42.2,3,0.35,Debit Card,Completed,5.0,82.29
+ORD-10703,2022-08-23 08:00:00,62.0,Female,Brazil,Beauty,145.28,2,0.3,Debit Card,Completed,4.0,203.39
+ORD-10797,2022-09-23 16:00:00,64.0,Other,Germany,Food & Beverage,77.02,1,0.4,Crypto,Cancelled,3.0,46.21
+ORD-10160,2022-02-23 08:00:00,69.0,Female,Australia,Beauty,24.83,9,0.17,Debit Card,Completed,4.0,185.48
+ORD-10254,2022-03-26 16:00:00,65.0,Male,Australia,Books,99.52,14,0.32,PayPal,Completed,,947.43
+ORD-10841,2022-10-08 08:00:00,,Female,USA,Food & Beverage,29.62,12,0.32,Bank Transfer,Pending,5.0,241.7
+ORD-10257,2022-03-27 16:00:00,26.0,Female,Canada,Books,8.61,10,0.28,PayPal,Completed,3.0,61.99
+ORD-11009,2022-12-03 08:00:00,56.0,Male,Germany,Clothing,27.32,3,0.19,Debit Card,Completed,1.0,66.39
+ORD-10128,2022-02-12 16:00:00,65.0,Male,Brazil,Beauty,72.41,3,0.25,Bank Transfer,Pending,1.0,162.92
+ORD-10846,2022-10-10 00:00:00,68.0,Female,USA,Electronics,6933.081933806311,4,0.06,Credit Card,Pending,3.0,26068.39
+ORD-10119,2022-02-09 16:00:00,56.0,Other,France,Electronics,151.5,12,0.14,,Refunded,2.0,1563.48
+ORD-10153,2022-02-21 00:00:00,43.0,Other,France,Beauty,41.09,8,0.08,PayPal,Completed,4.0,302.42
+ORD-10787,2022-09-20 08:00:00,45.0,Male,USA,Toys,204.84,13,0.25,Credit Card,Completed,5.0,1997.19
+ORD-10776,2022-09-16 16:00:00,45.0,Female,Brazil,Sports,45.85,8,0.16,Crypto,Completed,3.0,308.11
+ORD-10572,2022-07-10 16:00:00,61.0,Female,Brazil,Clothing,8.57,6,0.34,Credit Card,Completed,5.0,33.94
+ORD-10667,2022-08-11 08:00:00,52.0,Other,UK,TOYS,45.52,7,0.4,Crypto,Completed,4.0,191.18
+ORD-10906,2022-10-30 00:00:00,27.0,Male,UK,home & garden,128.45,8,0.08,,Cancelled,5.0,945.39
+ORD-10403,2022-05-15 08:00:00,41.0,Male,Germany,Books,174.0,12,0.39,Crypto,Completed,5.0,1273.68
+ORD-10615,2022-07-25 00:00:00,49.0,Male,Germany,Home & Garden,47.62,1,0.25,Bank Transfer,Completed,5.0,35.71
+ORD-10372,2022-05-05 00:00:00,66.0,Other,Brazil,Electronics,5.41,4,0.36,Bank Transfer,Completed,4.0,13.85
+ORD-10628,2022-07-29 08:00:00,34.0,Male,USA,Beauty,5.73,8,0.17,Debit Card,Completed,5.0,38.05
+ORD-10491,2022-06-13 16:00:00,18.0,,Brazil,Books,199.28,8,0.24,Credit Card,Completed,5.0,1211.62
+ORD-10450,2022-05-31 00:00:00,,Female,USA,Books,5.08,9,0.28,Bank Transfer,Completed,,32.92
+ORD-10767,2022-09-13 16:00:00,29.0,Female,India,Beauty,19.55,11,0.04,Credit Card,Completed,5.0,206.45
+ORD-10618,2022-07-26 00:00:00,49.0,Other,India,Clothing,13.2,11,0.24,PayPal,Completed,5.0,110.35
+ORD-10245,2022-03-23 16:00:00,34.0,Female,USA,Food & Beverage,258.93,12,0.07,,Completed,3.0,2889.66
+ORD-11170,2023-01-26 00:00:00,31.0,Female,Germany,Electronics,170.88,9,0.1,Debit Card,Completed,5.0,1384.13
+ORD-10985,2022-11-25 08:00:00,19.0,Female,Australia,Clothing,44.16,3,0.07,Bank Transfer,Completed,,123.21
+ORD-10057,2022-01-20 00:00:00,64.0,,India,Sports,37.29,8,0.24,PayPal,Completed,4.0,226.72
+ORD-10224,2022-03-16 16:00:00,54.0,Female,UK,Home & Garden,83.11,1,0.01,Debit Card,Pending,5.0,82.28
+ORD-10292,2022-04-08 08:00:00,69.0,Other,USA,home & garden,376.19,1,0.32,Credit Card,Completed,4.0,255.81
+ORD-10260,2022-03-28 16:00:00,46.0,Male,France,Toys,69.92,6,0.06,,Refunded,3.0,394.35
+ORD-10390,2022-05-11 00:00:00,69.0,Other,Brazil,Toys,167.09,4,0.02,Credit Card,Refunded,,654.99
+ORD-10817,2022-09-30 08:00:00,66.0,Other,India,Food & Beverage,56.23,3,0.27,Crypto,Completed,5.0,123.14
+ORD-10377,2022-05-06 16:00:00,46.0,Female,India,Books,14.27,8,0.12,Bank Transfer,Completed,4.0,100.46
+ORD-10342,2022-04-25 00:00:00,24.0,Male,USA,Food & Beverage,144.99,12,0.34,,Completed,4.0,1148.32
+ORD-10647,2022-08-04 16:00:00,69.0,,Canada,Food & Beverage,40.3,3,0.07,Debit Card,Pending,4.0,112.44
+ORD-10386,2022-05-09 16:00:00,63.0,Female,India,Clothing,67.78,8,0.11,Bank Transfer,Completed,3.0,482.59
+ORD-10129,2022-02-13 00:00:00,40.0,Male,France,clothing,179.76,7,0.18,,Completed,4.0,1031.82
+ORD-10141,2022-02-17 00:00:00,64.0,Female,UK,Beauty,12.27,9,0.17,Credit Card,Completed,5.0,91.66
+ORD-10565,2022-07-08 08:00:00,29.0,Female,UK,Toys,57.2,11,0.16,Crypto,Cancelled,2.0,528.53
+ORD-10669,2022-08-12 00:00:00,46.0,Male,Brazil,Toys,97.66,13,0.13,Bank Transfer,Completed,1.0,1104.53
+ORD-10542,2022-06-30 16:00:00,49.0,Other,France,Toys,15.61,8,0.27,Crypto,Completed,4.0,91.16
+ORD-10396,2022-05-13 00:00:00,35.0,Other,UK,Books,217.84,9,0.08,Bank Transfer,Completed,5.0,1803.72
+ORD-10685,2022-08-17 08:00:00,26.0,Female,USA,Clothing,109.99,4,0.31,Bank Transfer,Completed,1.0,303.57
+ORD-10083,2022-01-28 16:00:00,32.0,Female,UK,Sports,24.89,12,0.39,Credit Card,Pending,3.0,182.19
+ORD-10154,2022-02-21 08:00:00,59.0,Female,Germany,Food & Beverage,7.79,13,0.38,Credit Card,Completed,3.0,62.79
+ORD-10225,2022-03-17 00:00:00,66.0,,India,Home & Garden,56.43,10,0.07,Credit Card,Completed,5.0,524.8
+ORD-10285,2022-04-06 00:00:00,,Female,India,Home & Garden,91.7,6,0.12,Bank Transfer,Completed,5.0,484.18
+ORD-10063,2022-01-22 00:00:00,31.0,Male,Brazil,Toys,23.41,14,0.12,Crypto,Completed,5.0,288.41
+ORD-10376,2022-05-06 08:00:00,47.0,Male,USA,beauty,266.87,3,0.22,,Completed,,624.48
+ORD-10318,2022-04-17 00:00:00,57.0,Male,USA,Beauty,8.69,5,0.29,Credit Card,Completed,5.0,30.85
+ORD-10681,2022-08-16 00:00:00,63.0,Other,USA,Home & Garden,229.83,5,0.26,Credit Card,Completed,4.0,850.37
+ORD-11142,2023-01-16 16:00:00,52.0,Male,UK,Clothing,42.63,9,0.33,Debit Card,Cancelled,2.0,257.06
+ORD-10234,2022-03-20 00:00:00,50.0,Other,Brazil,Food & Beverage,5.19,2,0.11,Bank Transfer,Completed,4.0,9.24
+ORD-10953,2022-11-14 16:00:00,63.0,Female,USA,Home & Garden,41.31,6,0.3,,Completed,5.0,173.5
+ORD-10852,2022-10-12 00:00:00,57.0,Female,USA,Electronics,86.77,13,0.14,Credit Card,Completed,2.0,970.09
+ORD-11159,2023-01-22 08:00:00,43.0,Female,Australia,Sports,126.28,6,0.3,Crypto,Completed,4.0,530.38
+ORD-10982,2022-11-24 08:00:00,40.0,Other,France,ELECTRONICS,64.64,1,0.22,PayPal,Completed,5.0,50.42
+ORD-10124,2022-02-11 08:00:00,25.0,,France,Home & Garden,22.46,10,0.28,Crypto,Completed,2.0,161.71
+ORD-10259,2022-03-28 08:00:00,33.0,Other,USA,Clothing,592.51,4,0.26,Debit Card,Completed,5.0,1753.83
+ORD-10805,2022-09-26 08:00:00,50.0,Male,Brazil,Food & Beverage,28.62,12,0.37,PayPal,Completed,5.0,216.37
+ORD-11128,2023-01-12 00:00:00,,Male,Germany,Clothing,19.03,4,0.21,Crypto,Completed,3.0,60.13
+ORD-11019,2022-12-06 16:00:00,27.0,Other,USA,Clothing,233.94,1,0.07,Debit Card,Pending,3.0,217.56
+ORD-10587,2022-07-15 16:00:00,43.0,Other,Germany,Food & Beverage,48.02,9,0.06,Debit Card,Pending,5.0,406.25
+ORD-10559,2022-07-06 08:00:00,52.0,Other,UK,Toys,8.33,3,0.13,Credit Card,Cancelled,1.0,21.74
+ORD-10480,2022-06-10 00:00:00,,,India,Food & Beverage,56.02,5,0.08,Credit Card,Completed,5.0,257.69
+ORD-11004,2022-12-01 16:00:00,54.0,Female,USA,sports,60.35,5,0.12,Credit Card,Completed,1.0,265.54
+ORD-10086,2022-01-29 16:00:00,40.0,Female,India,Toys,301.86,10,0.36,Debit Card,Completed,5.0,1931.9
+ORD-10574,2022-07-11 08:00:00,30.0,Male,USA,Beauty,6.69,9,0.18,PayPal,Refunded,4.0,49.37
+ORD-10463,2022-06-04 08:00:00,22.0,Other,UK,SPORTS,167.03,4,0.04,PayPal,Pending,3.0,641.4
+ORD-11143,2023-01-17 00:00:00,18.0,Other,Australia,Clothing,66.9,12,0.23,Bank Transfer,Pending,3.0,618.16
+ORD-10536,2022-06-28 16:00:00,53.0,Female,Brazil,Electronics,22.94,9,0.26,Debit Card,Completed,3.0,152.78
+ORD-10080,2022-01-27 16:00:00,31.0,Male,Canada,Clothing,34.86,7,0.0,Crypto,Pending,5.0,244.02
+ORD-11146,2023-01-18 00:00:00,46.0,Other,France,Beauty,151.59,1,0.16,PayPal,Completed,5.0,127.34
+ORD-11126,2023-01-11 08:00:00,32.0,,Australia,Home & Garden,172.74,6,0.05,Credit Card,Cancelled,4.0,984.62
+ORD-10152,2022-02-20 16:00:00,32.0,,Canada,Books,144.49,1,0.38,Bank Transfer,Cancelled,2.0,89.58
+ORD-11085,2022-12-28 16:00:00,61.0,Male,Germany,Food & Beverage,68.9,8,0.1,Credit Card,Refunded,3.0,496.08
+ORD-10042,2022-01-15 00:00:00,68.0,Other,India,Home & Garden,8246.684505144163,4,0.15,,Completed,3.0,28038.73
+ORD-10116,2022-02-08 16:00:00,50.0,Other,UK,Toys,64.82,5,0.16,Debit Card,Completed,1.0,272.24
+ORD-11131,2023-01-13 00:00:00,48.0,Male,Australia,Food & Beverage,113.29,7,0.12,Debit Card,Completed,3.0,697.87
+ORD-10721,2022-08-29 08:00:00,37.0,Female,France,beauty,173.23,2,0.03,Debit Card,Completed,4.0,336.07
+ORD-10669,2022-08-12 00:00:00,46.0,Male,Brazil,Toys,97.66,13,0.13,Bank Transfer,Completed,1.0,1104.53
+ORD-10236,2022-03-20 16:00:00,36.0,Male,India,Home & Garden,5.42,3,0.36,Debit Card,Completed,3.0,10.41
+ORD-11064,2022-12-21 16:00:00,,Male,UK,Beauty,5.84,2,0.37,Debit Card,Completed,2.0,7.36
+ORD-11061,2022-12-20 16:00:00,57.0,Female,Brazil,BOOKS,25.69,3,0.01,Credit Card,Pending,2.0,76.3
+ORD-10233,2022-03-19 16:00:00,49.0,Female,UK,Sports,11.48,11,0.3,Debit Card,Completed,5.0,88.4
+ORD-10959,2022-11-16 16:00:00,44.0,Male,UK,Clothing,117.28,11,0.23,Credit Card,Completed,3.0,993.36
+ORD-11099,2023-01-02 08:00:00,31.0,Male,UK,Electronics,85.86,13,0.2,Credit Card,Completed,4.0,892.94
+ORD-10770,2022-09-14 16:00:00,25.0,Other,Brazil,Clothing,93.72,4,0.3,Debit Card,Completed,5.0,262.42
+ORD-10305,2022-04-12 16:00:00,65.0,Male,Canada,Home & Garden,45.64,7,0.02,Credit Card,Completed,4.0,313.09
+ORD-11002,2022-12-01 00:00:00,32.0,Male,Brazil,Food & Beverage,29.72,10,0.37,Debit Card,Completed,4.0,187.24
+ORD-10581,2022-07-13 16:00:00,52.0,,France,Toys,24.93,11,0.05,,Refunded,4.0,260.52
+ORD-11161,2023-01-23 00:00:00,42.0,Other,Brazil,Beauty,16.86,12,0.26,Credit Card,Completed,5.0,149.72
+ORD-10262,2022-03-29 08:00:00,37.0,Other,USA,Beauty,35.02,2,0.22,Crypto,Cancelled,,54.63
+ORD-10088,2022-01-30 08:00:00,,Female,Australia,Beauty,70.19,10,0.31,PayPal,Completed,5.0,484.31
+ORD-10053,2022-01-18 16:00:00,43.0,,Brazil,Beauty,26.53,7,0.17,Crypto,Completed,4.0,154.14
+ORD-10594,2022-07-18 00:00:00,21.0,Male,Canada,Food & Beverage,62.72,3,0.04,Debit Card,Pending,3.0,180.63
+ORD-10211,2022-03-12 08:00:00,49.0,Other,USA,Clothing,80.41,9,0.14,PayPal,Completed,4.0,622.37
+ORD-10935,2022-11-08 16:00:00,46.0,Other,India,Food & Beverage,249.26,8,0.34,Credit Card,Completed,3.0,1316.09
+ORD-10172,2022-02-27 08:00:00,30.0,Other,USA,Toys,46.21,5,0.3,PayPal,Completed,4.0,161.73
+ORD-11049,2022-12-16 16:00:00,,Male,India,Sports,233.22,6,0.09,Credit Card,Completed,3.0,1273.38
+ORD-10803,2022-09-25 16:00:00,62.0,Female,France,Home & Garden,122.55,4,0.24,Bank Transfer,Pending,4.0,372.55
+ORD-10167,2022-02-25 16:00:00,62.0,Female,India,Toys,21.08,14,0.36,PayPal,Cancelled,5.0,188.88
+ORD-10017,2022-01-06 16:00:00,,Female,India,Electronics,60.82,10,0.15,Bank Transfer,Completed,2.0,516.97
+ORD-10076,2022-01-26 08:00:00,61.0,Male,UK,Food & Beverage,27.83,10,0.31,Credit Card,Completed,1.0,192.03
+ORD-10300,2022-04-11 00:00:00,49.0,Female,Germany,Home & Garden,12.42,4,0.28,PayPal,Completed,4.0,35.77
+ORD-10408,2022-05-17 00:00:00,40.0,Male,USA,Books,5.09,12,0.05,PayPal,Completed,5.0,58.03
+ORD-10271,2022-04-01 08:00:00,69.0,Male,India,Sports,53.58,6,0.02,Credit Card,Refunded,4.0,315.05
+ORD-10774,2022-09-16 00:00:00,25.0,Male,Brazil,Clothing,12.51,7,0.1,Debit Card,Refunded,5.0,78.81
+ORD-10065,2022-01-22 16:00:00,53.0,Female,France,Sports,79.05,12,0.31,PayPal,Cancelled,5.0,654.53
+ORD-10389,2022-05-10 16:00:00,,Other,USA,Beauty,63.93,3,0.13,Crypto,Pending,,166.86
+ORD-10002,2022-01-01 16:00:00,46.0,Other,Canada,Clothing,73.11,6,0.39,Debit Card,Cancelled,5.0,267.58
+ORD-11069,2022-12-23 08:00:00,45.0,Male,Australia,Books,57.05,10,0.34,Bank Transfer,Cancelled,3.0,376.53
+ORD-10319,2022-04-17 08:00:00,37.0,Female,France,Food & Beverage,14.27,3,0.18,Crypto,Completed,4.0,35.1
+ORD-10107,2022-02-05 16:00:00,61.0,Female,Australia,Clothing,57.48,11,0.09,Bank Transfer,Completed,5.0,575.37
+ORD-10847,2022-10-10 08:00:00,62.0,Male,Australia,Home & Garden,81.81,2,0.23,Credit Card,Completed,3.0,125.99
+ORD-10711,2022-08-26 00:00:00,44.0,Other,India,Toys,405.89,4,0.29,Bank Transfer,Refunded,,1152.73
+ORD-11041,2022-12-14 00:00:00,51.0,Female,India,Beauty,134.61,8,0.11,Debit Card,Completed,4.0,958.42
+ORD-10742,2022-09-05 08:00:00,38.0,Female,France,Books,67.53,5,0.3,Debit Card,Refunded,4.0,236.35
+ORD-10606,2022-07-22 00:00:00,41.0,Female,Germany,home & garden,55.16,8,0.17,Credit Card,Completed,5.0,366.26
+ORD-10547,2022-07-02 08:00:00,33.0,Female,Canada,toys,33.4,9,0.12,Crypto,Completed,2.0,264.53
+ORD-10808,2022-09-27 08:00:00,49.0,Female,UK,ELECTRONICS,157.4,4,0.08,Credit Card,Pending,5.0,579.23
+ORD-11185,2023-01-31 00:00:00,57.0,Other,Canada,Food & Beverage,114.61,5,0.19,Credit Card,Refunded,5.0,464.17
+ORD-10915,2022-11-02 00:00:00,60.0,Male,Brazil,Clothing,65.83,1,0.23,Debit Card,Cancelled,5.0,50.69
+ORD-10860,2022-10-14 16:00:00,51.0,Female,India,Toys,43.05,5,0.26,Debit Card,Cancelled,4.0,159.28
+ORD-10824,2022-10-02 16:00:00,38.0,Male,UK,Clothing,28.75,6,0.28,Credit Card,Completed,3.0,124.2
+ORD-10812,2022-09-28 16:00:00,38.0,Other,France,Toys,17.97,5,0.32,Debit Card,Completed,4.0,61.1
+ORD-10670,2022-08-12 08:00:00,60.0,Female,Brazil,Toys,6.4,7,0.09,PayPal,Cancelled,4.0,40.77
+ORD-10837,2022-10-07 00:00:00,27.0,Male,Brazil,Sports,78.95,10,0.31,Credit Card,Cancelled,5.0,544.76
+ORD-10294,2022-04-09 00:00:00,19.0,Male,Australia,Beauty,21.41,7,0.3,,Completed,3.0,104.91
+ORD-10637,2022-08-01 08:00:00,53.0,Male,Brazil,Sports,52.65,11,0.0,PayPal,Completed,,579.15
+ORD-10146,2022-02-18 16:00:00,43.0,Male,Canada,Clothing,172.28,10,0.02,,Completed,5.0,1688.34
+ORD-10709,2022-08-25 08:00:00,61.0,Female,India,Toys,35.63,12,0.06,Credit Card,Completed,,401.91
+ORD-10890,2022-10-24 16:00:00,68.0,Male,Brazil,Electronics,80.02,8,0.07,Debit Card,Completed,3.0,595.35
+ORD-10113,2022-02-07 16:00:00,25.0,Female,Australia,Beauty,116.95,4,0.06,Bank Transfer,Cancelled,4.0,439.73
+ORD-10144,2022-02-18 00:00:00,18.0,Female,Canada,Beauty,155.78,5,0.18,PayPal,Completed,2.0,638.7
+ORD-10838,2022-10-07 08:00:00,27.0,Other,Brazil,Sports,37.91,13,0.24,Bank Transfer,Completed,5.0,374.55
+ORD-10904,2022-10-29 08:00:00,27.0,Male,Brazil,Toys,170.3,6,0.27,Debit Card,Completed,4.0,745.91
+ORD-10518,2022-06-22 16:00:00,47.0,Male,Canada,Home & Garden,115.64,13,0.28,Debit Card,Completed,4.0,1082.39
+ORD-10525,2022-06-25 00:00:00,,Other,USA,Toys,38.97,2,0.12,Bank Transfer,Completed,,68.59
+ORD-10530,2022-06-26 16:00:00,50.0,Female,USA,Books,176.33,7,0.02,PayPal,Completed,3.0,1209.62
+ORD-10778,2022-09-17 08:00:00,54.0,,Canada,Electronics,143.61,5,0.01,Credit Card,Pending,4.0,710.87
+ORD-11134,2023-01-14 00:00:00,61.0,Female,UK,Books,22.25,12,0.07,Credit Card,Completed,5.0,248.31
+ORD-10369,2022-05-04 00:00:00,36.0,Male,Brazil,Sports,111.31,11,0.25,Bank Transfer,Completed,,918.31
+ORD-10864,2022-10-16 00:00:00,18.0,Female,USA,Electronics,37.47,13,0.08,PayPal,Completed,2.0,448.14
+ORD-10512,2022-06-20 16:00:00,46.0,Other,Canada,Toys,107.38,4,0.36,Credit Card,Completed,5.0,274.89
+ORD-10201,2022-03-09 00:00:00,25.0,Female,France,Clothing,39.94,-6,0.37,Debit Card,Pending,5.0,-150.97
+ORD-10407,2022-05-16 16:00:00,39.0,Male,Brazil,Electronics,196.49,3,0.39,,Pending,4.0,359.58
+ORD-11066,2022-12-22 08:00:00,23.0,Female,France,Clothing,29.17,1,0.24,Bank Transfer,Refunded,1.0,22.17
+ORD-10926,2022-11-05 16:00:00,25.0,Male,Australia,Sports,220.92,12,0.12,Credit Card,Completed,4.0,2332.92
+ORD-10143,2022-02-17 16:00:00,20.0,Female,Brazil,Food & Beverage,111.52,2,0.07,PayPal,Completed,4.0,207.43
+ORD-10654,2022-08-07 00:00:00,42.0,Other,Australia,Sports,67.11,12,0.36,PayPal,Completed,5.0,515.4
+ORD-10199,2022-03-08 08:00:00,56.0,Female,Canada,Books,122.89,14,0.12,Debit Card,Completed,5.0,1514.0
+ORD-10675,2022-08-14 00:00:00,26.0,Other,Australia,Sports,64.01,2,0.19,Crypto,Cancelled,5.0,103.7
+ORD-11182,2023-01-30 00:00:00,19.0,Male,India,Sports,85.96,8,0.14,Crypto,Refunded,1.0,591.4
+ORD-10672,2022-08-13 00:00:00,35.0,Other,Germany,Books,294.24,4,0.15,PayPal,Completed,5.0,1000.42
+ORD-10299,2022-04-10 16:00:00,54.0,Other,UK,Sports,9.33,2,0.22,Bank Transfer,Refunded,4.0,14.55
+ORD-10942,2022-11-11 00:00:00,35.0,Other,Australia,toys,11.67,1,0.08,Bank Transfer,Completed,,10.74
+ORD-10213,2022-03-13 00:00:00,41.0,Male,Canada,Beauty,45.42,10,0.1,PayPal,Pending,4.0,408.78
+ORD-11121,2023-01-09 16:00:00,,Female,France,Toys,80.73,12,0.08,Crypto,Completed,5.0,891.26
+ORD-10578,2022-07-12 16:00:00,19.0,Male,Germany,Electronics,59.38,12,0.07,PayPal,Completed,4.0,662.68
+ORD-10668,2022-08-11 16:00:00,40.0,Female,Australia,Sports,57.3,14,0.22,PayPal,Completed,,625.72
+ORD-10908,2022-10-30 16:00:00,37.0,Other,Brazil,Electronics,71.88,3,0.06,Crypto,Completed,1.0,202.7
+ORD-10317,2022-04-16 16:00:00,55.0,Female,Australia,Beauty,197.94,14,0.28,Crypto,Completed,1.0,1995.24
+ORD-10223,2022-03-16 08:00:00,66.0,Other,UK,Sports,18.44,-12,0.02,Credit Card,Pending,1.0,-216.85
+ORD-10855,2022-10-13 00:00:00,45.0,Female,India,Beauty,96.19,4,0.17,Crypto,Completed,5.0,319.35
+ORD-10653,2022-08-06 16:00:00,29.0,Male,Canada,Electronics,70.34,13,0.32,Bank Transfer,Completed,4.0,621.81
+ORD-10025,2022-01-09 08:00:00,50.0,,Canada,Beauty,105.75,6,0.26,Credit Card,Completed,5.0,469.53
+ORD-10456,2022-06-02 00:00:00,32.0,Male,India,Home & Garden,64.9,9,0.18,Crypto,Pending,4.0,478.96
+ORD-10301,2022-04-11 08:00:00,26.0,Male,UK,Books,8.07,12,0.07,Credit Card,Completed,1.0,90.06
+ORD-11043,2022-12-14 16:00:00,23.0,Other,Germany,Home & Garden,7.9,9,0.15,PayPal,Pending,4.0,60.44
+ORD-11075,2022-12-25 08:00:00,47.0,Male,Germany,Sports,58.24,10,0.39,,Completed,4.0,355.26
+ORD-11030,2022-12-10 08:00:00,25.0,Other,USA,Sports,25.59,5,0.22,Debit Card,Completed,3.0,99.8
+ORD-10602,2022-07-20 16:00:00,53.0,Male,Brazil,Beauty,392.61,1,0.09,Debit Card,Completed,3.0,357.28
+ORD-10481,2022-06-10 08:00:00,34.0,Male,Brazil,electronics,67.69,3,0.35,PayPal,Completed,3.0,132.0
+ORD-10664,2022-08-10 08:00:00,31.0,Female,Germany,Toys,13.72,9,0.15,PayPal,Completed,3.0,104.96
+ORD-10383,2022-05-08 16:00:00,41.0,,Australia,Food & Beverage,194.6,4,0.16,PayPal,Refunded,4.0,653.86
+ORD-11175,2023-01-27 16:00:00,40.0,Female,India,Clothing,102.11,4,0.02,,Refunded,4.0,400.27
+ORD-10812,2022-09-28 16:00:00,38.0,Other,France,Toys,17.97,5,0.32,Debit Card,Completed,4.0,61.1
+ORD-10351,2022-04-28 00:00:00,63.0,Male,France,Books,59.05,1,0.39,PayPal,Pending,4.0,36.02
+ORD-10638,2022-08-01 16:00:00,29.0,Female,UK,Books,93.55,14,0.29,Debit Card,Completed,3.0,929.89
+ORD-10478,2022-06-09 08:00:00,59.0,,USA,Electronics,105.4,14,0.29,Bank Transfer,Pending,,1047.68
+ORD-10948,2022-11-13 00:00:00,18.0,Male,UK,Beauty,31.03,4,0.14,Debit Card,Completed,4.0,106.74
+ORD-11052,2022-12-17 16:00:00,47.0,Male,Australia,Food & Beverage,47.5,8,0.37,Crypto,Cancelled,3.0,239.4
+ORD-10101,2022-02-03 16:00:00,18.0,Female,Canada,Electronics,149.91,11,0.31,Debit Card,Pending,4.0,1137.82
+ORD-10307,2022-04-13 08:00:00,,Male,France,Home & Garden,37.8,5,0.24,Credit Card,Refunded,2.0,143.64
+ORD-10253,2022-03-26 08:00:00,28.0,,Brazil,Books,88.23,9,0.16,PayPal,Completed,4.0,667.02
+ORD-10951,2022-11-14 00:00:00,29.0,Other,Brazil,Clothing,6.43,10,0.13,PayPal,Completed,4.0,55.94
+ORD-10500,2022-06-16 16:00:00,33.0,Other,Germany,Books,25.45,13,0.08,Credit Card,Pending,4.0,304.38
+ORD-11174,2023-01-27 08:00:00,50.0,Other,Germany,Electronics,25.44,4,0.02,Credit Card,Completed,3.0,99.72
+ORD-10177,2022-03-01 00:00:00,45.0,Other,India,Beauty,189.67,2,0.26,Debit Card,Completed,4.0,280.71
+ORD-11163,2023-01-23 16:00:00,59.0,,USA,Home & Garden,5.15,13,0.04,Credit Card,Pending,3.0,64.27
+ORD-11186,2023-01-31 08:00:00,68.0,Other,Australia,Food & Beverage,326.25,1,0.14,,Completed,4.0,280.58
+ORD-10662,2022-08-09 16:00:00,59.0,Male,Australia,Beauty,20.88,5,0.26,Crypto,Completed,4.0,77.26
+ORD-10171,2022-02-27 00:00:00,,Female,Brazil,Books,101.01,10,0.39,Credit Card,Pending,3.0,616.16
+ORD-10266,2022-03-30 16:00:00,20.0,Female,Germany,Toys,14.8,3,0.05,PayPal,Completed,4.0,42.18
+ORD-10053,2022-01-18 16:00:00,43.0,,Brazil,Beauty,26.53,7,0.17,Crypto,Completed,4.0,154.14
+ORD-10646,2022-08-04 08:00:00,48.0,,Germany,Home & Garden,79.42,12,0.18,Credit Card,Pending,3.0,781.49
+ORD-10534,2022-06-28 00:00:00,27.0,Other,India,HOME & GARDEN,36.1,12,0.31,Debit Card,Completed,3.0,298.91
+ORD-10835,2022-10-06 08:00:00,54.0,Male,USA,Food & Beverage,38.37,10,0.07,Credit Card,Completed,,356.84
+ORD-10034,2022-01-12 08:00:00,33.0,Male,Brazil,Home & Garden,199.3,10,0.3,Debit Card,Completed,4.0,1395.1
+ORD-10295,2022-04-09 08:00:00,18.0,Female,USA,sports,43.76,5,0.16,PayPal,Completed,1.0,183.79
+ORD-11087,2022-12-29 08:00:00,23.0,Female,Australia,Clothing,19.3,7,0.33,PayPal,Completed,,90.52
+ORD-10950,2022-11-13 16:00:00,58.0,Female,Canada,Food & Beverage,5.03,7,0.16,,Completed,4.0,29.58
+ORD-10707,2022-08-24 16:00:00,48.0,Female,UK,Food & Beverage,18.88,9,0.23,PayPal,Completed,4.0,130.84
+ORD-10648,2022-08-05 00:00:00,36.0,Male,Brazil,Sports,66.0,12,0.34,PayPal,Completed,4.0,522.72
+ORD-10365,2022-05-02 16:00:00,64.0,Other,Australia,Sports,157.95,5,0.35,Credit Card,Completed,4.0,513.34
+ORD-10474,2022-06-08 00:00:00,69.0,Male,USA,Electronics,108.11,1,0.24,Debit Card,Cancelled,5.0,82.16
+ORD-11026,2022-12-09 00:00:00,64.0,Other,UK,Beauty,144.5,4,0.2,Credit Card,Completed,4.0,462.4
+ORD-10522,2022-06-24 00:00:00,29.0,Male,Brazil,Books,6.48,4,0.37,PayPal,Completed,3.0,16.33
+ORD-10048,2022-01-17 00:00:00,21.0,Other,Canada,Food & Beverage,11.44,6,0.01,Bank Transfer,Completed,5.0,67.95
+ORD-10859,2022-10-14 08:00:00,43.0,Other,Canada,Books,9.3,4,0.35,Bank Transfer,Completed,4.0,24.18
+ORD-11054,2022-12-18 08:00:00,47.0,Male,Brazil,Clothing,147.01,14,0.03,PayPal,Completed,1.0,1996.4
+ORD-11082,2022-12-27 16:00:00,43.0,Male,UK,Sports,78.01,8,0.14,Debit Card,Pending,3.0,536.71
+ORD-10134,2022-02-14 16:00:00,57.0,,India,Clothing,78.95,3,0.2,Debit Card,Cancelled,4.0,189.48
+ORD-10603,2022-07-21 00:00:00,27.0,Other,Canada,HOME & GARDEN,31.71,14,0.38,Debit Card,Refunded,5.0,275.24
+ORD-10214,2022-03-13 08:00:00,58.0,Female,Brazil,Electronics,251.48,12,0.23,,Completed,5.0,2323.68
+ORD-10738,2022-09-04 00:00:00,62.0,Other,USA,Clothing,19.76,8,0.11,Credit Card,Refunded,3.0,140.69
+ORD-11157,2023-01-21 16:00:00,36.0,Female,India,Sports,43.94,8,0.03,Credit Card,Completed,4.0,340.97
+ORD-10676,2022-08-14 08:00:00,27.0,Other,USA,Books,38.56,4,0.29,Bank Transfer,Completed,3.0,109.51
+ORD-10679,2022-08-15 08:00:00,55.0,Other,France,ELECTRONICS,16.39,4,0.0,Credit Card,Completed,4.0,65.56
+ORD-10193,2022-03-06 08:00:00,18.0,Other,UK,Toys,28.09,1,0.04,Debit Card,Completed,3.0,26.97
+ORD-11050,2022-12-17 00:00:00,65.0,,Brazil,Beauty,127.54,11,0.27,Credit Card,Completed,2.0,1024.15
+ORD-10870,2022-10-18 00:00:00,65.0,Female,India,Books,19.95,7,0.36,Bank Transfer,Cancelled,4.0,89.38
+ORD-10325,2022-04-19 08:00:00,46.0,,France,Home & Garden,76.05,-6,0.32,PayPal,Completed,4.0,-310.28
+ORD-10030,2022-01-11 00:00:00,66.0,Other,Australia,Beauty,25.63,13,0.24,Bank Transfer,Refunded,2.0,253.22
+ORD-10003,2022-01-02 00:00:00,32.0,Other,Brazil,Sports,490.73,4,0.3,PayPal,Pending,,1374.04
+ORD-10631,2022-07-30 08:00:00,65.0,Other,UK,Sports,45.42,11,0.03,Credit Card,Completed,4.0,484.63
+ORD-10954,2022-11-15 00:00:00,51.0,Other,Brazil,Sports,44.08,11,0.05,,Completed,4.0,460.64
+ORD-10686,2022-08-17 16:00:00,67.0,Other,Canada,Electronics,18.58,1,0.22,Credit Card,Completed,5.0,14.49
+ORD-10136,2022-02-15 08:00:00,44.0,,India,Food & Beverage,267.99,9,0.03,Debit Card,Refunded,5.0,2339.55
+ORD-10566,2022-07-08 16:00:00,20.0,Male,France,Food & Beverage,81.52,7,0.22,Bank Transfer,Refunded,2.0,445.1
+ORD-10569,2022-07-09 16:00:00,57.0,Other,India,Food & Beverage,114.09,8,0.34,,Completed,4.0,602.4
+ORD-10415,2022-05-19 08:00:00,57.0,Female,Germany,Sports,70.65,11,0.11,PayPal,Pending,5.0,691.66
+ORD-10879,2022-10-21 00:00:00,68.0,Male,UK,Beauty,15.21,5,0.33,PayPal,Completed,5.0,50.95
+ORD-10588,2022-07-16 00:00:00,27.0,Female,India,Clothing,154.79,13,0.03,PayPal,Refunded,4.0,1951.9
+ORD-10541,2022-06-30 08:00:00,36.0,Male,Brazil,Sports,247.18,6,0.07,Crypto,Completed,,1379.26
+ORD-10385,2022-05-09 08:00:00,66.0,Male,Brazil,Books,91.8,1,0.31,Crypto,Completed,3.0,63.34
+ORD-10077,2022-01-26 16:00:00,51.0,Other,Australia,Food & Beverage,73.95,14,0.21,Crypto,Pending,3.0,817.89
+ORD-10022,2022-01-08 08:00:00,,Other,France,Toys,5.98,1,0.33,,Completed,4.0,4.01
+ORD-11132,2023-01-13 08:00:00,66.0,Male,France,Clothing,175.59,8,0.24,Debit Card,Completed,5.0,1067.59
+ORD-10917,2022-11-02 16:00:00,65.0,Female,Australia,Electronics,17.18,4,0.05,Credit Card,Completed,4.0,65.28
+ORD-10520,2022-06-23 08:00:00,69.0,Male,UK,Electronics,13.68,13,0.18,,Completed,4.0,145.83
+ORD-11165,2023-01-24 08:00:00,35.0,Female,Australia,Books,7.36,11,0.23,Bank Transfer,Completed,4.0,62.34
+ORD-10527,2022-06-25 16:00:00,38.0,Male,Brazil,Home & Garden,231.74,1,0.01,Crypto,Completed,4.0,229.42
+ORD-10998,2022-11-29 16:00:00,35.0,Female,UK,Beauty,22.74,11,0.18,PayPal,Completed,4.0,205.11
+ORD-10420,2022-05-21 00:00:00,56.0,Male,Brazil,Clothing,16.0,8,0.26,PayPal,Cancelled,3.0,94.72
+ORD-10969,2022-11-20 00:00:00,43.0,Female,India,Sports,82.0,2,0.11,Credit Card,Completed,3.0,145.96
+ORD-10560,2022-07-06 16:00:00,50.0,Other,Australia,Books,19.33,6,0.14,Bank Transfer,Pending,5.0,99.74
+ORD-10716,2022-08-27 16:00:00,20.0,Female,UK,Food & Beverage,89.1,13,0.09,Bank Transfer,Completed,5.0,1054.05
+ORD-10016,2022-01-06 08:00:00,20.0,Female,France,Sports,79.1,13,0.08,Credit Card,Completed,4.0,946.04
+ORD-10443,2022-05-28 16:00:00,51.0,Female,Brazil,Beauty,77.19,9,0.04,Debit Card,Completed,3.0,666.92
+ORD-10841,2022-10-08 08:00:00,,Female,USA,Food & Beverage,29.62,12,0.32,Bank Transfer,Pending,5.0,241.7
+ORD-10862,2022-10-15 08:00:00,67.0,Male,France,Clothing,436.95,9,0.35,Credit Card,Completed,4.0,2556.16
+ORD-10140,2022-02-16 16:00:00,54.0,Other,USA,Food & Beverage,36.32,13,0.22,PayPal,Completed,3.0,368.28
+ORD-10287,2022-04-06 16:00:00,52.0,Female,Canada,Beauty,63.75,9,0.29,Crypto,Completed,4.0,407.36
+ORD-10909,2022-10-31 00:00:00,41.0,Other,Germany,Food & Beverage,44.68,5,0.14,Crypto,Cancelled,5.0,192.12
+ORD-10400,2022-05-14 08:00:00,20.0,Female,Brazil,Electronics,175.72,4,0.11,Credit Card,Cancelled,1.0,625.56
+ORD-10763,2022-09-12 08:00:00,49.0,Male,France,Food & Beverage,43.25,7,0.34,Credit Card,Completed,,199.81
+ORD-10207,2022-03-11 00:00:00,59.0,Male,Canada,Clothing,150.16,12,0.3,Bank Transfer,Completed,3.0,1261.34
+ORD-11068,2022-12-23 00:00:00,37.0,Female,Brazil,Sports,262.16,2,0.13,PayPal,Completed,2.0,456.16
+ORD-11088,2022-12-29 16:00:00,43.0,Female,France,Clothing,30.59,11,0.37,Crypto,Cancelled,4.0,211.99
+ORD-10858,2022-10-14 00:00:00,56.0,Other,Australia,Sports,21.89,6,0.35,Debit Card,Cancelled,3.0,85.37
+ORD-10018,2022-01-07 00:00:00,19.0,Other,Australia,electronics,67.1,2,0.15,Debit Card,Completed,4.0,114.07
+ORD-10886,2022-10-23 08:00:00,35.0,Other,Brazil,Food & Beverage,12.8,4,0.09,Credit Card,Completed,3.0,46.59
+ORD-11036,2022-12-12 08:00:00,58.0,Male,Germany,Sports,51.85,9,0.09,Credit Card,Refunded,4.0,424.65
+ORD-10476,2022-06-08 16:00:00,30.0,Female,USA,Toys,22.89,4,0.26,Bank Transfer,Pending,3.0,67.75
+ORD-10113,2022-02-07 16:00:00,25.0,Female,Australia,Beauty,116.95,4,0.06,Bank Transfer,Cancelled,4.0,439.73
+ORD-10704,2022-08-23 16:00:00,21.0,Male,USA,Food & Beverage,92.96,3,0.24,Bank Transfer,Completed,2.0,211.95
+ORD-10099,2022-02-03 00:00:00,32.0,Other,Brazil,Clothing,83.46,2,0.38,,Completed,3.0,103.49
+ORD-10653,2022-08-06 16:00:00,29.0,Male,Canada,Electronics,70.34,13,0.32,Bank Transfer,Completed,4.0,621.81
+ORD-10722,2022-08-29 16:00:00,,Female,Germany,Books,35.52,1,0.28,Credit Card,Completed,4.0,25.57
+ORD-10434,2022-05-25 16:00:00,25.0,Female,Australia,Sports,103.64,1,0.1,PayPal,Completed,5.0,93.28
+ORD-10102,2022-02-04 00:00:00,42.0,Male,Brazil,Food & Beverage,75.83,9,0.4,Bank Transfer,Pending,4.0,409.48
+ORD-10766,2022-09-13 08:00:00,55.0,Male,Canada,Clothing,22.31,10,0.03,Debit Card,Completed,3.0,216.41
+ORD-10269,2022-03-31 16:00:00,49.0,,Brazil,Toys,114.34,11,0.17,PayPal,Refunded,3.0,1043.92
+ORD-10620,2022-07-26 16:00:00,29.0,Other,UK,Electronics,76.9,14,0.13,Credit Card,Refunded,5.0,936.64
+ORD-10437,2022-05-26 16:00:00,31.0,Female,UK,Books,11.21,8,0.24,Crypto,Completed,,68.16
+ORD-10887,2022-10-23 16:00:00,47.0,Female,France,Clothing,28.77,3,0.19,Debit Card,Completed,2.0,69.91
+ORD-10353,2022-04-28 16:00:00,55.0,Female,Australia,Toys,187.18,3,0.2,Crypto,Completed,4.0,449.23
+ORD-10430,2022-05-24 08:00:00,,Other,UK,Home & Garden,4670.402672682743,14,0.26,Credit Card,Completed,4.0,48385.37
+ORD-10050,2022-01-17 16:00:00,31.0,Other,Brazil,Food & Beverage,151.83,4,0.13,Debit Card,Completed,5.0,528.37
+ORD-11164,2023-01-24 00:00:00,42.0,Male,France,Toys,20.72,12,0.07,,Completed,5.0,231.24
+ORD-10131,2022-02-13 16:00:00,54.0,Male,Brazil,Electronics,107.07,5,0.38,PayPal,Refunded,,331.92
+ORD-10272,2022-04-01 16:00:00,58.0,Other,UK,Sports,64.12,1,0.39,Crypto,Refunded,5.0,39.11
+ORD-10343,2022-04-25 08:00:00,20.0,Female,UK,Beauty,134.06,12,0.0,Bank Transfer,Completed,5.0,1608.72
+ORD-10725,2022-08-30 16:00:00,56.0,Other,UK,Home & Garden,33.18,12,0.26,Credit Card,Completed,5.0,294.64
+ORD-10412,2022-05-18 08:00:00,19.0,Other,Brazil,Sports,22.17,1,0.17,PayPal,Completed,3.0,18.4
+ORD-10798,2022-09-24 00:00:00,,Female,Australia,Toys,131.29,1,0.3,Debit Card,Pending,5.0,91.9
+ORD-10678,2022-08-15 00:00:00,34.0,Other,Australia,Home & Garden,15.75,1,0.28,Credit Card,Completed,2.0,11.34
+ORD-10158,2022-02-22 16:00:00,56.0,Other,UK,Books,41.05,10,0.23,Credit Card,Completed,5.0,316.08
+ORD-10304,2022-04-12 08:00:00,36.0,Male,Canada,Clothing,30.36,11,0.38,Crypto,Pending,4.0,207.06
+ORD-10865,2022-10-16 08:00:00,61.0,Female,India,Food & Beverage,74.49,2,0.29,Crypto,Completed,5.0,105.78
+ORD-10020,2022-01-07 16:00:00,61.0,Male,UK,Sports,47.07,13,0.31,Crypto,Cancelled,4.0,422.22
+ORD-10466,2022-06-05 08:00:00,,Other,USA,Food & Beverage,110.12,6,0.04,Credit Card,Completed,2.0,634.29
+ORD-10379,2022-05-07 08:00:00,23.0,Other,UK,food & beverage,386.18,12,0.14,Crypto,Completed,3.0,3985.38
+ORD-11057,2022-12-19 08:00:00,,Female,USA,Toys,11.9,13,0.21,Credit Card,Completed,2.0,122.21
+ORD-10397,2022-05-13 08:00:00,42.0,Other,USA,Beauty,13.95,5,0.17,Credit Card,Pending,4.0,57.89
+ORD-10338,2022-04-23 16:00:00,38.0,Male,Brazil,Books,8.85,8,0.31,Debit Card,Refunded,4.0,48.85
+ORD-11129,2023-01-12 08:00:00,,Male,Brazil,Food & Beverage,70.32,13,0.12,,Completed,5.0,804.46
+ORD-10878,2022-10-20 16:00:00,28.0,Male,Germany,Beauty,43.57,1,0.39,PayPal,Completed,,26.58
+ORD-10657,2022-08-08 00:00:00,53.0,Female,Canada,Food & Beverage,15.5,13,0.35,Credit Card,Refunded,4.0,130.98
+ORD-10612,2022-07-24 00:00:00,35.0,Other,UK,Electronics,85.09,7,0.2,,Completed,3.0,476.5
+ORD-10015,2022-01-06 00:00:00,41.0,Other,Brazil,Electronics,9931.069998539737,4,0.18,Crypto,Completed,2.0,32573.91
+ORD-10360,2022-05-01 00:00:00,51.0,Male,UK,Sports,53.92,11,0.05,Credit Card,Refunded,4.0,563.46
+ORD-10586,2022-07-15 08:00:00,46.0,Male,India,Food & Beverage,264.09,1,0.21,PayPal,Completed,2.0,208.63
+ORD-10472,2022-06-07 08:00:00,52.0,Female,USA,Toys,34.91,14,0.29,Debit Card,Completed,4.0,347.01
+ORD-10791,2022-09-21 16:00:00,63.0,Female,India,Food & Beverage,42.41,12,0.25,Crypto,Refunded,4.0,381.69
+ORD-11111,2023-01-06 08:00:00,22.0,Female,Brazil,TOYS,14.14,10,0.08,Credit Card,Completed,5.0,130.09
+ORD-10529,2022-06-26 08:00:00,53.0,Male,USA,Home & Garden,66.13,13,0.2,PayPal,Completed,4.0,687.75
+ORD-10023,2022-01-08 16:00:00,19.0,Male,UK,Home & Garden,77.99,14,0.34,Credit Card,Cancelled,4.0,720.63
+ORD-11141,2023-01-16 08:00:00,52.0,Male,Australia,Toys,98.15,11,0.37,Crypto,Completed,4.0,680.18
+ORD-10188,2022-03-04 16:00:00,28.0,Other,UK,Home & Garden,14.02,12,0.25,Credit Card,Completed,4.0,126.18
+ORD-11067,2022-12-22 16:00:00,19.0,Other,France,Home & Garden,10.74,7,0.27,Credit Card,Completed,4.0,54.88
+ORD-11027,2022-12-09 08:00:00,39.0,Male,Australia,Sports,59.73,9,0.2,Credit Card,Completed,5.0,430.06
+ORD-11195,2023-02-03 08:00:00,59.0,Male,India,Clothing,10.17,8,0.09,Debit Card,Completed,2.0,74.04
+ORD-11098,2023-01-02 00:00:00,,Female,India,Beauty,67.82,5,0.18,PayPal,Refunded,5.0,278.06
+ORD-10007,2022-01-03 08:00:00,56.0,Male,Germany,Food & Beverage,17.36,14,0.04,Credit Card,Pending,1.0,233.32
+ORD-10616,2022-07-25 08:00:00,41.0,Male,France,Sports,10.73,14,0.21,Crypto,Cancelled,4.0,118.67
+ORD-10921,2022-11-04 00:00:00,40.0,,Germany,Food & Beverage,6.85,5,0.25,Credit Card,Completed,5.0,25.69
+ORD-10840,2022-10-08 00:00:00,34.0,,UK,Home & Garden,123.49,10,0.34,Debit Card,Completed,4.0,815.03
+ORD-10215,2022-03-13 16:00:00,69.0,Female,UK,Books,16.6,10,0.14,Crypto,Completed,3.0,142.76
+ORD-10109,2022-02-06 08:00:00,41.0,Female,UK,Home & Garden,120.97,6,0.06,PayPal,Completed,,682.27
+ORD-10219,2022-03-15 00:00:00,29.0,Female,UK,Food & Beverage,19.14,8,0.37,,Completed,4.0,96.47
+ORD-11160,2023-01-22 16:00:00,21.0,Male,Germany,Electronics,24.59,5,0.01,Crypto,Pending,2.0,121.72
+ORD-10764,2022-09-12 16:00:00,33.0,Other,Australia,Clothing,22.57,8,0.1,,Completed,4.0,162.5
+ORD-10203,2022-03-09 16:00:00,26.0,Female,India,home & garden,21.3,8,0.02,Credit Card,Cancelled,5.0,166.99
+ORD-11071,2022-12-24 00:00:00,21.0,Other,Germany,Electronics,36.11,6,0.35,Bank Transfer,Cancelled,,140.83
+ORD-10627,2022-07-29 00:00:00,47.0,Male,Germany,Beauty,161.15,1,0.2,Credit Card,Completed,4.0,128.92
+ORD-10027,2022-01-10 00:00:00,39.0,Female,Germany,Toys,145.26,6,0.35,Credit Card,Completed,,566.51
+ORD-10230,2022-03-18 16:00:00,45.0,Female,France,Electronics,77.96,4,0.17,Bank Transfer,Pending,5.0,258.83
+ORD-10401,2022-05-14 16:00:00,57.0,Male,UK,Beauty,265.18,14,0.11,Debit Card,Completed,3.0,3304.14
+ORD-10052,2022-01-18 08:00:00,26.0,Other,Germany,Books,15.48,7,0.05,Crypto,Cancelled,5.0,102.94
+ORD-10945,2022-11-12 00:00:00,39.0,Female,UK,Sports,77.17,10,0.2,Credit Card,Refunded,3.0,617.36
+ORD-10697,2022-08-21 08:00:00,18.0,Male,France,Toys,122.06,2,0.3,Credit Card,Completed,,170.88
+ORD-11114,2023-01-07 08:00:00,61.0,Female,Brazil,SPORTS,273.49,8,0.16,,Cancelled,5.0,1837.85
+ORD-10074,2022-01-25 16:00:00,35.0,Male,Australia,Electronics,7.67,8,0.01,Credit Card,Cancelled,4.0,60.75
+ORD-10891,2022-10-25 00:00:00,51.0,Female,Germany,Clothing,61.55,13,0.06,Crypto,Completed,1.0,752.14
+ORD-10796,2022-09-23 08:00:00,22.0,Female,Canada,Books,62.92,11,0.23,Credit Card,Completed,2.0,532.93
+ORD-10046,2022-01-16 08:00:00,56.0,Other,Australia,Toys,42.53,5,0.11,Crypto,Completed,4.0,189.26
+ORD-10196,2022-03-07 08:00:00,30.0,Other,Australia,Books,73.13,4,0.19,Bank Transfer,Completed,4.0,236.94
+ORD-10666,2022-08-11 00:00:00,22.0,Female,India,Food & Beverage,98.23,14,0.17,PayPal,Cancelled,4.0,1141.43
+ORD-10562,2022-07-07 08:00:00,68.0,Male,France,CLOTHING,108.23,2,0.38,,Completed,3.0,134.21
+ORD-10877,2022-10-20 08:00:00,19.0,Male,Brazil,Food & Beverage,56.53,10,0.03,PayPal,Completed,4.0,548.34
+ORD-10126,2022-02-12 00:00:00,51.0,Other,Australia,Beauty,77.32,2,0.06,Crypto,Completed,4.0,145.36
+ORD-10718,2022-08-28 08:00:00,30.0,Female,USA,home & garden,212.94,3,0.36,Bank Transfer,Completed,3.0,408.84
+ORD-11077,2022-12-26 00:00:00,68.0,Female,Canada,TOYS,63.85,8,0.29,Debit Card,Completed,4.0,362.67
+ORD-10064,2022-01-22 08:00:00,34.0,Other,Brazil,Toys,129.01,12,0.31,Bank Transfer,Completed,4.0,1068.2
+ORD-10831,2022-10-05 00:00:00,22.0,Female,UK,Clothing,51.77,11,0.28,Debit Card,Completed,5.0,410.02
+ORD-10992,2022-11-27 16:00:00,64.0,Female,Brazil,Sports,96.4,13,0.0,,Completed,4.0,1253.2
+ORD-10827,2022-10-03 16:00:00,,Male,Canada,HOME & GARDEN,17.23,10,0.06,Crypto,Completed,4.0,161.96
+ORD-11008,2022-12-03 00:00:00,34.0,Male,India,Toys,165.0,8,0.19,Crypto,Completed,4.0,1069.2
+ORD-10866,2022-10-16 16:00:00,,Other,Brazil,Food & Beverage,12.44,13,0.11,Bank Transfer,Cancelled,3.0,143.93
+ORD-10708,2022-08-25 00:00:00,36.0,Female,Brazil,Beauty,79.3,7,0.25,PayPal,Pending,3.0,416.33
+ORD-10781,2022-09-18 08:00:00,44.0,Male,Australia,Clothing,161.96,5,0.23,PayPal,Completed,3.0,623.55
+ORD-10333,2022-04-22 00:00:00,,Other,India,Beauty,46.08,2,0.22,Credit Card,Refunded,2.0,71.88
+ORD-10623,2022-07-27 16:00:00,40.0,,UK,books,13.01,8,0.08,Credit Card,Completed,2.0,95.75
+ORD-11078,2022-12-26 08:00:00,19.0,Other,India,Books,81.67,12,0.28,Crypto,Completed,4.0,705.63
+ORD-10552,2022-07-04 00:00:00,45.0,Other,France,Beauty,80.79,7,0.14,Crypto,Completed,5.0,486.36
+ORD-10405,2022-05-16 00:00:00,49.0,Female,India,Food & Beverage,142.16,7,0.21,Debit Card,Completed,,786.14
+ORD-10062,2022-01-21 16:00:00,52.0,Female,Germany,Home & Garden,114.08,6,0.27,Bank Transfer,Completed,2.0,499.67
+ORD-10218,2022-03-14 16:00:00,69.0,Male,Germany,Books,67.09,-9,0.08,Debit Card,Completed,5.0,-555.51
+ORD-10357,2022-04-30 00:00:00,25.0,Female,Brazil,Clothing,7.84,3,0.32,,Completed,5.0,15.99
+ORD-10777,2022-09-17 00:00:00,45.0,Male,Germany,Books,305.83,12,0.05,PayPal,Completed,2.0,3486.46
+ORD-10814,2022-09-29 08:00:00,42.0,Other,USA,Beauty,18.28,8,0.24,Debit Card,Refunded,5.0,111.14
+ORD-10548,2022-07-02 16:00:00,41.0,Female,Germany,Toys,223.92,13,0.12,Debit Card,Completed,4.0,2561.64
+ORD-10275,2022-04-02 16:00:00,56.0,Male,India,Home & Garden,41.29,7,0.12,Credit Card,Cancelled,4.0,254.35
+ORD-10810,2022-09-28 00:00:00,66.0,Other,Germany,Books,137.66,13,0.39,Bank Transfer,Completed,5.0,1091.64
+ORD-11012,2022-12-04 08:00:00,,Other,USA,Books,81.17,9,0.19,PayPal,Completed,5.0,591.73
+ORD-10913,2022-11-01 08:00:00,19.0,Male,Germany,Toys,84.1,12,0.19,Credit Card,Completed,,817.45
+ORD-11010,2022-12-03 16:00:00,,Female,India,Food & Beverage,89.38,8,0.3,PayPal,Cancelled,3.0,500.53
+ORD-10509,2022-06-19 16:00:00,68.0,Female,Australia,Home & Garden,96.27,5,0.22,Crypto,Completed,5.0,375.45
+ORD-10871,2022-10-18 08:00:00,64.0,Male,USA,Electronics,47.14,3,0.25,Debit Card,Completed,4.0,106.07
+ORD-10754,2022-09-09 08:00:00,32.0,Female,Brazil,Toys,114.91,14,0.02,Crypto,Refunded,4.0,1576.57
+ORD-10235,2022-03-20 08:00:00,18.0,Other,UK,Home & Garden,279.61,11,0.14,Bank Transfer,Completed,5.0,2645.11
+ORD-10769,2022-09-14 08:00:00,45.0,Male,Brazil,Clothing,64.23,6,0.13,Debit Card,Completed,4.0,335.28
+ORD-10720,2022-08-29 00:00:00,45.0,Other,Brazil,Electronics,190.31,8,0.08,Debit Card,Completed,4.0,1400.68
+ORD-10792,2022-09-22 00:00:00,,,USA,sports,64.81,3,0.23,PayPal,Pending,3.0,149.71
+ORD-10849,2022-10-11 00:00:00,21.0,,France,Home & Garden,147.64,9,0.37,Bank Transfer,Cancelled,3.0,837.12
+ORD-10758,2022-09-10 16:00:00,,Other,Germany,Home & Garden,50.09,3,0.36,Bank Transfer,Cancelled,4.0,96.17
+ORD-10532,2022-06-27 08:00:00,54.0,Male,Australia,Home & Garden,144.22,12,0.37,Bank Transfer,Completed,2.0,1090.3
+ORD-10100,2022-02-03 08:00:00,62.0,Female,France,Clothing,42.95,10,0.38,Credit Card,Cancelled,3.0,266.29
+ORD-11148,2023-01-18 16:00:00,28.0,Male,Brazil,Clothing,5.89,13,0.0,Crypto,Pending,4.0,76.57
+ORD-10182,2022-03-02 16:00:00,45.0,Other,Germany,Beauty,140.02,7,0.2,Debit Card,Completed,5.0,784.11
+ORD-10332,2022-04-21 16:00:00,58.0,Other,France,Food & Beverage,10.38,11,0.29,Debit Card,Completed,3.0,81.07
+ORD-10726,2022-08-31 00:00:00,18.0,Male,India,Toys,88.77,3,0.32,PayPal,Pending,,181.09
+ORD-11035,2022-12-12 00:00:00,59.0,Other,Germany,Electronics,360.68,12,0.18,Crypto,Refunded,5.0,3549.09
+ORD-10903,2022-10-29 00:00:00,21.0,Male,Germany,electronics,233.32,8,0.14,,Completed,3.0,1605.24
+ORD-10986,2022-11-25 16:00:00,62.0,Other,India,Books,270.54,6,0.27,PayPal,Completed,3.0,1184.97
+ORD-10799,2022-09-24 08:00:00,19.0,Female,France,Home & Garden,88.21,6,0.18,Crypto,Pending,5.0,433.99
+ORD-10258,2022-03-28 00:00:00,23.0,Male,Canada,Toys,75.99,12,0.31,Debit Card,Refunded,4.0,629.2
+ORD-10138,2022-02-16 00:00:00,18.0,,Australia,Clothing,17.17,12,0.32,Bank Transfer,Completed,3.0,140.11
+ORD-10649,2022-08-05 08:00:00,64.0,Male,UK,Clothing,126.78,8,0.35,Debit Card,Refunded,4.0,659.26
+ORD-10544,2022-07-01 08:00:00,22.0,Female,India,Beauty,77.27,3,0.33,Bank Transfer,Pending,2.0,155.31
+ORD-10961,2022-11-17 08:00:00,,Male,Australia,Sports,33.23,9,0.26,Debit Card,Completed,3.0,221.31
+ORD-10580,2022-07-13 08:00:00,67.0,Female,France,Electronics,46.3,10,0.09,,Completed,4.0,421.33
+ORD-10819,2022-10-01 00:00:00,50.0,Other,Australia,Clothing,20.72,13,0.15,PayPal,Completed,5.0,228.96
+ORD-10644,2022-08-03 16:00:00,45.0,Male,Australia,Clothing,40.61,1,0.13,Crypto,Completed,4.0,35.33
+ORD-11166,2023-01-24 16:00:00,57.0,Other,France,Food & Beverage,19.61,9,0.12,PayPal,Pending,4.0,155.31
+ORD-10636,2022-08-01 00:00:00,66.0,Male,Canada,Beauty,37.14,13,0.1,Bank Transfer,Cancelled,5.0,434.54
+ORD-10040,2022-01-14 08:00:00,20.0,Male,Brazil,Home & Garden,13.63,13,0.36,PayPal,Pending,1.0,113.4
+ORD-11130,2023-01-12 16:00:00,47.0,Male,Canada,Electronics,138.6,11,0.2,Credit Card,Pending,4.0,1219.68
+ORD-10960,2022-11-17 00:00:00,26.0,Male,USA,Sports,82.3,11,0.2,Crypto,Completed,3.0,724.24
+ORD-10072,2022-01-25 00:00:00,21.0,Other,USA,Sports,205.53,5,0.05,,Completed,4.0,976.27
+ORD-10495,2022-06-15 00:00:00,65.0,Other,UK,Sports,5.1,14,0.34,,Pending,5.0,47.12
+ORD-10671,2022-08-12 16:00:00,28.0,Female,UK,Books,36.22,1,0.14,PayPal,Completed,3.0,31.15
+ORD-10593,2022-07-17 16:00:00,24.0,Male,USA,Clothing,67.7,14,0.14,Crypto,Pending,2.0,815.11
+ORD-10084,2022-01-29 00:00:00,25.0,Other,Brazil,Toys,24.13,14,0.34,PayPal,Pending,4.0,222.96
+ORD-10032,2022-01-11 16:00:00,59.0,Other,Canada,sports,32.17,5,0.05,,Completed,4.0,152.81
+ORD-10308,2022-04-13 16:00:00,37.0,Male,Brazil,Home & Garden,64.14,9,0.12,Debit Card,Cancelled,2.0,507.99
+ORD-11047,2022-12-16 00:00:00,38.0,Male,Canada,Beauty,387.25,4,0.05,,Pending,4.0,1471.55
+ORD-10955,2022-11-15 08:00:00,66.0,Other,Germany,Food & Beverage,71.49,1,0.08,Crypto,Completed,3.0,65.77
+ORD-10610,2022-07-23 08:00:00,65.0,Female,UK,Toys,46.58,1,0.28,Crypto,Refunded,4.0,33.54
+ORD-10576,2022-07-12 00:00:00,48.0,,Brazil,Sports,37.32,1,0.06,Debit Card,Pending,2.0,35.08
+ORD-10191,2022-03-05 16:00:00,,Female,Australia,Beauty,29.79,3,0.34,PayPal,Completed,5.0,58.98
+ORD-10617,2022-07-25 16:00:00,40.0,Female,USA,Sports,50.98,10,0.05,Credit Card,Completed,4.0,484.31
+ORD-11137,2023-01-15 00:00:00,28.0,Female,UK,Beauty,34.79,2,0.36,Credit Card,Completed,5.0,44.53
+ORD-10786,2022-09-20 00:00:00,30.0,Male,UK,Toys,21.39,3,0.31,Bank Transfer,Completed,5.0,44.28
+ORD-10368,2022-05-03 16:00:00,65.0,Female,Brazil,Sports,219.58,14,0.1,Debit Card,Cancelled,2.0,2766.71
+ORD-10277,2022-04-03 08:00:00,,Other,Canada,Home & Garden,57.48,5,0.0,Debit Card,Pending,4.0,287.4
+ORD-10571,2022-07-10 08:00:00,,Other,Brazil,toys,50.48,6,0.34,Credit Card,Completed,4.0,199.9
+ORD-10252,2022-03-26 00:00:00,39.0,Other,Germany,Food & Beverage,2064.7994322369323,7,0.2,Crypto,Completed,2.0,11562.88
+ORD-11021,2022-12-07 08:00:00,58.0,Female,Canada,Electronics,11.36,7,0.08,,Completed,,73.16
+ORD-10070,2022-01-24 08:00:00,23.0,Female,France,Electronics,55.14,9,0.31,PayPal,Cancelled,5.0,342.42
+ORD-10645,2022-08-04 00:00:00,31.0,Other,Germany,Clothing,43.16,8,0.32,Credit Card,Refunded,4.0,234.79
+ORD-10745,2022-09-06 08:00:00,53.0,Other,India,Books,201.49,2,0.28,PayPal,Refunded,4.0,290.15
+ORD-11056,2022-12-19 00:00:00,41.0,Male,Germany,Toys,49.17,13,0.33,Crypto,Completed,3.0,428.27
+ORD-10968,2022-11-19 16:00:00,34.0,Female,Canada,Food & Beverage,99.11,11,0.07,,Completed,5.0,1013.9
+ORD-11163,2023-01-23 16:00:00,59.0,,USA,Home & Garden,5.15,13,0.04,Credit Card,Pending,3.0,64.27
+ORD-11187,2023-01-31 16:00:00,56.0,Female,Australia,Clothing,23.84,10,0.15,Debit Card,Completed,4.0,202.64
+ORD-10570,2022-07-10 00:00:00,27.0,Female,France,Books,169.35,7,0.27,PayPal,Completed,5.0,865.38
+ORD-10801,2022-09-25 00:00:00,47.0,Male,India,Toys,40.8,8,0.16,PayPal,Completed,5.0,274.18
+ORD-10132,2022-02-14 00:00:00,52.0,Male,UK,Beauty,135.91,8,0.21,Debit Card,Refunded,3.0,858.95
+ORD-10222,2022-03-16 00:00:00,20.0,,France,Sports,253.51,8,0.09,Bank Transfer,Completed,5.0,1845.55
+ORD-10910,2022-10-31 08:00:00,22.0,Male,Germany,SPORTS,60.64,7,0.35,Debit Card,Completed,3.0,275.91
+ORD-10267,2022-03-31 00:00:00,36.0,Other,Brazil,Electronics,48.82,11,0.31,PayPal,Completed,4.0,370.54
+ORD-11037,2022-12-12 16:00:00,54.0,,USA,Clothing,8.92,1,0.02,Bank Transfer,Completed,2.0,8.74
+ORD-10081,2022-01-28 00:00:00,48.0,Male,France,Food & Beverage,126.31,3,0.12,Debit Card,Completed,4.0,333.46
+ORD-10695,2022-08-20 16:00:00,65.0,Male,Canada,HOME & GARDEN,147.17,9,0.27,Credit Card,Completed,3.0,966.91
+ORD-11173,2023-01-27 00:00:00,55.0,,USA,Food & Beverage,13.8,12,0.14,,Completed,5.0,142.42
+ORD-10115,2022-02-08 08:00:00,52.0,Female,France,Books,187.18,7,0.25,PayPal,Cancelled,3.0,982.7
+ORD-10428,2022-05-23 16:00:00,30.0,,Canada,Clothing,129.4,3,0.24,PayPal,Completed,4.0,295.03
+ORD-10483,2022-06-11 00:00:00,45.0,Female,Brazil,Beauty,23.22,11,0.01,Bank Transfer,Refunded,,252.87
+ORD-10467,2022-06-05 16:00:00,62.0,Other,France,Toys,197.21,5,0.3,PayPal,Cancelled,5.0,690.24
+ORD-10957,2022-11-16 00:00:00,,Male,Brazil,Electronics,24.04,8,0.07,Credit Card,Completed,5.0,178.86
+ORD-10208,2022-03-11 08:00:00,61.0,Female,Australia,Electronics,50.99,14,0.37,,Cancelled,4.0,449.73
+ORD-10344,2022-04-25 16:00:00,34.0,Female,USA,electronics,84.49,14,0.28,Bank Transfer,Completed,3.0,851.66
+ORD-10329,2022-04-20 16:00:00,19.0,Male,Canada,Clothing,192.24,12,0.39,PayPal,Cancelled,4.0,1407.2
+ORD-11109,2023-01-05 16:00:00,67.0,Female,France,toys,67.05,7,0.02,PayPal,Cancelled,4.0,459.96
+ORD-10014,2022-01-05 16:00:00,,Female,Canada,Home & Garden,43.09,9,0.17,PayPal,Completed,5.0,321.88
+ORD-10502,2022-06-17 08:00:00,22.0,Other,India,Home & Garden,89.33,1,0.3,Credit Card,Completed,4.0,62.53
+ORD-10425,2022-05-22 16:00:00,67.0,Male,Brazil,Sports,44.83,5,0.38,Bank Transfer,Completed,4.0,138.97
+ORD-10539,2022-06-29 16:00:00,48.0,Female,Australia,Toys,8.36,4,0.06,Bank Transfer,Cancelled,4.0,31.43
+ORD-10596,2022-07-18 16:00:00,62.0,Other,Germany,Sports,7.39,4,0.21,PayPal,Completed,,23.35
+ORD-10993,2022-11-28 00:00:00,40.0,Other,Australia,Toys,21.83,7,0.35,PayPal,Completed,3.0,99.33
+ORD-11067,2022-12-22 16:00:00,19.0,Other,France,Home & Garden,10.74,7,0.27,Credit Card,Completed,4.0,54.88
+ORD-11053,2022-12-18 00:00:00,28.0,Female,France,Books,68.81,3,0.15,Bank Transfer,Completed,4.0,175.47
+ORD-11045,2022-12-15 08:00:00,50.0,,Brazil,Sports,44.23,14,0.16,Bank Transfer,Cancelled,5.0,520.14
+ORD-10436,2022-05-26 08:00:00,33.0,,India,Beauty,9.77,8,0.28,Bank Transfer,Completed,4.0,56.28
+ORD-10736,2022-09-03 08:00:00,62.0,Other,USA,Home & Garden,6.18,9,0.09,Bank Transfer,Pending,4.0,50.61
+ORD-10684,2022-08-17 00:00:00,,,Germany,Food & Beverage,21.69,8,0.32,Debit Card,Completed,3.0,117.99
+ORD-10925,2022-11-05 08:00:00,33.0,,UK,Electronics,73.09,13,0.18,Credit Card,Completed,5.0,779.14
+ORD-10474,2022-06-08 00:00:00,69.0,Male,USA,Electronics,108.11,1,0.24,Debit Card,Cancelled,5.0,82.16
+ORD-11127,2023-01-11 16:00:00,41.0,Other,Australia,Food & Beverage,50.5,14,0.29,Crypto,Cancelled,3.0,501.97
+ORD-10106,2022-02-05 08:00:00,18.0,Other,France,Sports,66.16,1,0.15,Credit Card,Completed,5.0,56.24
+ORD-10896,2022-10-26 16:00:00,32.0,Male,India,Books,38.44,4,0.11,Crypto,Completed,2.0,136.85
+ORD-10006,2022-01-03 00:00:00,38.0,Female,India,home & garden,125.61,6,0.12,,Cancelled,4.0,663.22
+ORD-10515,2022-06-21 16:00:00,22.0,Female,India,Sports,249.01,12,0.18,Crypto,Completed,4.0,2450.26
+ORD-10880,2022-10-21 08:00:00,56.0,Male,Brazil,Beauty,297.48,14,0.34,Credit Card,Completed,4.0,2748.72
+ORD-10367,2022-05-03 08:00:00,22.0,Female,Australia,Toys,36.93,11,0.32,Crypto,Completed,3.0,276.24
+ORD-10051,2022-01-18 00:00:00,67.0,Male,Canada,Toys,198.25,14,0.01,PayPal,Pending,5.0,2747.74
+ORD-11117,2023-01-08 08:00:00,57.0,Other,Brazil,Food & Beverage,38.53,4,0.36,Crypto,Completed,2.0,98.64
+ORD-11090,2022-12-30 08:00:00,36.0,Male,Australia,Clothing,7486.747836445049,13,0.15,Credit Card,Pending,1.0,82728.56
+ORD-10375,2022-05-06 00:00:00,45.0,Other,France,Food & Beverage,65.85,2,0.02,PayPal,Completed,2.0,129.07
+ORD-11150,2023-01-19 08:00:00,54.0,Female,Germany,Electronics,118.73,2,0.32,PayPal,Completed,4.0,161.47
+ORD-11178,2023-01-28 16:00:00,42.0,Female,Brazil,Electronics,78.18,13,0.09,Crypto,Completed,4.0,924.87
+ORD-10594,2022-07-18 00:00:00,21.0,Male,Canada,Food & Beverage,62.72,3,0.04,Debit Card,Pending,3.0,180.63
+ORD-10026,2022-01-09 16:00:00,29.0,Male,Canada,Beauty,78.11,13,0.19,Debit Card,Completed,,822.5
+ORD-10813,2022-09-29 00:00:00,43.0,Male,Australia,Food & Beverage,49.12,14,0.29,Credit Card,Completed,3.0,488.25
+ORD-10454,2022-06-01 08:00:00,59.0,Other,Brazil,Toys,13.62,7,0.23,Bank Transfer,Completed,3.0,73.41
+ORD-10750,2022-09-08 00:00:00,64.0,Other,UK,Books,27.6,9,0.01,Crypto,Completed,4.0,245.92
+ORD-10519,2022-06-23 00:00:00,63.0,Male,France,Sports,17.62,9,0.17,,Completed,5.0,131.62
+ORD-10407,2022-05-16 16:00:00,39.0,Male,Brazil,Electronics,196.49,3,0.39,,Pending,4.0,359.58
+ORD-10659,2022-08-08 16:00:00,33.0,Male,India,Books,9.25,7,0.22,Debit Card,Cancelled,5.0,50.5
+ORD-10280,2022-04-04 08:00:00,45.0,Female,France,Clothing,51.53,5,0.09,Debit Card,Completed,4.0,234.46
+ORD-11102,2023-01-03 08:00:00,28.0,Male,USA,Books,115.33,5,0.26,Debit Card,Refunded,5.0,426.72
+ORD-10828,2022-10-04 00:00:00,34.0,Female,Germany,BEAUTY,30.68,3,0.25,Debit Card,Refunded,4.0,69.03
+ORD-10262,2022-03-29 08:00:00,37.0,Other,USA,Beauty,35.02,2,0.22,Crypto,Cancelled,,54.63
+ORD-10485,2022-06-11 16:00:00,54.0,Other,Australia,Sports,18.35,14,0.09,Crypto,Completed,4.0,233.78
+ORD-10693,2022-08-20 00:00:00,36.0,Other,France,Food & Beverage,6.41,2,0.21,Bank Transfer,Cancelled,,10.13
+ORD-10232,2022-03-19 08:00:00,54.0,Other,USA,Clothing,11.32,9,0.21,Crypto,Completed,2.0,80.49
+ORD-11187,2023-01-31 16:00:00,56.0,Female,Australia,Clothing,23.84,10,0.15,Debit Card,Completed,4.0,202.64
+ORD-11128,2023-01-12 00:00:00,,Male,Germany,Clothing,19.03,4,0.21,Crypto,Completed,3.0,60.13
+ORD-11113,2023-01-07 00:00:00,27.0,Other,India,Sports,12.71,4,0.16,Crypto,Completed,5.0,42.71
+ORD-10028,2022-01-10 08:00:00,61.0,Female,France,Books,260.68,1,0.09,PayPal,Completed,4.0,237.22
+ORD-10701,2022-08-22 16:00:00,24.0,Female,Australia,Beauty,78.43,10,0.3,Debit Card,Completed,4.0,549.01
+ORD-10600,2022-07-20 00:00:00,42.0,Other,UK,Food & Beverage,130.99,13,0.16,,Completed,2.0,1430.41
+ORD-10579,2022-07-13 00:00:00,68.0,Female,Brazil,Home & Garden,11.8,6,0.28,Credit Card,Pending,4.0,50.98
+ORD-10336,2022-04-23 00:00:00,50.0,Other,Australia,Food & Beverage,147.06,9,0.15,,Completed,3.0,1125.01
+ORD-10947,2022-11-12 16:00:00,23.0,Male,Canada,Food & Beverage,172.07,12,0.34,,Completed,,1362.79
+ORD-10288,2022-04-07 00:00:00,24.0,Other,USA,Books,49.52,12,0.33,Credit Card,Completed,4.0,398.14
+ORD-11168,2023-01-25 08:00:00,56.0,Other,India,Clothing,44.24,11,0.33,Crypto,Refunded,5.0,326.05
+ORD-10829,2022-10-04 08:00:00,22.0,Male,Germany,Home & Garden,77.71,2,0.24,Debit Card,Pending,5.0,118.12
+ORD-10640,2022-08-02 08:00:00,36.0,,Australia,home & garden,52.74,11,0.33,Debit Card,Completed,4.0,388.69
+ORD-10984,2022-11-25 00:00:00,41.0,,France,Clothing,20.57,8,0.32,Credit Card,Refunded,5.0,111.9
+ORD-10283,2022-04-05 08:00:00,40.0,Other,Australia,Toys,135.36,6,0.34,Crypto,Refunded,4.0,536.03
+ORD-10590,2022-07-16 16:00:00,51.0,Male,Germany,Beauty,111.35,1,0.07,Credit Card,Pending,3.0,103.56
+ORD-10078,2022-01-27 00:00:00,27.0,Other,Germany,Books,19.48,6,0.14,,Completed,1.0,100.52
+ORD-10501,2022-06-17 00:00:00,56.0,Female,France,beauty,19.03,14,0.25,Crypto,Refunded,2.0,199.82
+ORD-11033,2022-12-11 08:00:00,61.0,Male,USA,Food & Beverage,176.28,8,0.06,Credit Card,Cancelled,2.0,1325.63
+ORD-10673,2022-08-13 08:00:00,64.0,Other,UK,Electronics,74.42,2,0.03,PayPal,Completed,1.0,144.37
+ORD-10938,2022-11-09 16:00:00,68.0,Female,Germany,Books,15.39,14,0.34,Crypto,Completed,3.0,142.2
+ORD-10853,2022-10-12 08:00:00,49.0,,France,Electronics,30.3,11,0.02,Crypto,Cancelled,1.0,326.63
+ORD-10499,2022-06-16 08:00:00,18.0,Female,Germany,Books,70.39,7,0.22,,Pending,4.0,384.33
+ORD-10800,2022-09-24 16:00:00,27.0,Male,Canada,Books,20.37,5,0.28,Debit Card,Cancelled,2.0,73.33
+ORD-10494,2022-06-14 16:00:00,,Male,Canada,Books,54.61,13,0.38,Debit Card,Cancelled,2.0,440.16
+ORD-10367,2022-05-03 08:00:00,22.0,Female,Australia,Toys,36.93,11,0.32,Crypto,Completed,3.0,276.24
+ORD-10037,2022-01-13 08:00:00,68.0,Other,India,Sports,28.66,10,0.16,PayPal,Completed,3.0,240.74
+ORD-11032,2022-12-11 00:00:00,66.0,Other,USA,Sports,52.92,8,0.34,PayPal,Completed,4.0,279.42
+ORD-10488,2022-06-12 16:00:00,26.0,Male,India,Food & Beverage,6.44,11,0.03,PayPal,Completed,,68.71
+ORD-10988,2022-11-26 08:00:00,31.0,Other,Germany,Electronics,16.49,11,0.09,Credit Card,Completed,4.0,165.06
+ORD-10105,2022-02-05 00:00:00,41.0,Other,UK,Home & Garden,65.0,2,0.03,Crypto,Completed,4.0,126.1
+ORD-10973,2022-11-21 08:00:00,,Other,Canada,Food & Beverage,24.96,7,0.11,,Completed,5.0,155.5
+ORD-10682,2022-08-16 08:00:00,30.0,Male,USA,Home & Garden,110.61,3,0.19,PayPal,Completed,4.0,268.78
+ORD-10125,2022-02-11 16:00:00,29.0,Female,Canada,Toys,2749.7052036116715,5,0.02,PayPal,Completed,,13473.56
+ORD-10759,2022-09-11 00:00:00,40.0,Other,Germany,Home & Garden,186.62,3,0.13,Credit Card,Completed,3.0,487.08
+ORD-10384,2022-05-09 00:00:00,46.0,Male,Australia,Toys,72.76,12,0.03,Bank Transfer,Completed,4.0,846.93
+ORD-10161,2022-02-23 16:00:00,49.0,Other,France,Beauty,298.67,7,0.24,Credit Card,Completed,4.0,1588.92
+ORD-10861,2022-10-15 00:00:00,20.0,Male,Germany,Beauty,41.07,5,0.08,Crypto,Cancelled,5.0,188.92
+ORD-10489,2022-06-13 00:00:00,29.0,,Brazil,Toys,132.48,4,0.18,PayPal,Completed,4.0,434.53
+ORD-10598,2022-07-19 08:00:00,46.0,Female,India,Beauty,79.55,1,0.1,Credit Card,Completed,4.0,71.6
+ORD-10373,2022-05-05 08:00:00,34.0,Other,USA,Food & Beverage,100.18,13,0.0,,Completed,4.0,1302.34
+ORD-10441,2022-05-28 00:00:00,32.0,Female,USA,Clothing,52.24,7,0.35,,Completed,4.0,237.69
+ORD-10597,2022-07-19 00:00:00,28.0,Female,France,FOOD & BEVERAGE,45.27,8,0.24,PayPal,Completed,4.0,275.24
+ORD-10832,2022-10-05 08:00:00,55.0,Other,Canada,CLOTHING,52.22,13,0.18,PayPal,Cancelled,2.0,556.67
+ORD-10793,2022-09-22 08:00:00,23.0,Other,USA,Electronics,14.53,11,0.25,Credit Card,Completed,4.0,119.87
+ORD-10374,2022-05-05 16:00:00,61.0,Other,UK,Toys,9.0,2,0.27,,Completed,2.0,13.14
+ORD-10625,2022-07-28 08:00:00,52.0,Male,UK,Toys,34.93,1,0.36,Bank Transfer,Completed,4.0,22.36
+ORD-10558,2022-07-06 00:00:00,67.0,Male,Australia,Home & Garden,57.45,13,0.38,Crypto,Completed,4.0,463.05
+ORD-10118,2022-02-09 08:00:00,59.0,Other,UK,Toys,313.8,10,0.1,PayPal,Completed,5.0,2824.2
+ORD-10930,2022-11-07 00:00:00,42.0,Other,USA,Home & Garden,79.59,11,0.18,Credit Card,Pending,4.0,717.9
+ORD-11070,2022-12-23 16:00:00,28.0,Male,Germany,Clothing,185.93,12,0.38,Debit Card,Pending,,1383.32
+ORD-11013,2022-12-04 16:00:00,42.0,Other,France,electronics,162.04,14,0.17,,Completed,2.0,1882.9
+ORD-10643,2022-08-03 08:00:00,,Male,Canada,Home & Garden,28.28,13,0.19,Bank Transfer,Completed,4.0,297.79
+ORD-10976,2022-11-22 08:00:00,32.0,Female,France,Books,155.72,9,0.23,PayPal,Pending,3.0,1079.14
+ORD-10970,2022-11-20 08:00:00,53.0,Male,Brazil,Sports,85.23,-12,0.09,Crypto,Completed,5.0,-930.71
+ORD-10939,2022-11-10 00:00:00,36.0,Male,France,BEAUTY,57.04,10,0.4,Credit Card,Completed,5.0,342.24
+ORD-10127,2022-02-12 08:00:00,50.0,Male,Germany,Beauty,38.15,5,0.0,Crypto,Completed,4.0,190.75
+ORD-11188,2023-02-01 00:00:00,68.0,Other,Germany,Clothing,144.5,7,0.32,Crypto,Refunded,5.0,687.82
+ORD-10854,2022-10-12 16:00:00,51.0,Female,Germany,Toys,76.88,14,0.01,Debit Card,Completed,4.0,1065.56
+ORD-10689,2022-08-18 16:00:00,22.0,Female,Canada,Beauty,28.58,10,0.23,Credit Card,Completed,4.0,220.07
+ORD-10399,2022-05-14 00:00:00,,Male,Australia,Clothing,21.78,14,0.04,Credit Card,Refunded,5.0,292.72
+ORD-10991,2022-11-27 08:00:00,20.0,Other,Canada,Sports,74.81,14,0.11,Crypto,Completed,3.0,932.13
+ORD-11177,2023-01-28 08:00:00,50.0,Male,India,Toys,58.34,3,0.18,Crypto,Completed,5.0,143.52
+ORD-11022,2022-12-07 16:00:00,62.0,Other,France,Home & Garden,31.21,14,0.14,Bank Transfer,Completed,2.0,375.77
+ORD-10174,2022-02-28 00:00:00,24.0,Female,USA,Food & Beverage,87.86,2,0.19,Credit Card,Refunded,4.0,142.33
+ORD-10320,2022-04-17 16:00:00,52.0,Male,France,Food & Beverage,44.76,13,0.37,Bank Transfer,Completed,3.0,366.58
+ORD-10524,2022-06-24 16:00:00,43.0,Male,USA,Electronics,23.89,1,0.33,Debit Card,Cancelled,4.0,16.01
+ORD-10469,2022-06-06 08:00:00,69.0,Female,Australia,Electronics,272.1,4,0.17,Crypto,Cancelled,4.0,903.37
+ORD-10789,2022-09-21 00:00:00,,Other,India,Electronics,12.28,12,0.02,Bank Transfer,Refunded,4.0,144.41
+ORD-11022,2022-12-07 16:00:00,62.0,Other,France,Home & Garden,31.21,14,0.14,Bank Transfer,Completed,2.0,375.77
+ORD-10624,2022-07-28 00:00:00,42.0,Male,India,Home & Garden,89.47,5,0.16,Crypto,Completed,4.0,375.77
+ORD-10079,2022-01-27 08:00:00,53.0,Male,UK,Food & Beverage,7.76,12,0.15,Bank Transfer,Completed,5.0,79.15
+ORD-10533,2022-06-27 16:00:00,40.0,,Germany,Electronics,40.43,6,0.04,Crypto,Completed,,232.88
+ORD-10775,2022-09-16 08:00:00,67.0,Male,USA,Food & Beverage,106.16,2,0.02,Bank Transfer,Completed,4.0,208.07
+ORD-10457,2022-06-02 08:00:00,60.0,Other,Germany,Electronics,144.86,11,0.38,Crypto,Completed,2.0,987.95
+ORD-10290,2022-04-07 16:00:00,43.0,,India,Beauty,48.23,14,0.15,Credit Card,Refunded,5.0,573.94
+ORD-10370,2022-05-04 08:00:00,21.0,Male,Canada,Beauty,31.44,3,0.23,,Completed,2.0,72.63
+ORD-11006,2022-12-02 08:00:00,27.0,Male,Australia,Clothing,17.93,2,0.1,Debit Card,Completed,5.0,32.27
+ORD-10477,2022-06-09 00:00:00,67.0,Other,India,Electronics,167.07,9,0.1,Crypto,Completed,5.0,1353.27
+ORD-10979,2022-11-23 08:00:00,31.0,Other,Australia,ELECTRONICS,5431.33087575934,13,0.32,Credit Card,Completed,,48012.96
+ORD-11089,2022-12-30 00:00:00,21.0,Female,Germany,Home & Garden,215.84,6,0.07,Debit Card,Completed,5.0,1204.39
+ORD-10895,2022-10-26 08:00:00,41.0,Male,Canada,Clothing,25.64,11,0.18,Crypto,Refunded,3.0,231.27
+ORD-10473,2022-06-07 16:00:00,57.0,Male,Germany,Sports,35.94,9,0.0,PayPal,Refunded,4.0,323.46
+ORD-10197,2022-03-07 16:00:00,58.0,Male,France,Books,150.67,10,0.26,,Pending,3.0,1114.96
+ORD-10185,2022-03-03 16:00:00,61.0,Male,USA,Food & Beverage,46.57,8,0.14,PayPal,Completed,3.0,320.4
+ORD-10781,2022-09-18 08:00:00,44.0,Male,Australia,Clothing,161.96,5,0.23,PayPal,Completed,3.0,623.55
+ORD-10421,2022-05-21 08:00:00,46.0,Female,Australia,Food & Beverage,31.65,14,0.39,Debit Card,Cancelled,4.0,270.29
+ORD-10451,2022-05-31 08:00:00,39.0,Other,Germany,Beauty,18.85,12,0.27,Bank Transfer,Completed,,165.13
+ORD-10256,2022-03-27 08:00:00,50.0,Female,UK,clothing,93.67,2,0.13,Bank Transfer,Completed,5.0,162.99
+ORD-10135,2022-02-15 00:00:00,,Other,Germany,Home & Garden,136.54,3,0.27,Crypto,Completed,4.0,299.02
+ORD-10806,2022-09-26 16:00:00,18.0,Male,India,Toys,33.77,6,0.14,Crypto,Pending,5.0,174.25
+ORD-10881,2022-10-21 16:00:00,55.0,Female,France,Electronics,6.62,12,0.38,Debit Card,Completed,3.0,49.25
+ORD-11095,2023-01-01 00:00:00,29.0,Other,India,Electronics,35.49,1,0.24,Debit Card,Cancelled,5.0,26.97
+ORD-10583,2022-07-14 08:00:00,34.0,Other,Brazil,Sports,23.21,3,0.0,Credit Card,Pending,1.0,69.63
+ORD-10872,2022-10-18 16:00:00,40.0,Male,France,Beauty,48.95,3,0.39,Crypto,Completed,5.0,89.58
+ORD-11144,2023-01-17 08:00:00,57.0,Female,Germany,Clothing,64.41,1,0.26,Crypto,Pending,1.0,47.66
+ORD-11180,2023-01-29 08:00:00,50.0,Female,Australia,Books,6.86,1,0.1,Credit Card,Completed,3.0,6.17
+ORD-10049,2022-01-17 08:00:00,,Male,Australia,Books,13.81,10,0.15,Bank Transfer,Completed,3.0,117.38
+ORD-10994,2022-11-28 08:00:00,63.0,Other,France,Home & Garden,82.19,2,0.32,Bank Transfer,Refunded,3.0,111.78
+ORD-10771,2022-09-15 00:00:00,45.0,Female,Canada,Electronics,217.29,12,0.32,Debit Card,Completed,,1773.09
+ORD-10526,2022-06-25 08:00:00,65.0,,Canada,Sports,124.62,8,0.18,Credit Card,Pending,2.0,817.51
+ORD-10699,2022-08-22 00:00:00,69.0,Female,UK,Electronics,131.98,11,0.08,PayPal,Completed,3.0,1335.64
+ORD-11007,2022-12-02 16:00:00,56.0,Female,Canada,Beauty,15.88,9,0.36,PayPal,Completed,5.0,91.47
+ORD-10462,2022-06-04 00:00:00,61.0,Other,Germany,Toys,16.26,3,0.39,Bank Transfer,Completed,2.0,29.76
+ORD-10655,2022-08-07 08:00:00,69.0,Male,India,Clothing,7.78,13,0.08,,Completed,4.0,93.05
+ORD-10706,2022-08-24 08:00:00,23.0,,Canada,Clothing,39.29,9,0.36,Crypto,Completed,3.0,226.31
+ORD-10878,2022-10-20 16:00:00,28.0,Male,Germany,Beauty,43.57,1,0.39,PayPal,Completed,,26.58
+ORD-10468,2022-06-06 00:00:00,49.0,Male,Brazil,Toys,160.79,13,0.37,PayPal,Completed,5.0,1316.87
+ORD-10857,2022-10-13 16:00:00,25.0,Female,India,Beauty,53.83,13,0.24,PayPal,Pending,4.0,531.84
+ORD-10033,2022-01-12 00:00:00,,Male,India,Toys,81.35,3,0.26,Credit Card,Pending,4.0,180.6
+ORD-10416,2022-05-19 16:00:00,50.0,Male,France,Beauty,14.85,7,0.08,Bank Transfer,Pending,4.0,95.63
+ORD-10247,2022-03-24 08:00:00,41.0,Male,Australia,Food & Beverage,86.5,9,0.34,Crypto,Completed,3.0,513.81
+ORD-10551,2022-07-03 16:00:00,66.0,Female,Brazil,Books,127.38,7,0.21,PayPal,Completed,4.0,704.41
+ORD-11140,2023-01-16 00:00:00,29.0,Other,Canada,Toys,81.36,2,0.26,PayPal,Pending,3.0,120.41
+ORD-11133,2023-01-13 16:00:00,,,USA,Electronics,31.05,2,0.17,Credit Card,Completed,5.0,51.54
+ORD-10923,2022-11-04 16:00:00,48.0,Male,Brazil,Home & Garden,25.25,11,0.2,Crypto,Completed,5.0,222.2
+ORD-10216,2022-03-14 00:00:00,66.0,Female,Germany,Sports,57.89,1,0.26,Debit Card,Completed,5.0,42.84
+ORD-10681,2022-08-16 00:00:00,63.0,Other,USA,Home & Garden,229.83,5,0.26,Credit Card,Completed,4.0,850.37
+ORD-10856,2022-10-13 08:00:00,48.0,Male,Germany,Food & Beverage,26.0,1,0.03,Bank Transfer,Completed,4.0,25.22
+ORD-10543,2022-07-01 00:00:00,18.0,Female,India,Electronics,186.24,5,0.35,Debit Card,Completed,5.0,605.28
+ORD-10493,2022-06-14 08:00:00,51.0,Other,Australia,Home & Garden,21.41,9,0.03,PayPal,Completed,5.0,186.91
+ORD-11011,2022-12-04 00:00:00,43.0,Male,Brazil,Sports,138.15,14,0.06,Credit Card,Completed,4.0,1818.05
+ORD-10464,2022-06-04 16:00:00,56.0,Female,Canada,Food & Beverage,269.26,14,0.0,Bank Transfer,Cancelled,,3769.64
+ORD-10391,2022-05-11 08:00:00,38.0,Female,France,BEAUTY,27.51,10,0.15,Debit Card,Completed,5.0,233.84
+ORD-10438,2022-05-27 00:00:00,29.0,,France,Toys,158.07,14,0.13,Bank Transfer,Pending,3.0,1925.29
+ORD-10582,2022-07-14 00:00:00,,,Australia,Toys,48.36,8,0.07,Bank Transfer,Pending,4.0,359.8
+ORD-11016,2022-12-05 16:00:00,37.0,Male,Germany,ELECTRONICS,16.43,2,0.31,Crypto,Completed,5.0,22.67
+ORD-10326,2022-04-19 16:00:00,35.0,Female,Germany,toys,327.87,2,0.08,Credit Card,Completed,4.0,603.28
+ORD-11196,2023-02-03 16:00:00,69.0,Other,Canada,Clothing,134.3,7,0.15,PayPal,Completed,,799.09
+ORD-10465,2022-06-05 00:00:00,21.0,Other,France,Toys,7.54,8,0.17,PayPal,Completed,4.0,50.07
+ORD-10553,2022-07-04 08:00:00,49.0,Male,UK,Toys,57.99,12,0.14,Bank Transfer,Cancelled,1.0,598.46
+ORD-10061,2022-01-21 08:00:00,64.0,Other,Canada,Books,43.15,9,0.21,Bank Transfer,Completed,5.0,306.8
+ORD-10418,2022-05-20 08:00:00,60.0,,India,Books,5.73,11,0.11,,Pending,3.0,56.1
+ORD-10875,2022-10-19 16:00:00,38.0,Female,USA,Electronics,33.63,13,0.02,Bank Transfer,Completed,4.0,428.45
+ORD-10810,2022-09-28 00:00:00,66.0,Other,Germany,Books,137.66,13,0.39,Bank Transfer,Completed,5.0,1091.64
+ORD-10538,2022-06-29 08:00:00,69.0,Other,France,Books,142.83,10,0.06,Debit Card,Completed,2.0,1342.6
+ORD-10155,2022-02-21 16:00:00,30.0,Other,India,Electronics,147.07,13,0.4,Debit Card,Completed,5.0,1147.15
+ORD-11034,2022-12-11 16:00:00,36.0,Other,France,Books,13.94,5,0.01,PayPal,Pending,4.0,69.0
+ORD-10714,2022-08-27 00:00:00,36.0,Male,Brazil,Sports,32.25,5,0.13,Credit Card,Cancelled,4.0,140.29
+ORD-10082,2022-01-28 08:00:00,65.0,Female,Canada,Home & Garden,31.01,7,0.26,Credit Card,Completed,5.0,160.63
+ORD-10680,2022-08-15 16:00:00,,Female,USA,Food & Beverage,17.4,2,0.09,Credit Card,Completed,4.0,31.67
+ORD-10366,2022-05-03 00:00:00,50.0,Other,Canada,Electronics,7.89,12,0.27,Crypto,Completed,5.0,69.12
+ORD-10611,2022-07-23 16:00:00,53.0,Male,UK,Food & Beverage,78.68,10,0.07,Debit Card,Completed,5.0,731.72
+ORD-10348,2022-04-27 00:00:00,68.0,Male,Australia,Clothing,64.56,8,0.28,PayPal,Completed,4.0,371.87
+ORD-11014,2022-12-05 00:00:00,34.0,Other,UK,Books,44.86,3,0.24,Crypto,Completed,5.0,102.28
+ORD-11153,2023-01-20 08:00:00,52.0,Female,India,Books,152.6,1,0.19,Debit Card,Completed,,123.61
+ORD-10166,2022-02-25 08:00:00,56.0,Other,Brazil,Home & Garden,55.95,6,0.32,PayPal,Completed,4.0,228.28
+ORD-10937,2022-11-09 08:00:00,67.0,Other,India,Food & Beverage,92.8,9,0.22,Crypto,Completed,4.0,651.46
+ORD-10996,2022-11-29 00:00:00,64.0,Female,France,Beauty,148.81,13,0.3,Bank Transfer,Pending,5.0,1354.17
+ORD-10546,2022-07-02 00:00:00,21.0,Female,Australia,Sports,80.93,4,0.04,Debit Card,Completed,2.0,310.77
+ORD-10204,2022-03-10 00:00:00,,Other,France,Clothing,12.57,5,0.3,Debit Card,Completed,4.0,44.0
+ORD-10967,2022-11-19 08:00:00,65.0,Other,Canada,Beauty,20.66,14,0.23,PayPal,Completed,,222.71
+ORD-10605,2022-07-21 16:00:00,26.0,Female,Brazil,Beauty,43.74,14,0.22,Credit Card,Pending,3.0,477.64
+ORD-11152,2023-01-20 00:00:00,47.0,,India,Sports,117.93,6,0.23,Crypto,Refunded,5.0,544.84
+ORD-10186,2022-03-04 00:00:00,37.0,Male,Germany,Home & Garden,60.05,8,0.37,Bank Transfer,Completed,4.0,302.65
+ORD-10969,2022-11-20 00:00:00,43.0,Female,India,Sports,82.0,2,0.11,Credit Card,Completed,3.0,145.96
+ORD-11081,2022-12-27 08:00:00,25.0,Other,UK,Toys,14.4,3,0.12,Credit Card,Completed,5.0,38.02
+ORD-10009,2022-01-04 00:00:00,40.0,Other,India,Clothing,105.16,11,0.26,Debit Card,Completed,4.0,856.0
+ORD-10010,2022-01-04 08:00:00,28.0,,Brazil,Toys,59.49,7,0.02,Credit Card,Cancelled,3.0,408.1
+ORD-11005,2022-12-02 00:00:00,45.0,Other,India,Home & Garden,29.74,12,0.08,PayPal,Completed,3.0,328.33
+ORD-10918,2022-11-03 00:00:00,28.0,Male,USA,Books,24.06,6,0.23,Crypto,Completed,4.0,111.16
+ORD-10630,2022-07-30 00:00:00,37.0,Male,India,Books,78.05,3,0.32,Bank Transfer,Completed,4.0,159.22
+ORD-10822,2022-10-02 00:00:00,,,USA,Electronics,23.47,11,0.2,Credit Card,Pending,5.0,206.54
+ORD-10555,2022-07-05 00:00:00,37.0,Female,UK,Books,69.42,4,0.32,Bank Transfer,Refunded,1.0,188.82
+ORD-10289,2022-04-07 08:00:00,,Male,Canada,Toys,172.43,11,0.07,Debit Card,Completed,5.0,1763.96
+ORD-10427,2022-05-23 08:00:00,41.0,Female,France,Clothing,117.1,14,0.04,Crypto,Completed,5.0,1573.82
+ORD-10561,2022-07-07 00:00:00,50.0,Female,Brazil,Beauty,51.19,12,0.2,Bank Transfer,Completed,5.0,491.42
+ORD-10733,2022-09-02 08:00:00,55.0,Other,Brazil,Electronics,77.6,5,0.11,PayPal,Completed,3.0,345.32
+ORD-10459,2022-06-03 00:00:00,50.0,Female,Canada,Sports,151.58,7,0.34,,Completed,5.0,700.3
+ORD-11169,2023-01-25 16:00:00,57.0,Male,France,Food & Beverage,46.18,3,0.39,,Completed,3.0,84.51
+ORD-10965,2022-11-18 16:00:00,47.0,Female,France,Sports,127.12,3,0.26,Crypto,Completed,4.0,282.21
+ORD-10656,2022-08-07 16:00:00,,Female,Germany,Toys,350.56,1,0.03,Crypto,Completed,3.0,340.04
+ORD-10780,2022-09-18 00:00:00,53.0,Female,Germany,Food & Beverage,15.52,4,0.31,Debit Card,Completed,3.0,42.84
+ORD-10151,2022-02-20 08:00:00,32.0,Female,UK,Home & Garden,37.74,-1,0.1,Crypto,Completed,5.0,-33.97
+ORD-10112,2022-02-07 08:00:00,34.0,Male,USA,Food & Beverage,11.28,11,0.23,Credit Card,Completed,4.0,95.54
+ORD-10668,2022-08-11 16:00:00,40.0,Female,Australia,Sports,57.3,14,0.22,PayPal,Completed,,625.72
+ORD-10423,2022-05-22 00:00:00,43.0,Other,Brazil,Home & Garden,50.28,14,0.03,Debit Card,Completed,4.0,682.8
+ORD-11031,2022-12-10 16:00:00,57.0,Female,Brazil,Food & Beverage,181.14,13,0.18,Bank Transfer,Completed,,1930.95
+ORD-10130,2022-02-13 08:00:00,41.0,Male,Brazil,Beauty,70.08,10,0.05,Crypto,Completed,1.0,665.76
+ORD-10461,2022-06-03 16:00:00,61.0,Other,Brazil,Beauty,25.91,12,0.27,Crypto,Completed,3.0,226.97
+ORD-11060,2022-12-20 08:00:00,48.0,Female,Australia,Home & Garden,127.04,13,0.14,Debit Card,Pending,4.0,1420.31
+ORD-10000,2022-01-01 00:00:00,56.0,Male,India,Home & Garden,59.72,1,0.29,PayPal,Completed,4.0,42.4
+ORD-10850,2022-10-11 08:00:00,18.0,Female,USA,Clothing,93.6,1,0.23,Crypto,Pending,5.0,72.07
+ORD-11016,2022-12-05 16:00:00,37.0,Male,Germany,ELECTRONICS,16.43,2,0.31,Crypto,Completed,5.0,22.67
+ORD-10944,2022-11-11 16:00:00,59.0,Female,India,ELECTRONICS,15.41,3,0.3,,Completed,3.0,32.36
+ORD-10975,2022-11-22 00:00:00,69.0,Male,UK,Electronics,90.3,3,0.39,Bank Transfer,Pending,5.0,165.25
+ORD-10719,2022-08-28 16:00:00,67.0,Other,France,Electronics,51.12,14,0.2,PayPal,Refunded,5.0,572.54
+ORD-10730,2022-09-01 08:00:00,66.0,Other,UK,Sports,71.31,13,0.38,Debit Card,Completed,3.0,574.76
+ORD-10977,2022-11-22 16:00:00,64.0,Other,USA,Home & Garden,108.08,8,0.06,,Completed,5.0,812.76
+ORD-10411,2022-05-18 00:00:00,59.0,Male,Australia,Toys,28.95,3,0.28,Credit Card,Completed,5.0,62.53
+ORD-10322,2022-04-18 08:00:00,42.0,Female,Germany,Toys,255.64,13,0.29,Credit Card,Completed,4.0,2359.56
+ORD-10001,2022-01-01 08:00:00,69.0,Male,USA,Electronics,113.22,1,0.27,,Completed,3.0,82.65
+ORD-10978,2022-11-23 00:00:00,39.0,Other,Brazil,Toys,130.65,4,0.15,Credit Card,Completed,1.0,444.21
+ORD-10435,2022-05-26 00:00:00,63.0,Other,Canada,Books,56.33,9,0.27,Credit Card,Completed,5.0,370.09
+ORD-10452,2022-05-31 16:00:00,66.0,Other,Canada,Electronics,55.57,4,0.16,Credit Card,Completed,5.0,186.72
+ORD-10038,2022-01-13 16:00:00,61.0,Female,UK,Books,108.6,3,0.29,Credit Card,Refunded,3.0,231.32
+ORD-10183,2022-03-03 00:00:00,45.0,Male,UK,Home & Garden,60.15,6,0.0,Credit Card,Completed,5.0,360.9
+ORD-10217,2022-03-14 08:00:00,66.0,Male,Australia,Toys,30.17,2,0.1,Bank Transfer,Completed,4.0,54.31
+ORD-10729,2022-09-01 00:00:00,45.0,Female,Australia,Clothing,80.29,7,0.11,Credit Card,Completed,1.0,500.21
+ORD-10306,2022-04-13 00:00:00,33.0,Female,Brazil,Sports,12.69,11,0.11,Bank Transfer,Completed,,124.24
+ORD-11020,2022-12-07 00:00:00,20.0,Female,Brazil,Beauty,137.39,8,0.01,Credit Card,Completed,4.0,1088.13
+ORD-10549,2022-07-03 00:00:00,33.0,Male,Australia,Beauty,240.53,3,0.1,PayPal,Completed,,649.43
+ORD-10313,2022-04-15 08:00:00,28.0,Other,France,Beauty,158.29,4,0.2,Credit Card,Completed,4.0,506.53
+ORD-10927,2022-11-06 00:00:00,21.0,Male,Brazil,Sports,73.48,6,0.33,Credit Card,Completed,5.0,295.39
+ORD-10700,2022-08-22 08:00:00,34.0,Male,Brazil,Food & Beverage,205.75,13,0.36,PayPal,Cancelled,4.0,1711.84
+ORD-10331,2022-04-21 08:00:00,33.0,Other,Germany,Books,113.8,9,0.28,Credit Card,Pending,4.0,737.42
+ORD-10036,2022-01-13 00:00:00,64.0,Other,France,Clothing,13.5,14,0.26,Crypto,Cancelled,4.0,139.86
+ORD-10110,2022-02-06 16:00:00,28.0,Female,India,Clothing,13.69,2,0.25,Credit Card,Completed,,20.54
+ORD-10802,2022-09-25 08:00:00,67.0,Male,Canada,Home & Garden,194.06,2,0.09,PayPal,Pending,3.0,353.19
+ORD-10916,2022-11-02 08:00:00,60.0,Female,France,Electronics,107.24,5,0.32,Debit Card,Pending,,364.62
+ORD-11028,2022-12-09 16:00:00,51.0,Other,Germany,Toys,44.07,5,0.02,,Cancelled,2.0,215.94
+ORD-10818,2022-09-30 16:00:00,30.0,Other,Germany,BEAUTY,66.32,11,0.27,PayPal,Pending,4.0,532.55
+ORD-10990,2022-11-27 00:00:00,24.0,Female,USA,Beauty,129.98,13,0.1,Crypto,Refunded,4.0,1520.77
+ORD-10713,2022-08-26 16:00:00,43.0,Female,Brazil,Food & Beverage,12.59,11,0.08,Crypto,Completed,4.0,127.41
+ORD-10577,2022-07-12 08:00:00,63.0,Female,India,Electronics,67.55,13,0.27,Credit Card,Completed,,641.05
+ORD-11051,2022-12-17 08:00:00,21.0,Female,USA,Food & Beverage,7556.6813571499515,3,0.23,,Completed,5.0,17455.93
+ORD-10433,2022-05-25 08:00:00,18.0,Male,Australia,Food & Beverage,122.92,4,0.39,Credit Card,Pending,,299.92
+ORD-10163,2022-02-24 08:00:00,47.0,Male,Brazil,Food & Beverage,14.7,1,0.25,PayPal,Completed,4.0,11.02
+ORD-10263,2022-03-29 16:00:00,53.0,Other,UK,Books,15.27,7,0.11,PayPal,Completed,2.0,95.13
+ORD-10231,2022-03-19 00:00:00,40.0,,Brazil,Sports,54.25,7,0.23,Debit Card,Cancelled,2.0,292.41
+ORD-10302,2022-04-11 16:00:00,,Male,Germany,Books,57.28,6,0.31,Bank Transfer,Completed,5.0,237.14
+ORD-10175,2022-02-28 08:00:00,68.0,Other,Australia,Electronics,48.81,6,0.29,Bank Transfer,Pending,2.0,207.93
+ORD-10821,2022-10-01 16:00:00,58.0,Male,Australia,Food & Beverage,25.93,10,0.07,Debit Card,Completed,3.0,241.15
+ORD-10149,2022-02-19 16:00:00,44.0,,USA,Electronics,198.19,6,0.32,Bank Transfer,Completed,3.0,808.62
+ORD-10544,2022-07-01 08:00:00,22.0,Female,India,Beauty,77.27,3,0.33,Bank Transfer,Pending,2.0,155.31
+ORD-10071,2022-01-24 16:00:00,59.0,Other,Germany,Electronics,57.44,4,0.32,Crypto,Completed,,156.24
+ORD-10168,2022-02-26 00:00:00,32.0,Female,Canada,Beauty,58.05,6,0.38,Credit Card,Refunded,5.0,215.95
+ORD-10455,2022-06-01 16:00:00,23.0,Female,UK,Toys,159.05,14,0.1,PayPal,Completed,5.0,2004.03
+ORD-10089,2022-01-30 16:00:00,33.0,Other,Brazil,Sports,162.65,9,0.18,Debit Card,Pending,3.0,1200.36
+ORD-10117,2022-02-09 00:00:00,22.0,Other,Australia,Home & Garden,134.06,10,0.27,,Cancelled,5.0,978.64
+ORD-10487,2022-06-12 08:00:00,40.0,Other,India,Home & Garden,65.46,4,0.1,Debit Card,Completed,5.0,235.66
+ORD-10321,2022-04-18 00:00:00,65.0,Male,Australia,Books,15.63,12,0.28,Crypto,Pending,,135.04
+ORD-11003,2022-12-01 08:00:00,42.0,Female,UK,Home & Garden,88.1,14,0.02,PayPal,Completed,4.0,1208.73
+ORD-10459,2022-06-03 00:00:00,50.0,Female,Canada,Sports,151.58,7,0.34,,Completed,5.0,700.3
+ORD-10531,2022-06-27 00:00:00,47.0,Other,Brazil,Food & Beverage,11.89,-8,0.2,PayPal,Completed,4.0,-76.1
+ORD-10172,2022-02-27 08:00:00,30.0,Other,USA,Toys,46.21,5,0.3,PayPal,Completed,4.0,161.73
+ORD-10946,2022-11-12 08:00:00,38.0,Other,Canada,Electronics,225.47,12,0.19,Crypto,Completed,2.0,2191.57
+ORD-10241,2022-03-22 08:00:00,23.0,Male,Canada,Electronics,129.86,12,0.19,Bank Transfer,Completed,4.0,1262.24
+ORD-10898,2022-10-27 08:00:00,59.0,Other,Germany,Clothing,39.01,13,0.13,PayPal,Pending,5.0,441.2
+ORD-10702,2022-08-23 00:00:00,42.0,Male,France,Beauty,231.25,14,0.36,Credit Card,Completed,4.0,2072.0
+ORD-10914,2022-11-01 16:00:00,30.0,Other,Germany,Books,94.74,5,0.12,PayPal,Completed,4.0,416.86
+ORD-10692,2022-08-19 16:00:00,55.0,Female,Canada,Food & Beverage,42.51,7,0.32,Credit Card,Refunded,5.0,202.35
+ORD-10270,2022-04-01 00:00:00,24.0,Other,Brazil,HOME & GARDEN,9.52,8,0.21,Credit Card,Refunded,3.0,60.17
+ORD-10111,2022-02-07 00:00:00,68.0,Male,USA,Sports,37.56,8,0.31,Debit Card,Completed,1.0,207.33
+ORD-10595,2022-07-18 08:00:00,67.0,Male,Germany,Home & Garden,75.95,13,0.09,Bank Transfer,Completed,5.0,898.49
+ORD-10516,2022-06-22 00:00:00,64.0,Female,France,Food & Beverage,195.72,1,0.25,Credit Card,Completed,5.0,146.79
+ORD-10226,2022-03-17 08:00:00,34.0,Other,France,Food & Beverage,38.77,4,0.35,Crypto,Completed,3.0,100.8
+ORD-10496,2022-06-15 08:00:00,42.0,Male,Germany,Food & Beverage,77.97,6,0.32,PayPal,Pending,3.0,318.12
+ORD-10498,2022-06-16 00:00:00,62.0,,Germany,Clothing,27.75,8,0.37,PayPal,Cancelled,4.0,139.86
+ORD-10889,2022-10-24 08:00:00,44.0,Other,Brazil,Clothing,165.01,12,0.04,Crypto,Completed,4.0,1900.92
+ORD-11080,2022-12-27 00:00:00,28.0,Male,Brazil,Books,8.58,7,0.4,Credit Card,Completed,3.0,36.04
+ORD-10195,2022-03-07 00:00:00,69.0,Female,India,Home & Garden,59.54,5,0.01,Debit Card,Pending,4.0,294.72
+ORD-10336,2022-04-23 00:00:00,50.0,Other,Australia,Food & Beverage,147.06,9,0.15,,Completed,3.0,1125.01
+ORD-10836,2022-10-06 16:00:00,54.0,Male,USA,Toys,141.61,5,0.01,,Completed,,700.97
+ORD-10932,2022-11-07 16:00:00,49.0,Male,UK,Clothing,187.83,12,0.23,Credit Card,Completed,5.0,1735.55
+ORD-10151,2022-02-20 08:00:00,32.0,Female,UK,Home & Garden,37.74,-1,0.1,Crypto,Completed,5.0,-33.97
+ORD-10137,2022-02-15 16:00:00,52.0,Female,Canada,Electronics,236.18,5,0.11,Bank Transfer,Completed,4.0,1051.0
+ORD-10876,2022-10-20 00:00:00,31.0,Other,Canada,Clothing,323.07,3,0.13,Debit Card,Completed,4.0,843.21
+ORD-10528,2022-06-26 00:00:00,56.0,Male,France,Beauty,11.01,8,0.12,Bank Transfer,Pending,5.0,77.51
+ORD-10507,2022-06-19 00:00:00,43.0,Male,Brazil,Beauty,17.96,14,0.37,Debit Card,Completed,1.0,158.41
+ORD-10943,2022-11-11 08:00:00,45.0,Other,Canada,Food & Beverage,124.95,3,0.2,PayPal,Completed,3.0,299.88
+ORD-10393,2022-05-12 00:00:00,40.0,Female,UK,Electronics,18.99,6,0.26,PayPal,Completed,4.0,84.32
+ORD-10382,2022-05-08 08:00:00,54.0,Female,Germany,Electronics,63.07,9,0.29,Bank Transfer,Completed,1.0,403.02
+ORD-10221,2022-03-15 16:00:00,19.0,Male,UK,Sports,154.88,3,0.2,Credit Card,Completed,1.0,371.71
+ORD-10756,2022-09-10 00:00:00,,Other,UK,Sports,63.92,12,0.13,Bank Transfer,Pending,4.0,667.32
+ORD-10409,2022-05-17 08:00:00,19.0,Female,Australia,Electronics,69.99,13,0.16,Credit Card,Cancelled,4.0,764.29
+ORD-10677,2022-08-14 16:00:00,61.0,,Australia,Home & Garden,65.78,14,0.26,Crypto,Pending,4.0,681.48
+ORD-10785,2022-09-19 16:00:00,37.0,Male,Brazil,Beauty,131.16,4,0.01,PayPal,Completed,5.0,519.39
+ORD-10328,2022-04-20 08:00:00,35.0,Male,Canada,Food & Beverage,78.46,3,0.13,Debit Card,Cancelled,4.0,204.78
+ORD-10012,2022-01-05 00:00:00,41.0,Male,France,Electronics,13.69,10,0.38,PayPal,Cancelled,5.0,84.88
+ORD-10958,2022-11-16 08:00:00,62.0,Female,France,Beauty,58.03,7,0.23,PayPal,Completed,2.0,312.78
+ORD-10083,2022-01-28 16:00:00,32.0,Female,UK,Sports,24.89,12,0.39,Credit Card,Pending,3.0,182.19
+ORD-10206,2022-03-10 16:00:00,68.0,Female,France,Home & Garden,10.66,4,0.16,PayPal,Refunded,,35.82
+ORD-10103,2022-02-04 08:00:00,,Male,USA,Electronics,32.86,5,0.22,Credit Card,Completed,3.0,128.15
+ORD-10309,2022-04-14 00:00:00,41.0,Other,Germany,Books,110.42,3,0.29,PayPal,Completed,5.0,235.19
+ORD-10816,2022-09-30 00:00:00,44.0,Other,India,Electronics,167.76,11,0.18,PayPal,Completed,2.0,1513.2
+ORD-10734,2022-09-02 16:00:00,23.0,Other,France,Food & Beverage,68.12,14,0.08,Credit Card,Completed,2.0,877.39
+ORD-11124,2023-01-10 16:00:00,26.0,Other,UK,SPORTS,12.88,5,0.17,Crypto,Completed,3.0,53.45
+ORD-10180,2022-03-02 00:00:00,62.0,Other,Germany,Electronics,143.34,3,0.23,Crypto,Pending,4.0,331.12
+ORD-11156,2023-01-21 08:00:00,22.0,Male,Brazil,Food & Beverage,15.66,2,0.09,Crypto,Cancelled,5.0,28.5
+ORD-11198,2023-02-04 08:00:00,64.0,Male,Brazil,sports,110.83,7,0.33,PayPal,Completed,4.0,519.79
+ORD-10497,2022-06-15 16:00:00,57.0,Female,Germany,Beauty,79.78,9,0.33,PayPal,Completed,2.0,481.07
+ORD-10316,2022-04-16 08:00:00,53.0,Other,Germany,Clothing,30.98,14,0.33,Crypto,Completed,2.0,290.59
+ORD-10141,2022-02-17 00:00:00,64.0,Female,UK,Beauty,12.27,9,0.17,Credit Card,Completed,5.0,91.66
+ORD-11039,2022-12-13 08:00:00,69.0,Female,Brazil,Clothing,114.7,3,0.04,Bank Transfer,Completed,3.0,330.34
+ORD-10327,2022-04-20 00:00:00,,Female,Australia,Sports,177.47,6,0.14,PayPal,Completed,2.0,915.75
+ORD-10660,2022-08-09 00:00:00,,Other,France,Sports,86.73,12,0.39,Credit Card,Completed,5.0,634.86
+ORD-10346,2022-04-26 08:00:00,65.0,Other,Brazil,Electronics,63.43,5,0.18,,Completed,4.0,260.06
+ORD-10210,2022-03-12 00:00:00,32.0,Other,Australia,Food & Beverage,107.28,13,0.23,PayPal,Refunded,4.0,1073.87
+ORD-10567,2022-07-09 00:00:00,18.0,Female,Brazil,Clothing,36.92,9,0.2,PayPal,Pending,4.0,265.82
+ORD-10142,2022-02-17 08:00:00,31.0,Female,Canada,Clothing,85.24,1,0.02,PayPal,Completed,,83.54
+ORD-10514,2022-06-21 08:00:00,45.0,Female,France,home & garden,118.2,3,0.31,Crypto,Pending,5.0,244.67
+ORD-10362,2022-05-01 16:00:00,47.0,Female,Canada,Sports,30.5,7,0.06,Credit Card,Completed,1.0,200.69
+ORD-10004,2022-01-02 08:00:00,60.0,,India,Electronics,116.68,4,0.38,Credit Card,Cancelled,5.0,289.37
+ORD-10044,2022-01-15 16:00:00,38.0,Other,USA,Beauty,89.3,5,0.04,PayPal,Refunded,4.0,428.64
+ORD-10281,2022-04-04 16:00:00,42.0,Male,Brazil,home & garden,46.47,4,0.27,Bank Transfer,Completed,3.0,135.69
+ORD-10202,2022-03-09 08:00:00,44.0,Male,France,Sports,259.81,8,0.4,Crypto,Completed,5.0,1247.09
+ORD-10907,2022-10-30 08:00:00,34.0,Female,Canada,Toys,73.38,10,0.32,Bank Transfer,Completed,2.0,498.98
+ORD-10358,2022-04-30 08:00:00,44.0,Female,India,Clothing,185.24,2,0.22,Debit Card,Completed,4.0,288.97
+ORD-10563,2022-07-07 16:00:00,60.0,Other,France,Electronics,76.97,8,0.35,Crypto,Completed,2.0,400.24
+ORD-10885,2022-10-23 00:00:00,51.0,Female,France,Toys,94.07,7,0.08,Bank Transfer,Completed,5.0,605.81
+ORD-10371,2022-05-04 16:00:00,52.0,Male,Germany,Sports,28.3,1,0.33,Credit Card,Pending,4.0,18.96
+ORD-10962,2022-11-17 16:00:00,64.0,Other,France,Beauty,50.02,3,0.09,Crypto,Refunded,3.0,136.55
+ORD-10952,2022-11-14 08:00:00,43.0,Female,India,Clothing,78.82,4,0.18,Credit Card,Completed,5.0,258.53
+ORD-11046,2022-12-15 16:00:00,39.0,,Germany,Electronics,54.58,14,0.3,Credit Card,Completed,3.0,534.88
+ORD-10237,2022-03-21 00:00:00,19.0,Male,Germany,Clothing,13.7,5,0.38,,Completed,4.0,42.47
+ORD-10995,2022-11-28 16:00:00,60.0,Male,Brazil,Books,36.27,6,0.25,PayPal,Cancelled,4.0,163.22
+ORD-10683,2022-08-16 16:00:00,57.0,Female,Australia,Home & Garden,19.18,12,0.0,Crypto,Completed,,230.16
+ORD-10273,2022-04-02 00:00:00,,Male,Brazil,Electronics,2214.1379150393195,12,0.09,Bank Transfer,Pending,2.0,24178.39
+ORD-11090,2022-12-30 08:00:00,36.0,Male,Australia,Clothing,7486.747836445049,13,0.15,Credit Card,Pending,1.0,82728.56
+ORD-10632,2022-07-30 16:00:00,42.0,Other,Canada,Books,26.64,7,0.19,Debit Card,Completed,2.0,151.05
+ORD-10194,2022-03-06 16:00:00,,Female,USA,Toys,85.21,7,0.17,PayPal,Refunded,5.0,495.07
+ORD-10513,2022-06-21 00:00:00,31.0,Female,Germany,Clothing,90.6,5,0.27,Debit Card,Completed,4.0,330.69
+ORD-10614,2022-07-24 16:00:00,56.0,,Germany,Electronics,62.5,5,0.35,PayPal,Completed,3.0,203.12
+ORD-10431,2022-05-24 16:00:00,62.0,Other,France,Electronics,240.45,14,0.11,Bank Transfer,Completed,4.0,2996.01
+ORD-10674,2022-08-13 16:00:00,29.0,,India,Sports,28.47,2,0.15,Credit Card,Completed,4.0,48.4
+ORD-11084,2022-12-28 08:00:00,62.0,Other,USA,Food & Beverage,42.73,14,0.18,Bank Transfer,Pending,5.0,490.54
+ORD-10209,2022-03-11 16:00:00,41.0,Other,Australia,Books,202.69,11,0.38,Credit Card,Cancelled,4.0,1382.35
+ORD-10162,2022-02-24 00:00:00,21.0,Female,Canada,Clothing,126.04,6,0.03,Debit Card,Refunded,3.0,733.55
+ORD-10635,2022-07-31 16:00:00,36.0,Male,USA,Electronics,51.68,7,0.28,PayPal,Completed,5.0,260.47
+ORD-10009,2022-01-04 00:00:00,40.0,Other,India,Clothing,105.16,11,0.26,Debit Card,Completed,4.0,856.0
+ORD-10920,2022-11-03 16:00:00,64.0,Male,Australia,Food & Beverage,36.15,11,0.06,Debit Card,Completed,5.0,373.79
+ORD-10087,2022-01-30 00:00:00,57.0,Female,Germany,sports,54.15,6,0.31,Bank Transfer,Completed,4.0,224.18
+ORD-10345,2022-04-26 00:00:00,50.0,Female,France,Toys,24.5,10,0.39,Crypto,Completed,3.0,149.45
+ORD-10971,2022-11-20 16:00:00,18.0,Female,Canada,ELECTRONICS,25.79,3,0.07,Credit Card,Refunded,4.0,71.95
+ORD-10717,2022-08-28 00:00:00,62.0,Female,Brazil,Home & Garden,120.92,6,0.17,Bank Transfer,Completed,1.0,602.18
+ORD-10190,2022-03-05 08:00:00,42.0,Male,India,Electronics,29.49,10,0.13,Credit Card,Completed,4.0,256.56
+ORD-10752,2022-09-08 16:00:00,,Male,USA,Toys,45.12,6,0.1,Crypto,Pending,4.0,243.65
+ORD-10178,2022-03-01 08:00:00,19.0,Other,India,Beauty,99.01,10,0.27,Credit Card,Refunded,4.0,722.77
+ORD-10768,2022-09-14 00:00:00,41.0,Other,Brazil,Clothing,81.85,9,0.4,Crypto,Completed,5.0,441.99
+ORD-10556,2022-07-05 08:00:00,41.0,Female,Canada,Toys,77.8,6,0.12,Bank Transfer,Cancelled,3.0,410.78
+ORD-10912,2022-11-01 00:00:00,23.0,Male,USA,Home & Garden,67.08,8,0.03,PayPal,Pending,3.0,520.54
+ORD-10392,2022-05-11 16:00:00,49.0,Female,Brazil,Food & Beverage,18.7,9,0.38,Credit Card,Completed,4.0,104.35
+ORD-10833,2022-10-05 16:00:00,20.0,Female,Canada,Books,8917.456985777164,5,0.27,Debit Card,Pending,5.0,32548.72
+ORD-11124,2023-01-10 16:00:00,26.0,Other,UK,SPORTS,12.88,5,0.17,Crypto,Completed,3.0,53.45
+ORD-10888,2022-10-24 00:00:00,32.0,Male,Australia,Beauty,129.06,1,0.11,Debit Card,Completed,3.0,114.86
+ORD-10744,2022-09-06 00:00:00,54.0,Other,Brazil,Clothing,155.27,11,0.04,Crypto,Completed,5.0,1639.65
+ORD-10981,2022-11-24 00:00:00,45.0,Female,Australia,Sports,39.99,1,0.03,PayPal,Completed,5.0,38.79
+ORD-10399,2022-05-14 00:00:00,,Male,Australia,Clothing,21.78,14,0.04,Credit Card,Refunded,5.0,292.72
+ORD-11072,2022-12-24 08:00:00,32.0,Female,Germany,Books,15.7,12,0.3,Crypto,Refunded,5.0,131.88
+ORD-10883,2022-10-22 08:00:00,,Female,UK,Home & Garden,122.09,12,0.15,PayPal,Completed,5.0,1245.32
+ORD-10511,2022-06-20 08:00:00,39.0,Female,France,Food & Beverage,299.16,5,0.15,PayPal,Cancelled,4.0,1271.43
+ORD-10983,2022-11-24 16:00:00,31.0,Male,USA,Beauty,57.57,1,0.34,PayPal,Refunded,5.0,38.0
+ORD-10439,2022-05-27 08:00:00,68.0,Female,Australia,Clothing,374.61,10,0.11,PayPal,Pending,4.0,3334.03
+ORD-10728,2022-08-31 16:00:00,30.0,Female,Canada,ELECTRONICS,84.59,1,0.28,PayPal,Pending,5.0,60.9
+ORD-10471,2022-06-07 00:00:00,64.0,Male,Canada,electronics,51.71,1,0.17,Crypto,Completed,2.0,42.92
+ORD-10398,2022-05-13 16:00:00,59.0,Male,Brazil,Books,101.05,5,0.3,Credit Card,Completed,4.0,353.67
+ORD-11191,2023-02-02 00:00:00,20.0,Other,Germany,Toys,15.44,1,0.03,Crypto,Completed,4.0,14.98
+ORD-10035,2022-01-12 16:00:00,32.0,Other,India,Beauty,16.98,3,0.13,Bank Transfer,Completed,2.0,44.32
+ORD-10205,2022-03-10 08:00:00,50.0,Female,India,books,122.92,6,0.15,,Completed,4.0,626.89
+ORD-10608,2022-07-22 16:00:00,66.0,Male,Canada,Electronics,26.51,4,0.22,Debit Card,Completed,,82.71
+ORD-11100,2023-01-02 16:00:00,55.0,Other,Germany,Home & Garden,24.99,5,0.1,Debit Card,Completed,4.0,112.46
+ORD-10893,2022-10-25 16:00:00,,Other,Australia,Home & Garden,10.22,13,0.3,Credit Card,Refunded,5.0,93.0
+ORD-10043,2022-01-15 08:00:00,24.0,Other,Canada,HOME & GARDEN,6.86,1,0.02,Crypto,Pending,5.0,6.72
+ORD-10261,2022-03-29 00:00:00,20.0,Male,France,Home & Garden,56.28,12,0.35,Crypto,Completed,4.0,438.98
+ORD-11029,2022-12-10 00:00:00,64.0,Other,Brazil,Electronics,52.85,1,0.01,PayPal,Refunded,3.0,52.32
+ORD-10429,2022-05-24 00:00:00,,Male,UK,Books,20.27,3,0.25,Crypto,Completed,4.0,45.61
+ORD-10851,2022-10-11 16:00:00,66.0,Female,Canada,Books,5769.5344822716015,13,0.24,Bank Transfer,Pending,4.0,57003.0
+ORD-10228,2022-03-18 00:00:00,19.0,Female,Germany,Sports,47.59,6,0.38,Crypto,Completed,5.0,177.03
+ORD-10724,2022-08-30 08:00:00,58.0,Other,USA,Electronics,42.69,14,0.33,Bank Transfer,Completed,5.0,400.43
+ORD-10005,2022-01-02 16:00:00,25.0,Male,Canada,Beauty,103.2,11,0.28,,Completed,4.0,817.34
+ORD-10975,2022-11-22 00:00:00,69.0,Male,UK,Electronics,90.3,3,0.39,Bank Transfer,Pending,5.0,165.25
+ORD-10874,2022-10-19 08:00:00,54.0,Male,Canada,Clothing,5.1,2,0.34,Credit Card,Pending,5.0,6.73
+ORD-10565,2022-07-08 08:00:00,29.0,Female,UK,Toys,57.2,11,0.16,Crypto,Cancelled,2.0,528.53
+ORD-11179,2023-01-29 00:00:00,34.0,Other,France,Clothing,78.73,3,0.25,Crypto,Completed,4.0,177.14
+ORD-10585,2022-07-15 00:00:00,25.0,Other,Germany,Beauty,20.31,10,0.29,Debit Card,Completed,3.0,144.2
+ORD-10727,2022-08-31 08:00:00,20.0,Male,UK,Books,36.85,11,0.11,Crypto,Completed,3.0,360.76
+ORD-10318,2022-04-17 00:00:00,57.0,Male,USA,Beauty,8.69,5,0.29,Credit Card,Completed,5.0,30.85
+ORD-10629,2022-07-29 16:00:00,,Other,India,Home & Garden,76.02,5,0.01,Bank Transfer,Completed,2.0,376.3
+ORD-11172,2023-01-26 16:00:00,68.0,Other,Australia,Electronics,107.82,2,0.17,Debit Card,Completed,,178.98
+ORD-10034,2022-01-12 08:00:00,33.0,Male,Brazil,Home & Garden,199.3,10,0.3,Debit Card,Completed,4.0,1395.1
+ORD-10312,2022-04-15 00:00:00,,Other,Australia,Electronics,33.19,9,0.21,Credit Card,Completed,2.0,235.98
+ORD-11085,2022-12-28 16:00:00,61.0,Male,Germany,Food & Beverage,68.9,8,0.1,Credit Card,Refunded,3.0,496.08
+ORD-10075,2022-01-26 00:00:00,43.0,Female,USA,Sports,200.12,12,0.12,Crypto,Refunded,3.0,2113.27
+ORD-10173,2022-02-27 16:00:00,49.0,Other,France,Books,24.67,5,0.06,PayPal,Completed,,115.95
+ORD-10094,2022-02-01 08:00:00,43.0,Male,USA,Electronics,45.51,13,0.1,PayPal,Completed,4.0,532.47
+ORD-10051,2022-01-18 00:00:00,67.0,Male,Canada,Toys,198.25,14,0.01,PayPal,Pending,5.0,2747.74
+ORD-10551,2022-07-03 16:00:00,66.0,Female,Brazil,Books,127.38,7,0.21,PayPal,Completed,4.0,704.41
+ORD-10788,2022-09-20 16:00:00,,Other,France,Food & Beverage,49.21,10,0.3,Bank Transfer,Pending,2.0,344.47
+ORD-11132,2023-01-13 08:00:00,66.0,Male,France,Clothing,175.59,8,0.24,Debit Card,Completed,5.0,1067.59
+ORD-10831,2022-10-05 00:00:00,22.0,Female,UK,Clothing,51.77,11,0.28,Debit Card,Completed,5.0,410.02
+ORD-10825,2022-10-03 00:00:00,65.0,Other,India,food & beverage,84.98,11,0.26,Crypto,Cancelled,5.0,691.74
+ORD-10419,2022-05-20 16:00:00,65.0,Male,Germany,Food & Beverage,141.6,2,0.11,PayPal,Completed,4.0,252.05
+ORD-10747,2022-09-07 00:00:00,,Other,UK,Books,14.23,3,0.17,Bank Transfer,Completed,3.0,35.43
+ORD-10220,2022-03-15 08:00:00,56.0,Male,Canada,Beauty,152.38,14,0.04,Bank Transfer,Completed,5.0,2047.99
+ORD-10508,2022-06-19 08:00:00,33.0,Female,Brazil,Sports,54.98,2,0.23,,Pending,5.0,84.67
+ORD-10710,2022-08-25 16:00:00,56.0,Male,France,Food & Beverage,166.06,3,0.19,Credit Card,Completed,4.0,403.53
+ORD-11042,2022-12-14 08:00:00,62.0,Male,UK,toys,13.91,7,0.07,Debit Card,Completed,4.0,90.55
+ORD-10607,2022-07-22 08:00:00,,Male,Australia,Toys,149.63,11,0.17,Bank Transfer,Cancelled,5.0,1366.12
+ORD-10387,2022-05-10 00:00:00,48.0,,Australia,Beauty,164.9,7,0.17,Credit Card,Pending,4.0,958.07
+ORD-10093,2022-02-01 00:00:00,41.0,Male,Germany,Food & Beverage,6766.936824249904,9,0.09,Credit Card,Cancelled,4.0,55421.21
+ORD-10334,2022-04-22 08:00:00,50.0,Male,USA,Clothing,2735.4115494307803,12,0.38,Debit Card,Completed,3.0,20351.46
+ORD-10751,2022-09-08 08:00:00,58.0,Male,USA,Clothing,56.81,5,0.35,Debit Card,Completed,5.0,184.63
+ORD-10956,2022-11-15 16:00:00,31.0,Female,India,Electronics,22.03,14,0.38,Crypto,Completed,2.0,191.22
+ORD-11110,2023-01-06 00:00:00,,,Germany,Sports,109.14,14,0.0,,Completed,5.0,1527.96
+ORD-10651,2022-08-06 00:00:00,22.0,Male,Canada,Electronics,52.3,13,0.03,,Completed,5.0,659.5
+ORD-10148,2022-02-19 08:00:00,56.0,Female,Canada,Home & Garden,102.38,7,0.39,PayPal,Completed,3.0,437.16
+ORD-10753,2022-09-09 00:00:00,31.0,Other,France,Electronics,68.78,10,0.22,Crypto,Completed,,536.48
+ORD-10482,2022-06-10 16:00:00,36.0,Other,Brazil,Home & Garden,18.88,9,0.3,Crypto,Refunded,5.0,118.94
+ORD-10402,2022-05-15 00:00:00,63.0,Male,UK,Home & Garden,55.11,4,0.17,Crypto,Pending,2.0,182.97
+ORD-10249,2022-03-25 00:00:00,69.0,Female,Brazil,Beauty,108.02,5,0.03,Bank Transfer,Completed,5.0,523.9
+ORD-10340,2022-04-24 08:00:00,37.0,Female,Canada,Books,7.99,6,0.15,Crypto,Completed,5.0,40.75
+ORD-10997,2022-11-29 08:00:00,62.0,Male,France,Food & Beverage,84.39,6,0.06,Credit Card,Completed,,475.96
+ORD-10200,2022-03-08 16:00:00,23.0,Male,Brazil,Beauty,48.86,4,0.16,PayPal,Completed,3.0,164.17
+ORD-11183,2023-01-30 08:00:00,31.0,Other,France,Food & Beverage,17.91,12,0.33,Crypto,Completed,3.0,144.0
+ORD-10091,2022-01-31 08:00:00,35.0,Other,Brazil,Beauty,21.31,6,0.12,Debit Card,Completed,1.0,112.52
+ORD-10732,2022-09-02 00:00:00,,,UK,Food & Beverage,68.61,5,0.13,Crypto,Completed,3.0,298.45
+ORD-10540,2022-06-30 00:00:00,,Other,Germany,Toys,93.79,13,0.03,PayPal,Completed,4.0,1182.69
+ORD-10691,2022-08-19 08:00:00,54.0,Female,Australia,Clothing,312.67,9,0.3,Credit Card,Completed,4.0,1969.82
+ORD-10584,2022-07-14 16:00:00,43.0,Other,Canada,Food & Beverage,151.83,12,0.29,Crypto,Completed,3.0,1293.59
+ORD-10442,2022-05-28 08:00:00,45.0,,Canada,Sports,88.43,6,0.38,Crypto,Cancelled,4.0,328.96
+ORD-10609,2022-07-23 00:00:00,52.0,Male,India,Home & Garden,124.69,12,0.28,Credit Card,Pending,4.0,1077.32
+ORD-11105,2023-01-04 08:00:00,60.0,Other,Brazil,Beauty,9.43,9,0.23,PayPal,Completed,5.0,65.35
+ORD-10280,2022-04-04 08:00:00,45.0,Female,France,Clothing,51.53,5,0.09,Debit Card,Completed,4.0,234.46
+ORD-10410,2022-05-17 16:00:00,44.0,Female,USA,Books,118.06,2,0.3,PayPal,Completed,4.0,165.28
+ORD-10987,2022-11-26 00:00:00,43.0,Other,USA,Food & Beverage,27.86,3,0.09,Credit Card,Completed,3.0,76.06
+ORD-11145,2023-01-17 16:00:00,39.0,Other,France,Toys,155.74,9,0.36,Credit Card,Pending,1.0,897.06
+ORD-10568,2022-07-09 08:00:00,50.0,,Australia,Home & Garden,55.82,1,0.08,Credit Card,Completed,3.0,51.35
+ORD-10972,2022-11-21 00:00:00,25.0,Female,USA,Food & Beverage,26.18,4,0.33,Bank Transfer,Completed,2.0,70.16
+ORD-10694,2022-08-20 08:00:00,25.0,Male,France,Food & Beverage,27.39,13,0.06,Crypto,Completed,4.0,334.71
+ORD-10642,2022-08-03 00:00:00,26.0,Male,India,Home & Garden,242.42,14,0.34,Credit Card,Completed,4.0,2239.96
+ORD-10687,2022-08-18 00:00:00,44.0,Male,UK,Books,26.38,1,0.03,Crypto,Pending,4.0,25.59
+ORD-10335,2022-04-22 16:00:00,21.0,Female,Brazil,Food & Beverage,25.97,12,0.2,Debit Card,Cancelled,2.0,249.31
+ORD-10642,2022-08-03 00:00:00,26.0,Male,India,Home & Garden,242.42,14,0.34,Credit Card,Completed,4.0,2239.96
+ORD-10314,2022-04-15 16:00:00,66.0,Female,Germany,BOOKS,105.58,2,0.15,,Completed,5.0,179.49
+ORD-10782,2022-09-18 16:00:00,34.0,Female,Brazil,Food & Beverage,133.67,8,0.13,Credit Card,Cancelled,5.0,930.34
+ORD-10980,2022-11-23 16:00:00,43.0,Other,Canada,electronics,89.92,1,0.15,Crypto,Completed,5.0,76.43
+ORD-10694,2022-08-20 08:00:00,25.0,Male,France,Food & Beverage,27.39,13,0.06,Crypto,Completed,4.0,334.71
+ORD-10721,2022-08-29 08:00:00,37.0,Female,France,beauty,173.23,2,0.03,Debit Card,Completed,4.0,336.07
+ORD-10506,2022-06-18 16:00:00,29.0,Male,France,Sports,337.59,11,0.15,Debit Card,Completed,4.0,3156.47
+ORD-11106,2023-01-04 16:00:00,20.0,Female,Germany,Sports,35.86,6,0.36,Crypto,Completed,3.0,137.7
+ORD-10133,2022-02-14 08:00:00,61.0,Female,Australia,Electronics,363.84,1,0.1,Debit Card,Cancelled,1.0,327.46
+ORD-10092,2022-01-31 16:00:00,64.0,Female,India,Beauty,33.49,12,0.03,Credit Card,Completed,4.0,389.82
+ORD-10834,2022-10-06 00:00:00,40.0,Other,France,Beauty,6.28,14,0.33,Credit Card,Completed,4.0,58.91
+ORD-10592,2022-07-17 08:00:00,58.0,Male,USA,Beauty,61.23,8,0.1,Debit Card,Completed,3.0,440.86
+ORD-10785,2022-09-19 16:00:00,37.0,Male,Brazil,Beauty,131.16,4,0.01,PayPal,Completed,5.0,519.39
+ORD-11097,2023-01-01 16:00:00,18.0,,France,Clothing,28.92,14,0.39,Credit Card,Cancelled,3.0,246.98
+ORD-10394,2022-05-12 08:00:00,50.0,Other,India,Books,37.52,5,0.27,Credit Card,Completed,4.0,136.95
+ORD-11103,2023-01-03 16:00:00,53.0,Other,France,Sports,70.28,3,0.3,PayPal,Completed,4.0,147.59
+ORD-10278,2022-04-03 16:00:00,18.0,Female,India,Home & Garden,178.02,12,0.29,PayPal,Cancelled,2.0,1516.73
+ORD-10575,2022-07-11 16:00:00,29.0,Female,Australia,Beauty,89.74,2,0.24,,Completed,4.0,136.4
+ORD-10573,2022-07-11 00:00:00,46.0,Male,India,Toys,19.11,6,0.3,Credit Card,Cancelled,2.0,80.26
+ORD-11171,2023-01-26 08:00:00,49.0,Male,Germany,Home & Garden,62.09,11,0.39,Crypto,Pending,2.0,416.62
+ORD-10278,2022-04-03 16:00:00,18.0,Female,India,Home & Garden,178.02,12,0.29,PayPal,Cancelled,2.0,1516.73
+ORD-10735,2022-09-03 00:00:00,61.0,,France,Clothing,52.02,1,0.28,Credit Card,Completed,5.0,37.45
+ORD-11136,2023-01-14 16:00:00,31.0,Female,Australia,Beauty,90.73,14,0.22,Bank Transfer,Completed,4.0,990.77
+ORD-11158,2023-01-22 00:00:00,31.0,Male,Brazil,Books,87.48,9,0.24,PayPal,Cancelled,3.0,598.36
+ORD-10279,2022-04-04 00:00:00,28.0,Male,USA,Sports,65.45,11,0.39,Credit Card,Pending,2.0,439.17
+ORD-10639,2022-08-02 00:00:00,58.0,Male,Australia,Beauty,17.6,3,0.21,Crypto,Completed,4.0,41.71
+ORD-10337,2022-04-23 08:00:00,31.0,Other,India,Beauty,15.26,5,0.07,Crypto,Completed,5.0,70.96
+ORD-10227,2022-03-17 16:00:00,,Male,India,Toys,39.65,3,0.11,Bank Transfer,Completed,3.0,105.87
+ORD-10698,2022-08-21 16:00:00,39.0,Female,UK,Clothing,4004.10484974629,3,0.07,Credit Card,Pending,3.0,11171.45
+ORD-10008,2022-01-03 16:00:00,36.0,Male,France,Clothing,23.31,12,0.31,Bank Transfer,Pending,4.0,193.01
+ORD-10085,2022-01-29 08:00:00,31.0,Female,USA,Electronics,62.92,8,0.01,Crypto,Completed,5.0,498.33
+ORD-11104,2023-01-04 00:00:00,30.0,Male,USA,Electronics,20.93,9,0.3,Credit Card,Completed,5.0,131.86
+ORD-11123,2023-01-10 08:00:00,34.0,Other,Australia,Beauty,18.15,4,0.14,,Pending,4.0,62.44
+ORD-10068,2022-01-23 16:00:00,21.0,Female,India,Home & Garden,164.33,4,0.05,Bank Transfer,Pending,5.0,624.45
+ORD-11162,2023-01-23 08:00:00,62.0,,USA,Food & Beverage,92.02,9,0.21,Bank Transfer,Completed,2.0,654.26
+ORD-10096,2022-02-02 00:00:00,62.0,Other,France,Clothing,133.67,8,0.3,Crypto,Completed,5.0,748.55
+ORD-10341,2022-04-24 16:00:00,25.0,Male,France,Electronics,257.23,3,0.01,Debit Card,Completed,,763.97
+ORD-10121,2022-02-10 08:00:00,45.0,Other,France,Beauty,46.94,14,0.12,PayPal,Completed,5.0,578.3
+ORD-10156,2022-02-22 00:00:00,68.0,Other,Brazil,Home & Garden,38.87,2,0.28,Crypto,Completed,2.0,55.97
+ORD-11105,2023-01-04 08:00:00,60.0,Other,Brazil,Beauty,9.43,9,0.23,PayPal,Completed,5.0,65.35
+ORD-11017,2022-12-06 00:00:00,42.0,Other,Canada,Beauty,13.62,8,0.16,Debit Card,Completed,4.0,91.53
+ORD-10024,2022-01-09 00:00:00,38.0,Female,Canada,Beauty,71.69,14,0.08,Bank Transfer,Completed,4.0,923.37
+ORD-10633,2022-07-31 00:00:00,39.0,Male,UK,Clothing,26.4,7,0.22,PayPal,Completed,3.0,144.14
+ORD-10470,2022-06-06 16:00:00,47.0,Male,Brazil,Clothing,119.2,8,0.1,Bank Transfer,Completed,5.0,858.24
+ORD-10557,2022-07-05 16:00:00,29.0,Other,Brazil,Home & Garden,127.54,12,0.37,PayPal,Pending,4.0,964.2
+ORD-10723,2022-08-30 00:00:00,25.0,Female,Australia,Toys,167.54,9,0.15,PayPal,Completed,4.0,1281.68
+ORD-10293,2022-04-08 16:00:00,66.0,Female,Canada,Clothing,5.02,13,0.39,Debit Card,Refunded,5.0,39.81
+ORD-10772,2022-09-15 08:00:00,53.0,,USA,SPORTS,65.79,1,0.34,Crypto,Completed,5.0,43.42
+ORD-10414,2022-05-19 00:00:00,34.0,Female,Brazil,Books,36.61,11,0.16,Credit Card,Completed,4.0,338.28
+ORD-10943,2022-11-11 08:00:00,45.0,Other,Canada,Food & Beverage,124.95,3,0.2,PayPal,Completed,3.0,299.88
+ORD-11011,2022-12-04 00:00:00,43.0,Male,Brazil,Sports,138.15,14,0.06,Credit Card,Completed,4.0,1818.05
+ORD-10164,2022-02-24 16:00:00,54.0,Other,UK,beauty,71.74,1,0.39,Credit Card,Pending,4.0,43.76
+ORD-10120,2022-02-10 00:00:00,,Female,India,Clothing,166.39,8,0.37,PayPal,Completed,3.0,838.61
+ORD-10905,2022-10-29 16:00:00,34.0,Other,Brazil,Electronics,19.12,9,0.03,Crypto,Cancelled,4.0,166.92
+ORD-10696,2022-08-21 00:00:00,62.0,Female,Brazil,Toys,164.97,10,0.25,Credit Card,Completed,3.0,1237.28
+ORD-10282,2022-04-05 00:00:00,67.0,Female,USA,Clothing,72.97,14,0.3,Debit Card,Cancelled,5.0,715.11
+ORD-10364,2022-05-02 08:00:00,45.0,Other,Germany,Electronics,8.63,1,0.12,Debit Card,Completed,4.0,7.59
+ORD-10746,2022-09-06 16:00:00,52.0,Male,Australia,Sports,139.46,4,0.15,Debit Card,Completed,5.0,474.16
+ORD-10310,2022-04-14 08:00:00,50.0,Male,France,Sports,5.27,1,0.3,Bank Transfer,Pending,5.0,3.69
+ORD-10510,2022-06-20 00:00:00,54.0,Female,France,Beauty,45.27,5,0.11,,Completed,4.0,201.45
+ORD-10179,2022-03-01 16:00:00,59.0,Female,India,Clothing,96.95,2,0.07,Crypto,Completed,3.0,180.33
+ORD-10911,2022-10-31 16:00:00,51.0,Other,Germany,Clothing,45.49,5,0.06,Crypto,Completed,2.0,213.8
+ORD-10809,2022-09-27 16:00:00,,,Australia,Electronics,94.04,1,0.4,Debit Card,Cancelled,,56.42
+ORD-10820,2022-10-01 08:00:00,51.0,Female,USA,Beauty,34.95,4,0.38,PayPal,Pending,4.0,86.68
+ORD-10069,2022-01-24 00:00:00,19.0,,Germany,Clothing,210.07,8,0.01,Credit Card,Pending,3.0,1663.75
+ORD-10783,2022-09-19 00:00:00,26.0,Female,Australia,Beauty,21.32,1,0.26,Crypto,Completed,5.0,15.78
+ORD-11108,2023-01-05 08:00:00,23.0,Female,USA,Beauty,30.1,7,0.3,PayPal,Completed,5.0,147.49
+ORD-10523,2022-06-24 08:00:00,33.0,Other,Australia,Clothing,57.68,3,0.03,Debit Card,Completed,4.0,167.85
+ORD-10457,2022-06-02 08:00:00,60.0,Other,Germany,Electronics,144.86,11,0.38,Crypto,Completed,2.0,987.95
+ORD-11065,2022-12-22 00:00:00,48.0,Male,UK,Books,28.59,8,0.11,Bank Transfer,Completed,5.0,203.56
+ORD-10804,2022-09-26 00:00:00,22.0,Male,Australia,Toys,70.07,8,0.37,Debit Card,Completed,5.0,353.15
+ORD-10815,2022-09-29 16:00:00,,Female,UK,Electronics,26.45,8,0.02,Crypto,Completed,3.0,207.37
+ORD-10123,2022-02-11 00:00:00,,Other,Germany,Home & Garden,28.43,5,0.36,,Completed,4.0,90.98
+ORD-10863,2022-10-15 16:00:00,29.0,Male,Canada,Books,52.3,1,0.35,Bank Transfer,Pending,4.0,33.99
+ORD-10058,2022-01-20 08:00:00,24.0,Female,Germany,Beauty,34.85,9,0.0,Credit Card,Refunded,4.0,313.65
+ORD-11189,2023-02-01 08:00:00,23.0,Female,Australia,Clothing,63.77,10,0.13,PayPal,Pending,5.0,554.8
+ORD-10363,2022-05-02 00:00:00,50.0,,France,Beauty,56.8,6,0.12,PayPal,Completed,3.0,299.9
+ORD-10997,2022-11-29 08:00:00,62.0,Male,France,Food & Beverage,84.39,6,0.06,Credit Card,Completed,,475.96
+ORD-10265,2022-03-30 08:00:00,43.0,Female,Australia,Food & Beverage,22.11,13,0.02,Crypto,Completed,,281.68
+ORD-10833,2022-10-05 16:00:00,20.0,Female,Canada,Books,8917.456985777164,5,0.27,Debit Card,Pending,5.0,32548.72
+ORD-10756,2022-09-10 00:00:00,,Other,UK,Sports,63.92,12,0.13,Bank Transfer,Pending,4.0,667.32
+ORD-10248,2022-03-24 16:00:00,22.0,Male,France,Electronics,118.85,4,0.08,Credit Card,Cancelled,4.0,437.37
+ORD-10380,2022-05-07 16:00:00,52.0,Female,UK,Toys,10.08,7,0.25,Bank Transfer,Refunded,4.0,52.92
+ORD-10604,2022-07-21 08:00:00,54.0,Male,USA,Food & Beverage,40.6,1,0.25,Crypto,Pending,5.0,30.45
+ORD-11166,2023-01-24 16:00:00,57.0,Other,France,Food & Beverage,19.61,9,0.12,PayPal,Pending,4.0,155.31
+ORD-11115,2023-01-07 16:00:00,19.0,Male,France,Clothing,58.62,6,0.35,Credit Card,Completed,5.0,228.62
+ORD-10550,2022-07-03 08:00:00,19.0,Male,USA,Home & Garden,83.53,4,0.21,Debit Card,Pending,5.0,263.95
+ORD-10147,2022-02-19 00:00:00,31.0,Other,UK,Food & Beverage,87.38,9,0.34,Debit Card,Completed,,519.04
+ORD-10251,2022-03-25 16:00:00,23.0,Male,Australia,Electronics,320.3,8,0.38,Credit Card,Completed,2.0,1588.69
+ORD-11018,2022-12-06 08:00:00,21.0,Female,India,Clothing,91.0,10,0.33,,Refunded,5.0,609.7
+ORD-11181,2023-01-29 16:00:00,64.0,Other,Brazil,Clothing,36.1,6,0.23,Debit Card,Cancelled,3.0,166.78
+ORD-10212,2022-03-12 16:00:00,,Male,Canada,Food & Beverage,243.56,8,0.32,PayPal,Completed,3.0,1324.97
+ORD-10440,2022-05-27 16:00:00,40.0,Female,Germany,Food & Beverage,95.17,6,0.24,Bank Transfer,Completed,4.0,433.98
+ORD-11093,2022-12-31 08:00:00,37.0,Male,India,Home & Garden,395.53,7,0.04,Credit Card,Refunded,3.0,2657.96
+ORD-10564,2022-07-08 00:00:00,54.0,Male,India,Home & Garden,89.05,2,0.04,,Refunded,3.0,170.98
+ORD-11000,2022-11-30 08:00:00,52.0,Other,Canada,Toys,8.49,6,0.04,Debit Card,Completed,,48.9
+ORD-10330,2022-04-21 00:00:00,52.0,Male,France,Beauty,367.15,12,0.34,Credit Card,Completed,4.0,2907.83
+ORD-10432,2022-05-25 00:00:00,37.0,Female,Australia,home & garden,19.56,11,0.01,Credit Card,Completed,4.0,213.01
+ORD-10276,2022-04-03 00:00:00,35.0,Other,USA,Food & Beverage,70.8,8,0.09,,Completed,4.0,515.42
+ORD-11135,2023-01-14 08:00:00,67.0,,Australia,Sports,174.5,7,0.05,PayPal,Completed,4.0,1160.42
+ORD-10291,2022-04-08 00:00:00,65.0,Other,USA,Books,54.58,7,0.36,Debit Card,Pending,4.0,244.52
+ORD-10901,2022-10-28 08:00:00,22.0,Female,India,Books,144.57,12,0.05,PayPal,Refunded,2.0,1648.1
+ORD-10448,2022-05-30 08:00:00,68.0,Male,Australia,Electronics,141.65,10,0.08,Bank Transfer,Completed,3.0,1303.18
+ORD-11074,2022-12-25 00:00:00,66.0,Male,Australia,Beauty,14.68,2,0.11,Debit Card,Completed,5.0,26.13
+ORD-10140,2022-02-16 16:00:00,54.0,Other,USA,Food & Beverage,36.32,13,0.22,PayPal,Completed,3.0,368.28
+ORD-10303,2022-04-12 00:00:00,52.0,Male,USA,Toys,74.54,10,0.23,Debit Card,Pending,3.0,573.96
+ORD-11096,2023-01-01 08:00:00,64.0,Male,UK,FOOD & BEVERAGE,174.14,9,0.06,PayPal,Completed,,1473.22
+ORD-11190,2023-02-01 16:00:00,23.0,Male,UK,Food & Beverage,42.4,13,0.08,PayPal,Completed,5.0,507.1
+ORD-10940,2022-11-10 08:00:00,38.0,Female,Germany,Home & Garden,61.44,12,0.36,Credit Card,Completed,3.0,471.86
+ORD-10067,2022-01-23 08:00:00,57.0,Female,Brazil,Home & Garden,47.82,9,0.39,PayPal,Pending,4.0,262.53
+ORD-10019,2022-01-07 08:00:00,41.0,Female,Australia,Food & Beverage,58.3,3,0.02,Credit Card,Completed,5.0,171.4
+ORD-10324,2022-04-19 00:00:00,42.0,Other,Canada,books,28.98,4,0.11,Bank Transfer,Refunded,5.0,103.17
+ORD-10054,2022-01-19 00:00:00,19.0,Male,Brazil,Beauty,19.48,2,0.2,PayPal,Cancelled,4.0,31.17
+ORD-10963,2022-11-18 00:00:00,,Other,France,Books,19.97,2,0.22,Bank Transfer,Completed,,31.15
+ORD-10931,2022-11-07 08:00:00,,Female,USA,Electronics,16.99,7,0.29,Crypto,Completed,5.0,84.44
+ORD-11193,2023-02-02 16:00:00,68.0,Other,Brazil,Toys,26.52,11,0.19,Crypto,Completed,2.0,236.29
+ORD-10150,2022-02-20 00:00:00,26.0,Male,Germany,Toys,83.42,7,0.34,Crypto,Refunded,5.0,385.4
+ORD-11073,2022-12-24 16:00:00,23.0,,France,Books,56.45,2,0.11,Debit Card,Completed,3.0,100.48
+ORD-10743,2022-09-05 16:00:00,28.0,Male,Brazil,Electronics,247.06,6,0.08,PayPal,Completed,3.0,1363.77
+ORD-10749,2022-09-07 16:00:00,35.0,,Australia,Toys,64.83,7,0.1,Debit Card,Completed,5.0,408.43
+ORD-10755,2022-09-09 16:00:00,48.0,Other,France,Home & Garden,105.56,12,0.27,PayPal,Pending,5.0,924.71
+ORD-11048,2022-12-16 08:00:00,23.0,Male,Germany,Clothing,287.55,14,0.31,,Completed,5.0,2777.73
+ORD-10811,2022-09-28 08:00:00,28.0,Other,India,Sports,121.42,2,0.26,Crypto,Completed,5.0,179.7
+ORD-10661,2022-08-09 08:00:00,62.0,Male,Brazil,toys,25.36,10,0.03,Crypto,Pending,4.0,245.99
+ORD-10255,2022-03-27 00:00:00,33.0,Other,Brazil,Electronics,9.24,8,0.33,Crypto,Cancelled,1.0,49.53
+ORD-10934,2022-11-08 08:00:00,,Female,France,Food & Beverage,35.56,1,0.31,Debit Card,Completed,,24.54
+ORD-10869,2022-10-17 16:00:00,,Female,India,Toys,117.47,11,0.01,Crypto,Pending,4.0,1279.25
+ORD-11176,2023-01-28 00:00:00,32.0,,France,Home & Garden,9.34,2,0.28,Bank Transfer,Completed,3.0,13.45
+ORD-10892,2022-10-25 08:00:00,69.0,Male,Australia,sports,18.88,3,0.39,Credit Card,Completed,5.0,34.55
+ORD-10873,2022-10-19 00:00:00,32.0,Other,Australia,Clothing,142.99,10,0.19,Bank Transfer,Completed,,1158.22
+ORD-10613,2022-07-24 08:00:00,,Male,Germany,Clothing,42.33,5,0.16,Crypto,Completed,5.0,177.79
+ORD-10388,2022-05-10 08:00:00,52.0,Male,Brazil,Clothing,110.91,7,0.27,,Completed,5.0,566.75
+ORD-10936,2022-11-09 00:00:00,49.0,Female,India,Sports,144.53,4,0.13,Credit Card,Refunded,1.0,502.96
+ORD-10406,2022-05-16 08:00:00,,Female,USA,Home & Garden,25.77,9,0.07,Debit Card,Completed,4.0,215.69
+ORD-10794,2022-09-22 16:00:00,35.0,Other,Australia,Home & Garden,5.21,11,0.35,Crypto,Cancelled,4.0,37.25
+ORD-10715,2022-08-27 08:00:00,56.0,Female,UK,Clothing,14.24,2,0.1,Credit Card,Completed,5.0,25.63
+ORD-11023,2022-12-08 00:00:00,35.0,Other,Germany,Books,218.11,7,0.2,PayPal,Pending,5.0,1221.42
+ORD-11055,2022-12-18 16:00:00,48.0,Female,Germany,Toys,10.7,12,0.01,,Cancelled,4.0,127.12
+ORD-11120,2023-01-09 08:00:00,18.0,Female,Germany,Toys,113.83,2,0.11,Bank Transfer,Completed,4.0,202.62
+ORD-10246,2022-03-24 00:00:00,55.0,,USA,Food & Beverage,118.64,12,0.13,Crypto,Refunded,,1238.6
+ORD-10145,2022-02-18 08:00:00,22.0,Male,India,Toys,15.48,4,0.08,PayPal,Completed,4.0,56.97
+ORD-11197,2023-02-04 00:00:00,32.0,,Germany,Sports,121.4,10,0.32,Bank Transfer,Completed,4.0,825.52
+ORD-11167,2023-01-25 00:00:00,25.0,Other,UK,Beauty,21.0,1,0.38,PayPal,Completed,4.0,13.02
+ORD-10622,2022-07-27 08:00:00,30.0,Other,France,Beauty,91.92,9,0.28,Debit Card,Completed,4.0,595.64
+ORD-10557,2022-07-05 16:00:00,29.0,Other,Brazil,Home & Garden,127.54,12,0.37,PayPal,Pending,4.0,964.2
+ORD-10460,2022-06-03 08:00:00,25.0,Other,India,Electronics,123.56,9,0.08,Bank Transfer,Completed,,1023.08
+ORD-10486,2022-06-12 00:00:00,43.0,Other,Australia,CLOTHING,53.37,9,0.11,Bank Transfer,Refunded,4.0,427.49
+ORD-10830,2022-10-04 16:00:00,48.0,Other,France,Clothing,95.12,6,0.07,Credit Card,Completed,5.0,530.77
+ORD-10090,2022-01-31 00:00:00,62.0,Male,India,Electronics,66.27,13,0.16,Crypto,Completed,5.0,723.67
+ORD-10492,2022-06-14 00:00:00,64.0,Male,UK,Beauty,279.15,2,0.27,,Completed,1.0,407.56
+ORD-10170,2022-02-26 16:00:00,46.0,Female,India,Food & Beverage,113.29,1,0.21,Crypto,Pending,2.0,89.5
+ORD-10056,2022-01-19 16:00:00,45.0,Male,Germany,Clothing,150.36,1,0.21,PayPal,Completed,5.0,118.78
+ORD-10404,2022-05-15 16:00:00,67.0,Male,Canada,Books,5.41,1,0.03,Credit Card,Pending,5.0,5.25
+ORD-10599,2022-07-19 16:00:00,53.0,Other,Australia,Books,77.85,13,0.02,Crypto,Refunded,5.0,991.81
+ORD-11015,2022-12-05 08:00:00,30.0,Other,USA,Books,255.29,3,0.4,PayPal,Cancelled,2.0,459.52
+ORD-10097,2022-02-02 08:00:00,58.0,Male,India,HOME & GARDEN,39.39,11,0.19,Debit Card,Completed,,350.96
+ORD-10826,2022-10-03 08:00:00,23.0,Male,USA,Food & Beverage,9.82,11,0.11,Bank Transfer,Completed,4.0,96.14
+ORD-10479,2022-06-09 16:00:00,47.0,Female,Canada,Sports,71.18,11,0.04,Bank Transfer,Cancelled,5.0,751.66
+ORD-10323,2022-04-18 16:00:00,52.0,Female,France,Clothing,132.95,9,0.34,Debit Card,Completed,5.0,789.72
+ORD-11139,2023-01-15 16:00:00,51.0,Male,France,Food & Beverage,140.04,8,0.29,PayPal,Completed,5.0,795.43
+ORD-10098,2022-02-02 16:00:00,46.0,Other,France,Toys,55.52,4,0.02,PayPal,Completed,4.0,217.64
+ORD-10424,2022-05-22 08:00:00,52.0,Male,India,Clothing,151.67,4,0.03,Credit Card,Completed,4.0,588.48
+ORD-10296,2022-04-09 16:00:00,65.0,Other,Australia,Electronics,220.76,5,0.24,Bank Transfer,Completed,3.0,838.89
+ORD-10737,2022-09-03 16:00:00,49.0,Male,UK,Beauty,75.76,7,0.24,Credit Card,Completed,4.0,403.04
+ORD-11199,2023-02-04 16:00:00,46.0,Other,USA,Books,33.47,5,0.15,PayPal,Completed,4.0,142.25
+ORD-10902,2022-10-28 16:00:00,,Other,Germany,Food & Beverage,31.25,2,0.1,Debit Card,Completed,4.0,56.25
+ORD-10601,2022-07-20 08:00:00,38.0,Male,UK,Home & Garden,90.14,6,0.09,Bank Transfer,Completed,3.0,492.16
+ORD-10999,2022-11-30 00:00:00,55.0,Other,UK,toys,10.34,3,0.14,Credit Card,Completed,3.0,26.68
+ORD-10395,2022-05-12 16:00:00,20.0,Male,India,Beauty,26.82,3,0.25,Debit Card,Completed,3.0,60.35
+ORD-10426,2022-05-23 00:00:00,42.0,,USA,Clothing,20.83,8,0.12,Bank Transfer,Completed,2.0,146.64
+ORD-11149,2023-01-19 00:00:00,58.0,Male,Germany,Sports,115.76,10,0.33,Debit Card,Completed,5.0,775.59
+ORD-11038,2022-12-13 00:00:00,,Female,India,Electronics,8.1,4,0.29,Credit Card,Pending,3.0,23.0
+ORD-10252,2022-03-26 00:00:00,39.0,Other,Germany,Food & Beverage,2064.7994322369323,7,0.2,Crypto,Completed,2.0,11562.88
+ORD-10238,2022-03-21 08:00:00,61.0,,India,Clothing,35.22,3,0.36,Bank Transfer,Completed,4.0,67.62
+ORD-10844,2022-10-09 08:00:00,63.0,Female,France,Home & Garden,46.02,7,0.2,Debit Card,Completed,4.0,257.71
+ORD-10845,2022-10-09 16:00:00,18.0,Other,UK,Beauty,41.58,6,0.16,PayPal,Completed,4.0,209.56
+ORD-10554,2022-07-04 16:00:00,44.0,Other,India,Books,91.5,12,0.33,PayPal,Completed,2.0,735.66
+ORD-10545,2022-07-01 16:00:00,62.0,,UK,Books,81.7,6,0.27,Debit Card,Cancelled,4.0,357.85
+ORD-10250,2022-03-25 08:00:00,51.0,Other,France,HOME & GARDEN,86.12,5,0.03,Bank Transfer,Cancelled,3.0,417.68
+ORD-10739,2022-09-04 08:00:00,64.0,Other,India,Beauty,87.31,9,0.26,Bank Transfer,Completed,5.0,581.48
+ORD-10964,2022-11-18 08:00:00,64.0,Other,Brazil,sports,11.2,1,0.15,Crypto,Refunded,2.0,9.52
+ORD-10198,2022-03-08 00:00:00,20.0,Other,UK,Toys,46.45,4,0.05,Credit Card,Completed,2.0,176.51
+ORD-10897,2022-10-27 00:00:00,47.0,Male,UK,Food & Beverage,43.36,3,0.32,PayPal,Completed,2.0,88.45
+ORD-11116,2023-01-08 00:00:00,,Female,India,Beauty,18.07,4,0.36,Debit Card,Completed,4.0,46.26
+ORD-10989,2022-11-26 16:00:00,68.0,Other,India,food & beverage,48.38,5,0.35,Bank Transfer,Completed,4.0,157.24
+ORD-11040,2022-12-13 16:00:00,43.0,Female,UK,Beauty,91.08,2,0.24,Bank Transfer,Completed,3.0,138.44
+ORD-10243,2022-03-23 00:00:00,21.0,Other,France,Food & Beverage,63.93,8,0.08,Bank Transfer,Completed,3.0,470.52
+ORD-10066,2022-01-23 00:00:00,67.0,Other,Germany,Clothing,14.71,12,0.21,Credit Card,Completed,4.0,139.45
+ORD-10109,2022-02-06 08:00:00,41.0,Female,UK,Home & Garden,120.97,6,0.06,PayPal,Completed,,682.27
+ORD-10933,2022-11-08 00:00:00,20.0,Female,UK,Food & Beverage,146.44,5,0.27,Bank Transfer,Completed,2.0,534.51
+ORD-10359,2022-04-30 16:00:00,44.0,Female,Australia,Beauty,162.36,10,0.16,Bank Transfer,Cancelled,5.0,1363.82
+ORD-10095,2022-02-01 16:00:00,42.0,,Germany,Beauty,49.52,4,0.19,Crypto,Completed,2.0,160.44
+ORD-10220,2022-03-15 08:00:00,56.0,Male,Canada,Beauty,152.38,14,0.04,Bank Transfer,Completed,5.0,2047.99
+ORD-10216,2022-03-14 00:00:00,66.0,Female,Germany,Sports,57.89,1,0.26,Debit Card,Completed,5.0,42.84
+ORD-10521,2022-06-23 16:00:00,22.0,Male,USA,Electronics,72.69,9,0.26,Crypto,Completed,4.0,484.12
+ORD-10974,2022-11-21 16:00:00,52.0,Male,Brazil,Sports,20.27,13,0.37,Bank Transfer,Pending,3.0,166.01
+ORD-10665,2022-08-10 16:00:00,48.0,Other,India,Beauty,75.29,11,0.32,Bank Transfer,Completed,4.0,563.17
+ORD-10361,2022-05-01 08:00:00,38.0,Male,Brazil,Beauty,44.7,9,0.35,Bank Transfer,Completed,3.0,261.5
+ORD-10484,2022-06-11 08:00:00,43.0,Female,India,Home & Garden,12.65,14,0.1,Crypto,Completed,4.0,159.39
+ORD-10311,2022-04-14 16:00:00,41.0,Other,Australia,Food & Beverage,55.39,4,0.04,Credit Card,Completed,4.0,212.7
+ORD-10842,2022-10-08 16:00:00,31.0,Male,Germany,Home & Garden,87.92,5,0.38,,Refunded,,272.55
+ORD-10413,2022-05-18 16:00:00,43.0,Female,Germany,Toys,12.03,6,0.14,PayPal,Refunded,2.0,62.07
+ORD-10031,2022-01-11 08:00:00,44.0,Male,USA,Books,49.08,-3,0.12,Crypto,Completed,,-129.57
+ORD-10765,2022-09-13 00:00:00,25.0,Female,India,Sports,57.19,11,0.23,Debit Card,Completed,3.0,484.4
+ORD-10458,2022-06-02 16:00:00,,Other,Canada,Food & Beverage,33.35,12,0.16,PayPal,Completed,4.0,336.17
+ORD-10339,2022-04-24 00:00:00,65.0,Other,USA,Toys,43.77,2,0.29,Credit Card,Cancelled,4.0,62.15
+ORD-10286,2022-04-06 08:00:00,,Other,Brazil,Books,112.11,3,0.13,Debit Card,Completed,3.0,292.61
+ORD-11095,2023-01-01 00:00:00,29.0,Other,India,Electronics,35.49,1,0.24,Debit Card,Cancelled,5.0,26.97
+ORD-10949,2022-11-13 08:00:00,22.0,Female,Brazil,Clothing,157.55,6,0.34,PayPal,Completed,3.0,623.9
+ORD-10139,2022-02-16 08:00:00,52.0,Other,Australia,FOOD & BEVERAGE,46.72,9,0.18,Crypto,Cancelled,5.0,344.79
+ORD-10848,2022-10-10 16:00:00,30.0,Other,Canada,Clothing,51.73,12,0.11,PayPal,Pending,5.0,552.48
+ORD-11025,2022-12-08 16:00:00,53.0,Female,India,Clothing,126.56,1,0.36,Credit Card,Completed,5.0,81.0
+ORD-11138,2023-01-15 08:00:00,26.0,,Australia,Home & Garden,113.49,2,0.14,Credit Card,Completed,4.0,195.2
+ORD-10900,2022-10-28 00:00:00,34.0,,France,Home & Garden,62.02,3,0.09,Credit Card,Completed,4.0,169.31
+ORD-10731,2022-09-01 16:00:00,42.0,Female,France,Electronics,43.3,10,0.25,Bank Transfer,Completed,5.0,324.75
+ORD-10264,2022-03-30 00:00:00,36.0,Other,Canada,Clothing,110.05,3,0.17,Bank Transfer,Completed,,274.02
+ORD-10274,2022-04-02 08:00:00,57.0,Other,France,Home & Garden,89.02,1,0.12,Credit Card,Refunded,5.0,78.34
+ORD-11094,2022-12-31 16:00:00,66.0,Female,India,Clothing,94.05,1,0.07,Crypto,Completed,5.0,87.47
+ORD-10444,2022-05-29 00:00:00,19.0,Male,Australia,Food & Beverage,43.71,3,0.06,Debit Card,Completed,2.0,123.26
+ORD-10039,2022-01-14 00:00:00,69.0,,Brazil,Toys,76.91,5,0.08,Crypto,Completed,5.0,353.79
+ORD-11122,2023-01-10 00:00:00,26.0,Other,France,Beauty,13.96,14,0.07,Bank Transfer,Completed,4.0,181.76
+ORD-10021,2022-01-08 00:00:00,47.0,Female,Brazil,Beauty,123.23,11,0.17,Credit Card,Completed,2.0,1125.09
+ORD-10705,2022-08-24 00:00:00,53.0,Female,Brazil,Home & Garden,73.87,6,0.26,Debit Card,Refunded,2.0,327.98
+ORD-10517,2022-06-22 08:00:00,66.0,Other,Germany,Beauty,108.07,5,0.1,Bank Transfer,Completed,4.0,486.31
+ORD-10354,2022-04-29 00:00:00,55.0,Other,India,Electronics,54.8,4,0.29,,Completed,4.0,155.63
+ORD-10297,2022-04-10 00:00:00,29.0,Male,UK,Beauty,10.81,-14,0.26,Credit Card,Pending,3.0,-111.99
+ORD-11076,2022-12-25 16:00:00,55.0,Female,USA,Beauty,207.36,13,0.0,Credit Card,Completed,5.0,2695.68
+ORD-10839,2022-10-07 16:00:00,36.0,Female,Canada,food & beverage,193.75,5,0.28,Crypto,Pending,2.0,697.5
+ORD-10924,2022-11-05 00:00:00,28.0,Male,Brazil,Books,257.33,6,0.03,Debit Card,Completed,4.0,1497.66
+ORD-10122,2022-02-10 16:00:00,24.0,Other,Germany,Beauty,69.19,9,0.19,Bank Transfer,Completed,5.0,504.4
+ORD-11091,2022-12-30 16:00:00,,Other,Germany,books,59.82,7,0.37,Credit Card,Completed,3.0,263.81
+ORD-11151,2023-01-19 16:00:00,31.0,Other,Canada,Beauty,95.75,6,0.04,Crypto,Completed,,551.52
+ORD-10417,2022-05-20 00:00:00,26.0,,Australia,Electronics,42.82,11,0.19,,Refunded,2.0,381.53
+ORD-10966,2022-11-19 00:00:00,60.0,Other,Canada,Electronics,29.67,5,0.06,,Completed,2.0,139.45
+ORD-10157,2022-02-22 08:00:00,49.0,Male,Australia,Electronics,123.92,12,0.39,Debit Card,Completed,3.0,907.09
+ORD-11118,2023-01-08 16:00:00,19.0,Other,India,BEAUTY,47.68,2,0.13,Credit Card,Cancelled,4.0,82.96
+ORD-11063,2022-12-21 08:00:00,53.0,Female,UK,Food & Beverage,93.05,6,0.27,PayPal,Completed,3.0,407.56
+ORD-11154,2023-01-20 16:00:00,,Other,Brazil,Food & Beverage,55.84,7,0.05,PayPal,Completed,5.0,371.34
+ORD-10189,2022-03-05 00:00:00,,Other,France,Toys,17.07,11,0.09,Credit Card,Pending,5.0,170.87
+ORD-10589,2022-07-16 08:00:00,43.0,Male,Brazil,Clothing,84.27,13,0.01,PayPal,Completed,5.0,1084.55
+ORD-10760,2022-09-11 08:00:00,28.0,Other,Canada,Home & Garden,10.92,12,0.36,Debit Card,Cancelled,4.0,83.87
+ORD-11062,2022-12-21 00:00:00,54.0,Other,Germany,Home & Garden,303.35,11,0.38,,Pending,2.0,2068.85
+ORD-10242,2022-03-22 16:00:00,49.0,Female,USA,Food & Beverage,98.84,10,0.2,Bank Transfer,Refunded,4.0,790.72
+ORD-10884,2022-10-22 16:00:00,67.0,Female,India,Toys,27.34,11,0.03,Debit Card,Completed,,291.72
+ORD-10620,2022-07-26 16:00:00,29.0,Other,UK,Electronics,76.9,14,0.13,Credit Card,Refunded,5.0,936.64
+ORD-10650,2022-08-05 16:00:00,33.0,,India,Clothing,102.77,8,0.19,PayPal,Refunded,3.0,665.95
+ORD-10503,2022-06-17 16:00:00,39.0,Other,Canada,Books,36.55,14,0.3,Credit Card,Completed,5.0,358.19
+ORD-10922,2022-11-04 08:00:00,33.0,Other,UK,books,18.36,2,0.11,Bank Transfer,Completed,1.0,32.68
+ORD-10159,2022-02-23 00:00:00,66.0,Female,France,Sports,162.9,11,0.1,Crypto,Completed,2.0,1612.71
+ORD-10882,2022-10-22 00:00:00,51.0,Male,USA,Home & Garden,111.9,5,0.03,Crypto,Completed,4.0,542.72
+ORD-10537,2022-06-29 00:00:00,51.0,Male,France,Clothing,99.52,3,0.1,Crypto,Completed,,268.7
+ORD-10240,2022-03-22 00:00:00,49.0,Male,France,Electronics,266.82,8,0.31,Crypto,Completed,,1472.85
+ORD-10013,2022-01-05 08:00:00,53.0,Female,Brazil,Clothing,66.51,5,0.2,Credit Card,Completed,4.0,266.04
+ORD-10475,2022-06-08 08:00:00,33.0,Male,Brazil,Toys,114.58,8,0.25,Crypto,Completed,5.0,687.48
+ORD-10128,2022-02-12 16:00:00,65.0,Male,Brazil,Beauty,72.41,3,0.25,Bank Transfer,Pending,1.0,162.92
+ORD-10928,2022-11-06 08:00:00,57.0,Male,USA,Beauty,57.21,5,0.02,Debit Card,Completed,5.0,280.33
+ORD-10795,2022-09-23 00:00:00,,Other,Australia,toys,86.29,14,0.23,Crypto,Pending,,930.21
+ORD-10355,2022-04-29 08:00:00,62.0,Female,Australia,Clothing,83.03,2,0.35,Crypto,Completed,5.0,107.94
+ORD-11058,2022-12-19 16:00:00,20.0,Male,Brazil,Clothing,62.83,2,0.31,,Completed,4.0,86.71
+ORD-10334,2022-04-22 08:00:00,50.0,Male,USA,Clothing,2735.4115494307803,12,0.38,Debit Card,Completed,3.0,20351.46
+ORD-10688,2022-08-18 08:00:00,19.0,Other,Germany,Home & Garden,269.5,12,0.31,Credit Card,Cancelled,5.0,2231.46
+ORD-10184,2022-03-03 08:00:00,61.0,Other,France,Beauty,10.56,12,0.0,PayPal,Completed,3.0,126.72
+ORD-10823,2022-10-02 08:00:00,18.0,Female,Germany,Sports,86.28,14,0.28,Debit Card,Completed,4.0,869.7
+ORD-11194,2023-02-03 00:00:00,25.0,Other,Brazil,Home & Garden,42.14,9,0.34,Crypto,Pending,5.0,250.31
+ORD-11001,2022-11-30 16:00:00,68.0,Female,Germany,sports,42.14,10,0.19,Bank Transfer,Pending,2.0,341.33
+ORD-10187,2022-03-04 08:00:00,47.0,Other,Australia,Sports,106.9,6,0.09,Crypto,Completed,,583.67
+ORD-10941,2022-11-10 16:00:00,22.0,Other,Australia,Home & Garden,26.17,6,0.15,Crypto,Completed,5.0,133.47
+ORD-10284,2022-04-05 16:00:00,48.0,Female,India,Toys,66.84,14,0.17,Bank Transfer,Completed,2.0,776.68
+ORD-10899,2022-10-27 16:00:00,68.0,Female,Brazil,Sports,26.86,1,0.12,Bank Transfer,Completed,5.0,23.64
+ORD-10339,2022-04-24 00:00:00,65.0,Other,USA,Toys,43.77,2,0.29,Credit Card,Cancelled,4.0,62.15
+ORD-10165,2022-02-25 00:00:00,40.0,Other,Brazil,Beauty,342.96,2,0.08,Debit Card,Pending,3.0,631.05
+ORD-10347,2022-04-26 16:00:00,29.0,Female,France,Beauty,77.76,12,0.09,Credit Card,Completed,4.0,849.14
+ORD-10298,2022-04-10 08:00:00,22.0,,Germany,Beauty,5.76,13,0.03,Crypto,Cancelled,4.0,72.63
+ORD-10535,2022-06-28 08:00:00,22.0,Female,India,Electronics,308.42,14,0.16,Credit Card,Cancelled,3.0,3627.02
+ORD-10229,2022-03-18 08:00:00,19.0,,Brazil,Toys,102.64,7,0.23,Debit Card,Cancelled,3.0,553.23
+ORD-10041,2022-01-14 16:00:00,54.0,Male,USA,Electronics,205.82,5,0.11,Bank Transfer,Completed,4.0,915.9
+ORD-10868,2022-10-17 08:00:00,47.0,Female,UK,Toys,85.62,5,0.4,Bank Transfer,Completed,4.0,256.86
+ORD-10748,2022-09-07 08:00:00,,Female,Australia,Clothing,17.91,13,0.01,,Pending,5.0,230.5
+ORD-10186,2022-03-04 00:00:00,37.0,Male,Germany,Home & Garden,60.05,8,0.37,Bank Transfer,Completed,4.0,302.65
+ORD-10446,2022-05-29 16:00:00,40.0,,USA,Books,142.86,3,0.29,Credit Card,Completed,,304.29
+ORD-10349,2022-04-27 08:00:00,39.0,Female,USA,Home & Garden,29.11,10,0.33,Credit Card,Completed,3.0,195.04
+ORD-10045,2022-01-16 00:00:00,26.0,Other,USA,Beauty,123.01,10,0.21,,Pending,3.0,971.78
+ORD-10063,2022-01-22 00:00:00,31.0,Male,Brazil,Toys,23.41,14,0.12,Crypto,Completed,5.0,288.41
+ORD-10374,2022-05-05 16:00:00,61.0,Other,UK,Toys,9.0,2,0.27,,Completed,2.0,13.14
+ORD-10108,2022-02-06 00:00:00,25.0,Other,Canada,Beauty,59.98,7,0.08,Bank Transfer,Pending,2.0,386.27
+ORD-10029,2022-01-10 16:00:00,42.0,Other,USA,Toys,38.55,11,0.27,,Completed,3.0,309.56
+ORD-10181,2022-03-02 08:00:00,23.0,Male,France,Home & Garden,65.34,13,0.31,PayPal,Completed,3.0,586.1
+ORD-10621,2022-07-27 00:00:00,66.0,Female,Brazil,Sports,74.29,9,0.06,PayPal,Completed,2.0,628.49
+ORD-10634,2022-07-31 08:00:00,30.0,Male,UK,Electronics,177.13,9,0.25,Credit Card,Pending,5.0,1195.63
+ORD-10104,2022-02-04 16:00:00,26.0,Female,France,Toys,105.16,-4,0.39,PayPal,Completed,3.0,-256.59
+ORD-10060,2022-01-21 00:00:00,,Other,France,clothing,79.9,6,0.39,Credit Card,Completed,5.0,292.43
+ORD-10658,2022-08-08 08:00:00,40.0,Male,India,Clothing,26.03,10,0.16,Debit Card,Completed,4.0,218.65
+ORD-11107,2023-01-05 00:00:00,50.0,Other,France,Books,116.93,1,0.33,Debit Card,Completed,4.0,78.34
+ORD-10490,2022-06-13 08:00:00,18.0,Male,Brazil,Beauty,32.87,12,0.29,Credit Card,Cancelled,5.0,280.05
+ORD-10315,2022-04-16 00:00:00,25.0,Female,Canada,Sports,76.15,10,0.37,Credit Card,Completed,5.0,479.74
+ORD-10381,2022-05-08 00:00:00,58.0,Female,UK,Food & Beverage,176.58,6,0.13,Debit Card,Completed,5.0,921.75
+ORD-10422,2022-05-21 16:00:00,59.0,,India,Clothing,6.49,6,0.24,PayPal,Pending,5.0,29.59
+ORD-10098,2022-02-02 16:00:00,46.0,Other,France,Toys,55.52,4,0.02,PayPal,Completed,4.0,217.64
+ORD-10445,2022-05-29 08:00:00,49.0,Other,UK,TOYS,10.43,14,0.38,PayPal,Completed,4.0,90.53
+ORD-10663,2022-08-10 00:00:00,56.0,Male,France,Beauty,12.42,8,0.03,Debit Card,Completed,,96.38
+ORD-11024,2022-12-08 08:00:00,64.0,,Germany,Sports,28.34,3,0.25,Crypto,Completed,,63.76
+ORD-10779,2022-09-17 16:00:00,58.0,,India,Toys,64.13,7,0.14,Bank Transfer,Pending,2.0,386.06
+ORD-10626,2022-07-28 16:00:00,58.0,Other,Germany,Toys,45.74,9,0.08,PayPal,Completed,4.0,378.73
+ORD-11112,2023-01-06 16:00:00,40.0,Other,Australia,Books,97.49,10,0.27,PayPal,Completed,,711.68
+ORD-11101,2023-01-03 00:00:00,54.0,Other,India,electronics,311.79,3,0.19,Crypto,Completed,4.0,757.65
+ORD-10268,2022-03-31 08:00:00,37.0,Female,Brazil,toys,131.91,2,0.0,Crypto,Completed,4.0,263.82
+ORD-10929,2022-11-06 16:00:00,21.0,Other,France,Books,35.12,6,0.17,Bank Transfer,Pending,3.0,174.9
+ORD-11147,2023-01-18 08:00:00,25.0,Male,Canada,Toys,148.03,10,0.13,Debit Card,Completed,3.0,1287.86
+ORD-11119,2023-01-09 00:00:00,37.0,Female,Australia,electronics,118.57,14,0.28,Debit Card,Refunded,4.0,1195.19
+ORD-10011,2022-01-04 16:00:00,28.0,Male,Australia,Toys,117.4,9,0.14,Crypto,Completed,4.0,908.68
+ORD-10114,2022-02-08 00:00:00,52.0,Male,India,Clothing,30.43,8,0.32,PayPal,Completed,3.0,165.54
+ORD-10843,2022-10-09 00:00:00,26.0,Other,Australia,Toys,77.46,3,0.21,Bank Transfer,Completed,5.0,183.58
+ORD-10352,2022-04-28 08:00:00,47.0,Other,India,Sports,453.73,5,0.02,Debit Card,Completed,,2223.28
+ORD-10925,2022-11-05 08:00:00,33.0,,UK,Electronics,73.09,13,0.18,Credit Card,Completed,5.0,779.14
+ORD-10773,2022-09-15 16:00:00,43.0,Male,Australia,Beauty,74.58,8,0.4,Credit Card,Pending,3.0,357.98
+ORD-10690,2022-08-19 00:00:00,46.0,Female,Australia,Toys,91.69,3,0.31,Credit Card,Completed,5.0,189.8
+ORD-10790,2022-09-21 08:00:00,30.0,Female,France,Books,140.32,2,0.33,Debit Card,Completed,5.0,188.03
+ORD-10531,2022-06-27 00:00:00,47.0,Other,Brazil,Food & Beverage,11.89,-8,0.2,PayPal,Completed,4.0,-76.1
+ORD-10867,2022-10-17 00:00:00,47.0,Male,India,Clothing,265.91,6,0.32,PayPal,Completed,,1084.91
+ORD-10169,2022-02-26 08:00:00,60.0,Other,Australia,Beauty,62.47,2,0.38,Bank Transfer,Completed,,77.46
+ORD-10239,2022-03-21 16:00:00,,Male,Canada,Books,136.78,11,0.17,Debit Card,Completed,4.0,1248.8
+ORD-11184,2023-01-30 16:00:00,57.0,,India,Beauty,100.1,3,0.33,Credit Card,Completed,4.0,201.2
+ORD-10073,2022-01-25 08:00:00,46.0,Male,USA,Food & Beverage,75.76,14,0.11,Bank Transfer,Completed,3.0,943.97
+ORD-11086,2022-12-29 00:00:00,22.0,Female,Australia,Home & Garden,44.37,14,0.14,Crypto,Pending,5.0,534.21
+ORD-10761,2022-09-11 16:00:00,29.0,Male,Brazil,Toys,252.49,12,0.4,Bank Transfer,Completed,4.0,1817.93
+ORD-10740,2022-09-04 16:00:00,38.0,Female,India,electronics,118.95,6,0.33,Crypto,Refunded,5.0,478.18
+ORD-10750,2022-09-08 00:00:00,64.0,Other,UK,Books,27.6,9,0.01,Crypto,Completed,4.0,245.92
+ORD-10741,2022-09-05 00:00:00,33.0,Female,Australia,HOME & GARDEN,60.52,12,0.31,Debit Card,Completed,3.0,501.11
+ORD-10830,2022-10-04 16:00:00,48.0,Other,France,Clothing,95.12,6,0.07,Credit Card,Completed,5.0,530.77
+ORD-10047,2022-01-16 16:00:00,35.0,Female,USA,toys,10.71,4,0.33,Bank Transfer,Refunded,5.0,28.7
+ORD-10762,2022-09-12 00:00:00,27.0,Male,India,Clothing,90.07,9,0.33,Bank Transfer,Pending,5.0,543.12
+ORD-10591,2022-07-17 00:00:00,68.0,Male,UK,Books,121.79,3,0.36,Credit Card,Completed,4.0,233.84
+ORD-10807,2022-09-27 00:00:00,35.0,Other,France,Beauty,110.33,1,0.21,Credit Card,Completed,3.0,87.16
+ORD-11083,2022-12-28 00:00:00,68.0,Other,Brazil,Sports,12.99,7,0.03,Credit Card,Completed,4.0,88.2
+ORD-10505,2022-06-18 08:00:00,20.0,,Germany,Beauty,50.43,3,0.03,PayPal,Pending,3.0,146.75
+ORD-11044,2022-12-15 00:00:00,54.0,Other,India,Beauty,61.84,2,0.32,PayPal,Completed,,84.1
+ORD-10652,2022-08-06 08:00:00,52.0,Other,Australia,Beauty,164.74,5,0.16,Credit Card,Completed,1.0,691.91
+ORD-10192,2022-03-06 00:00:00,50.0,Female,Brazil,Electronics,110.4,3,0.29,,Completed,4.0,235.15
+ORD-10189,2022-03-05 00:00:00,,Other,France,Toys,17.07,11,0.09,Credit Card,Pending,5.0,170.87
+ORD-10244,2022-03-23 08:00:00,,Male,USA,Food & Beverage,12.26,8,0.24,Bank Transfer,Completed,,74.54
+ORD-10059,2022-01-20 16:00:00,,Male,USA,Electronics,25.64,4,0.19,Crypto,Completed,4.0,83.07
+ORD-11174,2023-01-27 08:00:00,50.0,Other,Germany,Electronics,25.44,4,0.02,Credit Card,Completed,3.0,99.72
+ORD-10176,2022-02-28 16:00:00,39.0,,Canada,Electronics,16.35,9,0.1,Crypto,Completed,1.0,132.44
+ORD-10449,2022-05-30 16:00:00,42.0,Other,UK,Home & Garden,28.28,3,0.24,Credit Card,Completed,2.0,64.48
+ORD-10055,2022-01-19 08:00:00,37.0,Male,India,Clothing,21.5,3,0.16,PayPal,Pending,4.0,54.18
+ORD-10919,2022-11-03 08:00:00,68.0,Female,Germany,SPORTS,141.62,3,0.2,Bank Transfer,Completed,4.0,339.89
+ORD-10887,2022-10-23 16:00:00,47.0,Female,France,Clothing,28.77,3,0.19,Debit Card,Completed,2.0,69.91
+ORD-11092,2022-12-31 00:00:00,50.0,Other,UK,Home & Garden,6.02,5,0.02,Bank Transfer,Completed,4.0,29.5
+ORD-11192,2023-02-02 08:00:00,24.0,Male,Germany,Electronics,111.39,12,0.19,Crypto,Completed,3.0,1082.71
+ORD-10046,2022-01-16 08:00:00,56.0,Other,Australia,Toys,42.53,5,0.11,Crypto,Completed,4.0,189.26
+ORD-11059,2022-12-20 00:00:00,68.0,Male,Canada,Toys,188.33,13,0.09,Bank Transfer,Completed,,2227.94
+ORD-10641,2022-08-02 16:00:00,29.0,Other,India,Beauty,75.92,13,0.33,PayPal,Pending,4.0,661.26
