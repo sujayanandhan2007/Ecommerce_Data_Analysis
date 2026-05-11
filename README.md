@@ -1,145 +1,89 @@
-# 🛒 E-Commerce Sales — Data Cleaning & Visualization Project
+# E-Commerce Sales Data Analysis
 
 ![Dashboard](dashboard_summary.png)
 
 ---
 
-## 📌 Project Overview
+## About This Project
 
-This is an end-to-end **Data Analysis project** on an E-Commerce Sales dataset.  
-The project covers data cleaning, exploratory data analysis (EDA), and professional visualizations — built using Python.
+A complete data analysis project on an e-commerce sales dataset. The goal was to clean messy real-world data, explore patterns through statistics, and communicate findings through clear visualizations.
 
-> ✅ Suitable for: **Internship Submission · College Mini Project · GitHub Portfolio**
-
----
-
-## 🛠️ Tools & Libraries Used
-
-| Tool | Purpose |
-|------|---------|
-| Python 3.10 | Core programming language |
-| Pandas | Data manipulation & cleaning |
-| NumPy | Numerical computations |
-| Matplotlib | Base plotting library |
-| Seaborn | Statistical visualizations |
-| Jupyter Notebook | Interactive development environment |
+This project was built as part of my data analytics learning journey and is suitable for internship submissions and portfolio showcasing.
 
 ---
 
-## 📂 Project Structure
+## What I Did
 
-```
-ecommerce-data-analysis/
-│
-├── ecommerce_data_project.ipynb   ← Main Jupyter Notebook (fully executed)
-├── ecommerce_raw.csv              ← Original raw dataset (with messiness)
-├── ecommerce_cleaned.csv          ← Final cleaned dataset
-├── dashboard_summary.png          ← 6-panel summary dashboard
-├── plot_01_category_revenue.png   ← Revenue by category
-├── plot_02_monthly_trend.png      ← Monthly revenue trend
-├── plot_03_revenue_distribution.png
-├── plot_04_scatter.png            ← Price vs Revenue scatter
-├── plot_05_boxplot.png            ← Box plot by category
-├── plot_06_heatmap.png            ← Correlation heatmap
-├── plot_07_payment.png            ← Payment method analysis
-├── plot_08_age_status.png         ← Age group breakdown
-├── plot_09_day_category_heatmap.png
-├── plot_10_rating_violin.png      ← Rating distribution
-└── README.md                      ← This file
-```
+**Data Cleaning**
+- Removed 80+ duplicate records
+- Fixed inconsistent text formatting across category columns
+- Handled missing values using median and mode imputation
+- Corrected invalid negative quantity entries
+- Detected and capped outliers using the IQR method
+- Renamed columns to snake_case and created new time-based features
 
----
+**Exploratory Data Analysis**
+- Analyzed revenue trends across months, weekdays, and quarters
+- Compared performance across product categories and countries
+- Identified the highest-spending customer age group
+- Detected cancellation and refund patterns affecting revenue
 
-## 🔍 Project Workflow
-
-### 1. 📦 Import Libraries
-Pandas, NumPy, Matplotlib, Seaborn — with professional plot settings applied globally.
-
-### 2. 🗂️ Dataset Overview
-- 1,200+ e-commerce transactions
-- 13 columns: Order ID, Date, Category, Country, Price, Quantity, Revenue, Rating, etc.
-- Intentionally messy: nulls, duplicates, outliers, mixed formatting
-
-### 3. 🧹 Data Cleaning (6-Step Pipeline)
-
-| Step | Action | Detail |
-|------|--------|--------|
-| 1 | Remove Duplicates | 80 exact duplicate rows removed |
-| 2 | Fix Formatting | Mixed case → title-case, whitespace stripped |
-| 3 | Handle Nulls | Numeric → Median; Categorical → Mode |
-| 4 | Fix Invalid Values | Negative quantities corrected |
-| 5 | Treat Outliers | IQR Winsorization on price & revenue |
-| 6 | Schema Cleanup | snake_case columns, new time features added |
-
-### 4. 🔍 Exploratory Data Analysis
-- Value counts for all categorical columns
-- Correlation matrix analysis
-- Monthly & weekly revenue trends
-- Revenue grouped by Category, Country, Age Group
-- Order status anomaly detection
-
-### 5. 📊 Visualizations (10 Charts)
-
-| # | Chart Type | Insight |
-|---|-----------|---------|
-| 1 | Horizontal Bar | Revenue by product category |
-| 2 | Line + Fill | Monthly revenue trend with rolling average |
-| 3 | Histogram + KDE | Revenue distribution |
-| 4 | Scatter Plot | Unit price vs revenue by category |
-| 5 | Box Plot | Revenue spread & outliers per category |
-| 6 | Heatmap | Feature correlation matrix |
-| 7 | Donut + Bar | Payment method distribution |
-| 8 | Grouped Bar | Revenue by age group & order status |
-| 9 | Heatmap | Revenue by weekday × category |
-| 10 | Violin Plot | Customer rating distribution |
+**Visualizations (10 Charts)**
+- Revenue by category — horizontal bar chart
+- Monthly revenue trend — line chart with rolling average
+- Revenue distribution — histogram with KDE overlay
+- Price vs revenue — scatter plot by category
+- Revenue spread — box plot per category
+- Feature relationships — correlation heatmap
+- Payment method share — donut and bar chart
+- Revenue by age group and order status — grouped bar
+- Weekday × category revenue — heatmap
+- Customer rating distribution — violin plot
 
 ---
 
-## 💡 Key Business Insights
+## Key Findings
 
-- 🏆 **Electronics & Home & Garden** are the top revenue-generating categories
-- 👤 **Age group 26–35** spends the most on average
-- 💳 **Credit Card** is the most preferred payment method (30%+)
-- ❌ **~12% cancellation rate** — significant revenue leakage to address
-- ⭐ **65% of orders** have a rating of 4 or 5 — strong customer satisfaction
-- 📅 Revenue peaks **mid-week (Wed–Thu)** — best time for promotions
+- Electronics and Home & Garden drive the highest revenue
+- Customers aged 26–35 have the highest average spend
+- Credit Card is the most used payment method at 30%+
+- A 12% cancellation rate is causing significant revenue leakage
+- 65% of orders are rated 4 or 5 stars
+- Revenue consistently peaks on Wednesday and Thursday
 
 ---
 
-## 🚀 How to Run
+## Project Files
 
-### Option 1 — Jupyter Notebook (Local)
+| File | Description |
+|------|-------------|
+| `ecommerce_data_project.ipynb` | Main notebook with full analysis |
+| `ecommerce_raw.csv` | Original unprocessed dataset |
+| `ecommerce_cleaned.csv` | Final cleaned dataset |
+| `dashboard_summary.png` | 6-panel summary dashboard |
+| `plot_01` to `plot_10` | Individual chart exports |
+
+---
+
+## How to Run
+
 ```bash
-# Install dependencies
 pip install pandas numpy matplotlib seaborn jupyter
-
-# Launch notebook
 jupyter notebook ecommerce_data_project.ipynb
 ```
 
-### Option 2 — Google Colab (Online, No Install)
-1. Go to [colab.research.google.com](https://colab.research.google.com)
-2. File → Upload Notebook → select `ecommerce_data_project.ipynb`
-3. Runtime → Run All
+Or open directly in [Google Colab](https://colab.research.google.com) — File → Upload Notebook → Runtime → Run All
 
 ---
 
-## 📈 Future Improvements
+## Tech Stack
 
-- 🔮 Revenue forecasting using ARIMA / Prophet
-- 🤖 Customer segmentation using K-Means clustering
-- 🌐 Geospatial revenue map with GeoPandas
-- 📊 Interactive dashboard using Streamlit or Dash
-- 🎯 Churn prediction model using Logistic Regression
+Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
 ---
 
-## 👤 Author
+## Author
 
-SUJAY A
-📧 sujayanandhan2007@gmail.com 
-🔗 [LinkedIn](www.linkedin.com/in/sujay-anandhan-b338bb381) · [GitHub](https://github.com/sujayanandhan2007)
-
----
-
-
+**Sujay A**
+📧 sujayanandhan2007@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/sujay-anandhan-b338bb381) · [GitHub](https://github.com/sujayanandhan2007)
