@@ -136,10 +136,10 @@ jupyter notebook ecommerce_data_project.ipynb
 
 ## 👤 Author
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+SUJAY A
+📧 sujayanandhan2007@gmail.com 
+🔗 [LinkedIn](www.linkedin.com/in/sujay-anandhan-b338bb381) · [GitHub](https://github.com/sujayanandhan2007)
 
 ---
 
-*This project was developed as a data analysis portfolio project for internship and academic submission.*
+
